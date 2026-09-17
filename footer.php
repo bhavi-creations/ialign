@@ -26,8 +26,8 @@
                     <a href="index.php"
                        class="footer_logo">
 
-                        <img src="assets/img/footer-logo-dark.png"
-                             alt="IALIGN Signature Dental Care">
+                        <img src="assets/img/logo_new.png"
+                             alt="IALIGN Signature Dental Care" style="width: 200px; height: auto;">
 
                     </a>
 

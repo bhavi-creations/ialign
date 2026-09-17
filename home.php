@@ -2152,13 +2152,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-<!-- Bootstrap Icons -->
-<link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
-
 
 <!-- =========================================================
      INDEX SEVEN SECTION
@@ -2174,10 +2167,11 @@ document.addEventListener("DOMContentLoaded", function () {
             <!-- LOGO -->
             <div class="index_seven_section_logo">
 
-                <a href="index.php">
+                <a href="index.php" class="pb-2">
 
-                    <img src="assets/img/footer-logo.png"
-                         alt="IALIGN Signature Dental Care">
+                   <img src="assets/img/logo_new.png"
+                     alt="IALIGN Signature Dental Care" style="width:150px; height: 150px ">
+           
 
                 </a>
 

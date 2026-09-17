@@ -71,9 +71,9 @@
         <div class="navabr-main-inner">
 
             <!-- Logo -->
-            <a class="navbar-brand navabr-logo" href="index.php">
-                <img src="assets/img/logo.png"
-                     alt="IALIGN Signature Dental Care">
+            <a class="navbar-brand navabr-logo" href="home.php">
+                <img src="assets/img/logo_new.png"
+                     alt="IALIGN Signature Dental Care" style="width:90px; height: 90px">
             </a>
 
 
@@ -99,7 +99,7 @@
 
                     <li class="nav-item">
                         <a class="nav-link navabr-link active"
-                           href="index.php">
+                           href="home.php">
                             Home
                         </a>
                     </li>
@@ -150,7 +150,7 @@
 
 
                 <!-- Appointment -->
-                <!-- <div class="navabr-appointment-wrapper">
+                <div class="navabr-appointment-wrapper">
 
                     <a href="appointment.php"
                        class="navabr-appointment">
@@ -161,7 +161,7 @@
 
                     </a>
 
-                </div> -->
+                </div>
 
             </div>
 
