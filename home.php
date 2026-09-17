@@ -228,7 +228,7 @@
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/wisdom-teeth.png"
+                        <img src="assets/img/treatments/wisdom-teeth-4k-square.png"
                              alt="Wisdom Teeth Removal">
 
                     </div>
@@ -247,7 +247,7 @@
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/braces.png"
+                        <img src="assets/img/treatments/orthodontic-braces-square.png"
                              alt="Braces">
 
                     </div>
@@ -265,7 +265,7 @@
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/invisalign.png"
+                        <img src="assets/img/treatments/aligners-4k-square.png"
                              alt="Invisalign and Aligners">
 
                     </div>
@@ -284,7 +284,7 @@
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/dental-implants.png"
+                        <img src="assets/img/treatments/Dental-impalnts-square.png"
                              alt="Dental Implants">
 
                     </div>
@@ -303,7 +303,7 @@
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/root-canal.png"
+                        <img src="assets/img/treatments/Root-canal-square.png"
                              alt="Root Canal Treatment">
 
                     </div>
@@ -322,7 +322,7 @@
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/gbt.png"
+                        <img src="assets/img/treatments/GBT-teeth-cleaning.png"
                              alt="Advanced Teeth Cleaning GBT">
 
                     </div>
@@ -360,7 +360,7 @@
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/veneers-1.png"
+                        <img src="assets/img/treatments/Veneer-4k-square.png"
                              alt="Veneers">
 
                     </div>
@@ -372,31 +372,32 @@
                 </a>
 
 
-                <!-- 09 - VENEERS -->
-                <a href="veneers.php"
+                <!-- 09 - TMJ JOINT PAIN -->
+                <!-- <a href="tmj-joint-pain-treatment.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/veneers-2.png"
+                        <img src="assets/img/treatments/tmj-teeth-joint-square.png"
                              alt="Veneers">
 
                     </div>
 
                     <h3 class="index_second_section_card_title">
-                        Veneers
+                         TMJ Joint Pain<br>
+                        Treatment
                     </h3>
 
-                </a>
+                </a> -->
 
 
-                <!-- 10 - LASER GUM -->
+                <!-- 09 - LASER GUM -->
                 <a href="laser-gum-treatment.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/laser-gum-treatment.png"
+                        <img src="assets/img/treatments/Laser-gum-4k-square.png"
                              alt="Laser Gum Treatment">
 
                     </div>
@@ -409,13 +410,13 @@
                 </a>
 
 
-                <!-- 11 - TMJ -->
+                <!-- 10 - TMJ -->
                 <a href="tmj-joint-pain-treatment.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/tmj.png"
+                        <img src="assets/img/treatments/joint-pain-treatment.png"
                              alt="TMJ Joint Pain Treatment">
 
                     </div>

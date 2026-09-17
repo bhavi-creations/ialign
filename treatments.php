@@ -229,7 +229,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/wisdom-teeth-removal.jpg"
+                    <img src="assets/img/treatments/Wisdom-teeth-removal-hd-img.png"
                          alt="Wisdom Teeth Removal">
 
                 </div>
@@ -262,7 +262,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/braces.jpg"
+                    <img src="assets/img/treatments/orthodontic-braces-4k-hd.png"
                          alt="Braces">
 
                 </div>
@@ -295,7 +295,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/invisalign-aligners.jpg"
+                    <img src="assets/img/treatments/invisalign-aligner-4k.png"
                          alt="Invisalign and Aligners">
 
                 </div>
@@ -328,7 +328,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/dental-implants.jpg"
+                    <img src="assets/img/treatments/Dental-implants-teeth-img.png"
                          alt="Dental Implants">
 
                 </div>
@@ -361,7 +361,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/root-canal-treatment.jpg"
+                    <img src="assets/img/treatments/Root-canal-rectangle-img.png"
                          alt="Root Canal Treatment">
 
                 </div>
@@ -394,7 +394,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/advanced-teeth-cleaning.jpg"
+                    <img src="assets/img/treatments/GBT-teeth-cleaning-img.png"
                          alt="Advanced Teeth Cleaning GBT">
 
                 </div>
@@ -428,7 +428,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/smile-designing.jpg"
+                    <img src="assets/img/treatments/Smile-designing.png"
                          alt="Smile Designing">
 
                 </div>
@@ -461,7 +461,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/veneers.jpg"
+                    <img src="assets/img/treatments/Dental-veneers-img.png"
                          alt="Veneers">
 
                 </div>
@@ -494,7 +494,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/laser-gum-treatment.jpg"
+                    <img src="assets/img/treatments/Laser-gum-treatment-img.png"
                          alt="Laser Gum Treatment">
 
                 </div>
@@ -527,7 +527,7 @@
 
                 <div class="treatment_second_section_image">
 
-                    <img src="assets/img/treatments/tmj-joint-pain.jpg"
+                    <img src="assets/img/treatments/joint-pain-treatment.png"
                          alt="TMJ Joint Pain Treatment">
 
                 </div>
