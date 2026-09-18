@@ -626,6 +626,760 @@
 
 
 
+/* ==========================================================
+   IALIGN NAVBAR - FINAL RESPONSIVE ALIGNMENT OVERRIDE
+   HTML / PHP STRUCTURE CHANGE AVASARAM LEDU
+========================================================== */
+
+.navabr,
+.navabr * {
+    box-sizing: border-box;
+}
+
+
+/* ==========================================================
+   DESKTOP - 1600px AND ABOVE
+========================================================== */
+
+.navabr-topbar {
+    width: 100%;
+    height: 50px !important;
+    min-height: 50px !important;
+    background: #294e47;
+}
+
+.navabr-topbar-inner {
+    width: 100%;
+    height: 100%;
+
+    padding: 0 62px !important;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 25px;
+}
+
+.navabr-address {
+    min-width: 0;
+
+    display: flex;
+    align-items: center;
+
+    flex: 1 1 auto;
+
+    font-size: 13px !important;
+    font-weight: 400;
+    line-height: 1.3;
+
+    white-space: nowrap;
+}
+
+.navabr-address i {
+    flex: 0 0 auto;
+
+    font-size: 20px !important;
+
+    margin-right: 9px !important;
+}
+
+.navabr-address span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.navabr-top-right {
+    flex: 0 0 auto;
+
+    display: flex;
+    align-items: center;
+
+    margin-left: 0 !important;
+}
+
+.navabr-phone {
+    display: inline-flex;
+    align-items: center;
+
+    font-size: 14px !important;
+    font-weight: 500;
+
+    white-space: nowrap;
+}
+
+.navabr-phone i {
+    font-size: 18px !important;
+    margin-right: 7px !important;
+}
+
+.navabr-divider {
+    font-size: 17px !important;
+
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.navabr-socials {
+    display: flex;
+    align-items: center;
+
+    margin-left: 18px !important;
+
+    gap: 18px !important;
+}
+
+.navabr-socials a {
+    font-size: 17px !important;
+}
+
+
+/* ==========================================================
+   MAIN NAVBAR
+========================================================== */
+
+.navabr-main {
+    width: 100%;
+
+    height: 100px !important;
+    min-height: 100px !important;
+
+    padding: 0 !important;
+
+    background: #ffffff;
+}
+
+.navabr-main-inner {
+    width: 100%;
+
+    height: 100px !important;
+    min-height: 100px !important;
+
+    padding: 0 52px 0 62px !important;
+
+    display: flex;
+    align-items: center;
+
+    flex-wrap: nowrap;
+}
+
+
+/* LOGO */
+
+.navabr-logo {
+    flex: 0 0 auto;
+
+    padding: 0 !important;
+    margin: 0 !important;
+
+    display: flex;
+    align-items: center;
+}
+
+.navabr-logo img {
+    width: 250px !important;
+    height: 76px !important;
+
+    max-width: none !important;
+
+    display: block;
+
+    object-fit: contain;
+    object-position: left center;
+}
+
+
+/* NAVIGATION AREA */
+
+.navabr-collapse {
+    min-width: 0;
+
+    height: 100%;
+
+    margin-left: 72px !important;
+
+    display: flex;
+    align-items: center;
+}
+
+
+/* MENU */
+
+.navabr-menu {
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+
+    flex-wrap: nowrap;
+
+    gap: 34px !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.navabr-menu .nav-item {
+    height: 100%;
+
+    flex: 0 0 auto;
+
+    display: flex;
+    align-items: center;
+}
+
+.navabr-link {
+    position: relative;
+
+    height: 100%;
+
+    padding: 3px !important;
+
+    display: flex !important;
+    align-items: center;
+
+    font-size: 15px !important;
+    font-weight: 500;
+
+    white-space: nowrap;
+}
+
+.navabr-link.active::after {
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    right: 0;
+
+    bottom: 26px !important;
+
+    width: 100%;
+    height: 3px;
+
+    margin: auto;
+
+    background: #346e62;
+
+    border-radius: 2px;
+}
+
+
+/* APPOINTMENT */
+
+.navabr-appointment-wrapper {
+    flex: 0 0 auto;
+
+    margin-left: auto !important;
+
+    padding-left: 32px !important;
+
+    display: flex;
+    align-items: center;
+}
+
+.navabr-appointment {
+    width: 245px !important;
+    height: 54px !important;
+
+    padding: 0 20px;
+
+    border-radius: 28px !important;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 11px !important;
+
+    font-size: 15px !important;
+    font-weight: 500;
+
+    white-space: nowrap;
+}
+
+.navabr-appointment i {
+    font-size: 19px !important;
+}
+
+
+/* ==========================================================
+   1400px - 1599px
+========================================================== */
+
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+
+    .navabr-topbar {
+        height: 46px !important;
+        min-height: 46px !important;
+    }
+
+    .navabr-topbar-inner {
+        padding-left: 42px !important;
+        padding-right: 42px !important;
+    }
+
+    .navabr-address {
+        font-size: 11.5px !important;
+    }
+
+    .navabr-address i {
+        font-size: 18px !important;
+    }
+
+    .navabr-phone {
+        font-size: 12px !important;
+    }
+
+    .navabr-phone i {
+        font-size: 16px !important;
+    }
+
+    .navabr-socials {
+        gap: 14px !important;
+        margin-left: 14px !important;
+    }
+
+    .navabr-socials a {
+        font-size: 15px !important;
+    }
+
+
+    .navabr-main,
+    .navabr-main-inner {
+        height: 92px !important;
+        min-height: 92px !important;
+    }
+
+    .navabr-main-inner {
+        padding-left: 42px !important;
+        padding-right: 38px !important;
+    }
+
+    .navabr-logo img {
+        width: 220px !important;
+        height: 68px !important;
+    }
+
+    .navabr-collapse {
+        margin-left: 48px !important;
+    }
+
+    .navabr-menu {
+        gap: 24px !important;
+    }
+
+    .navabr-link {
+        font-size: 14.5px !important;
+    }
+
+    .navabr-link.active::after {
+        bottom: 23px !important;
+    }
+
+    .navabr-appointment-wrapper {
+        padding-left: 24px !important;
+    }
+
+    .navabr-appointment {
+        width: 210px !important;
+        height: 49px !important;
+
+        font-size: 13px !important;
+    }
+
+    .navabr-appointment i {
+        font-size: 17px !important;
+    }
+}
+
+
+/* ==========================================================
+   992px - 1199.98px
+   FULL NAVBAR - NO TOGGLE
+========================================================== */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* ================= TOP BAR ================= */
+
+    .navabr-topbar {
+        height: 40px !important;
+        min-height: 40px !important;
+    }
+
+    .navabr-topbar-inner {
+        width: 100%;
+        height: 40px !important;
+
+        padding-left: 14px !important;
+        padding-right: 14px !important;
+
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+
+        flex-wrap: nowrap !important;
+
+        gap: 8px !important;
+    }
+
+    .navabr-address {
+        flex: 1 1 auto !important;
+        min-width: 0 !important;
+
+        display: flex !important;
+        align-items: center !important;
+
+        font-size: 8.2px !important;
+        line-height: 1.1 !important;
+
+        white-space: nowrap !important;
+    }
+
+    .navabr-address i {
+        flex: 0 0 auto !important;
+
+        font-size: 12px !important;
+
+        margin-right: 4px !important;
+    }
+
+    .navabr-address span {
+        display: block;
+
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+        white-space: nowrap !important;
+    }
+
+
+    /* ================= TOP RIGHT ================= */
+
+    .navabr-top-right {
+        flex: 0 0 auto !important;
+
+        display: flex !important;
+        align-items: center !important;
+
+        margin-left: 5px !important;
+    }
+
+    .navabr-phone {
+        display: inline-flex !important;
+        align-items: center !important;
+
+        font-size: 8.5px !important;
+        line-height: 1 !important;
+
+        white-space: nowrap !important;
+    }
+
+    .navabr-phone i {
+        font-size: 11px !important;
+
+        margin-right: 3px !important;
+    }
+
+    .navabr-divider {
+        font-size: 11px !important;
+
+        margin-left: 4px !important;
+        margin-right: 4px !important;
+    }
+
+    .navabr-socials {
+        display: flex !important;
+        align-items: center !important;
+
+        margin-left: 6px !important;
+
+        gap: 7px !important;
+    }
+
+    .navabr-socials a {
+        font-size: 11px !important;
+    }
+
+
+    /* ======================================================
+       MAIN NAVBAR
+    ====================================================== */
+
+    .navabr-main {
+        width: 100% !important;
+
+        height: 76px !important;
+        min-height: 76px !important;
+
+        padding: 0 !important;
+    }
+
+    .navabr-main-inner {
+        width: 100% !important;
+
+        height: 76px !important;
+        min-height: 76px !important;
+
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+
+        display: flex !important;
+        align-items: center !important;
+
+        flex-wrap: nowrap !important;
+    }
+
+
+    /* ======================================================
+       LOGO
+    ====================================================== */
+
+    .navabr-logo {
+        flex: 0 0 auto !important;
+
+        padding: 0 !important;
+        margin: 0 !important;
+
+        display: flex !important;
+        align-items: center !important;
+    }
+
+    .navabr-logo img {
+        width: 135px !important;
+        height: 54px !important;
+
+        max-width: none !important;
+
+        object-fit: contain !important;
+        object-position: left center !important;
+    }
+
+
+    /* ======================================================
+       REMOVE TOGGLE
+    ====================================================== */
+
+    .navabr-toggler {
+        display: none !important;
+    }
+
+
+    /* ======================================================
+       FORCE COLLAPSE OPEN
+    ====================================================== */
+
+    .navabr-collapse {
+        display: flex !important;
+
+        flex-grow: 1 !important;
+        flex-basis: auto !important;
+
+        width: auto !important;
+        height: 100% !important;
+
+        min-width: 0 !important;
+
+        align-items: center !important;
+
+        margin-left: 12px !important;
+
+        padding: 0 !important;
+
+        background: transparent !important;
+    }
+
+
+    /* ======================================================
+       MENU
+    ====================================================== */
+
+    .navabr-menu {
+        width: auto !important;
+        height: 100% !important;
+
+        display: flex !important;
+
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+
+        align-items: center !important;
+
+        gap: 8px !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .navabr-menu .nav-item {
+        width: auto !important;
+        height: 100% !important;
+
+        flex: 0 0 auto !important;
+
+        display: flex !important;
+        align-items: center !important;
+    }
+
+    .navabr-link {
+        position: relative !important;
+
+        width: auto !important;
+        height: 100% !important;
+
+        display: flex !important;
+        align-items: center !important;
+
+        padding: 8px !important;
+
+        border: none !important;
+
+        font-size: 11.5px !important;
+        font-weight: 500 !important;
+
+        line-height: 1 !important;
+
+        white-space: nowrap !important;
+    }
+
+
+    /* ================= ACTIVE UNDERLINE ================= */
+
+    .navabr-link.active::after {
+        content: "";
+
+        position: absolute !important;
+
+        left: 0 !important;
+        right: 0 !important;
+
+        bottom: 18px !important;
+
+        width: 100% !important;
+        height: 2px !important;
+
+        margin: auto !important;
+
+        background: #346e62 !important;
+
+        border-radius: 2px !important;
+    }
+
+
+    /* ======================================================
+       APPOINTMENT BUTTON
+    ====================================================== */
+
+    .navabr-appointment-wrapper {
+        flex: 0 0 auto !important;
+
+        width: auto !important;
+
+        margin-left: auto !important;
+
+        padding-left: 9px !important;
+        padding-top: 0 !important;
+    }
+
+    .navabr-appointment {
+        width: 135px !important;
+        height: 40px !important;
+
+        padding-left: 8px !important;
+        padding-right: 8px !important;
+
+        border-radius: 22px !important;
+
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        gap: 5px !important;
+
+        font-size: 9px !important;
+        font-weight: 500 !important;
+
+        white-space: nowrap !important;
+    }
+
+    .navabr-appointment i {
+        font-size: 12px !important;
+    }
+}
+
+
+/* ==========================================================
+   1100px - 1199px
+   MORE SPACE AVAILABLE
+========================================================== */
+
+@media (min-width: 1100px) and (max-width: 1199.98px) {
+
+    .navabr-main-inner {
+        padding-left: 18px !important;
+        padding-right: 18px !important;
+    }
+
+    .navabr-logo img {
+        width: 150px !important;
+        height: 56px !important;
+    }
+
+    .navabr-collapse {
+        margin-left: 16px !important;
+    }
+
+    .navabr-menu {
+        gap: 10px !important;
+    }
+
+    .navabr-link {
+        font-size: 10px !important;
+    }
+
+    .navabr-appointment-wrapper {
+        padding-left: 11px !important;
+    }
+
+    .navabr-appointment {
+        width: 145px !important;
+        height: 41px !important;
+
+        font-size: 9.5px !important;
+    }
+}
+
+
+/* ==========================================================
+   1160px - 1199px
+   LITTLE MORE COMFORTABLE SPACING
+========================================================== */
+
+@media (min-width: 1160px) and (max-width: 1199.98px) {
+
+    .navabr-logo img {
+        width: 158px !important;
+    }
+
+    .navabr-collapse {
+        margin-left: 18px !important;
+    }
+
+    .navabr-menu {
+        gap: 11px !important;
+    }
+
+    .navabr-link {
+        font-size: 10.3px !important;
+    }
+
+    .navabr-appointment {
+        width: 152px !important;
+
+        font-size: 10px !important;
+    }
+}
+
 
 
 

@@ -98,7 +98,7 @@
                 <ul class="navbar-nav navabr-menu">
 
                     <li class="nav-item">
-                        <a class="nav-link navabr-link active"
+                        <a class="nav-link navabr-link"
                            href="home.php">
                             Home
                         </a>
