@@ -22112,6 +22112,8 @@
 .invisalign_first_section_video_btn {
     padding: 0;
 
+    text-decoration: none;
+
     display: flex;
     align-items: center;
 
