@@ -132,18 +132,18 @@
 
                 <div class="index_first_section_image_wrapper">
 
-                    <img src="assets/img/1.jpeg"
+                    <img src="assets/img/home-bg-img.png"
                          alt="Confident Smile"
                          class="index_first_section_image">
 
 
                     <!-- Handwritten text -->
-                    <div class="index_first_section_handwriting">
+                    <!-- <div class="index_first_section_handwriting">
                         <span>A</span>
                         <span>Healthier</span>
                         <span>Happier</span>
                         <span>You <i class="bi bi-heart"></i></span>
-                    </div>
+                    </div> -->
 
 
                     <!-- Bottom Card -->
@@ -1363,7 +1363,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-1-before.jpg"
+                            <img src="assets/img/treatments/Wisodm-teeth-before-img.png"
                                  alt="Before Treatment">
 
                             <span>
@@ -1375,7 +1375,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-1-after.jpg"
+                            <img src="assets/img/treatments/Wisodm-teeth-after-img.png"
                                  alt="After Treatment">
 
                             <span>
@@ -1393,7 +1393,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-2-before.jpg"
+                            <img src="assets/img/treatments/dental-implants-before-img.png"
                                  alt="Before Treatment">
 
                             <span>
@@ -1405,7 +1405,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-2-after.jpg"
+                            <img src="assets/img/treatments/dental-implants-after-img.png"
                                  alt="After Treatment">
 
                             <span>
@@ -1423,7 +1423,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-3-before.jpg"
+                            <img src="assets/img/treatments/invisalign-before-img.png"
                                  alt="Before Treatment">
 
                             <span>
@@ -1435,7 +1435,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-3-after.jpg"
+                            <img src="assets/img/treatments/invisalign-after-img.png"
                                  alt="After Treatment">
 
                             <span>
@@ -1453,7 +1453,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-4-before.jpg"
+                            <img src="assets/img/treatments/before-braces-img.png"
                                  alt="Before Treatment">
 
                             <span>
@@ -1465,7 +1465,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-4-after.jpg"
+                            <img src="assets/img/treatments/after-braces-img.png"
                                  alt="After Treatment">
 
                             <span>
@@ -1483,7 +1483,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-5-before.jpg"
+                            <img src="assets/img/treatments/Root-canal-bef-img.png"
                                  alt="Before Treatment">
 
                             <span>
@@ -1495,7 +1495,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_fifth_section_image">
 
-                            <img src="assets/img/smile/case-5-after.jpg"
+                            <img src="assets/img/treatments/Root-canal-aft-img.png"
                                  alt="After Treatment">
 
                             <span>
