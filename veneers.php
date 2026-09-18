@@ -83,7 +83,7 @@
 
                 <div class="col-lg-7 invisalign_first_section_right">
                     <div class="invisalign_first_section_image_wrapper">
-                        <img src="assets/img/treatments/Dental-veneers-img.png"
+                        <img src="assets/img/treatments/dental_venner_1.png"
                              alt="Custom dental veneer treatment"
                              class="invisalign_first_section_image">
 
@@ -134,7 +134,7 @@
 
                 <div class="col-lg-6 invisalign_second_section_right">
                     <div class="invisalign_second_section_image_wrapper">
-                        <img src="assets/img/treatments/Veneer-4k-square.png"
+                        <img src="assets/img/treatments/dental_venner_2.png"
                              alt="Dental veneers for visible teeth"
                              class="invisalign_second_section_image"
                              loading="lazy">
@@ -284,7 +284,7 @@
 
                 <div class="col-lg-4 invisalign_forth_section_right">
                     <div class="invisalign_forth_section_image_wrapper">
-                        <img src="assets/img/treatments/Veneer-4k-square.png"
+                        <img src="assets/img/treatments/venners_sq_1.png"
                              alt="Dental veneers for visible teeth"
                              class="invisalign_forth_section_image"
                              loading="lazy">
@@ -327,7 +327,7 @@
                             <img src="assets/img/treatments/Dental-veneers-img.png"
                                  alt="Custom dental veneer treatment"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label before">Treatment Focus</span>
+                            <!-- <span class="invisalign_fifth_section_label before">Treatment Focus</span> -->
                         </div>
 
                         <div class="invisalign_fifth_section_center_arrow" aria-hidden="true">
@@ -338,7 +338,7 @@
                             <img src="assets/img/treatments/Veneer-4k-square.png"
                                  alt="Dental veneers for visible teeth"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label after">Personalised Care</span>
+                            <!-- <span class="invisalign_fifth_section_label after">Personalised Care</span> -->
                         </div>
                     </div>
                 </div>

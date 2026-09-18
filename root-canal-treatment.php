@@ -83,7 +83,7 @@
 
                 <div class="col-lg-7 invisalign_first_section_right">
                     <div class="invisalign_first_section_image_wrapper">
-                        <img src="assets/img/treatments/Root-canal-rectangle-img.png"
+                        <img src="assets/img/treatments/root-canal-rec-1.png"
                              alt="Root canal treatment for an infected tooth"
                              class="invisalign_first_section_image">
 
@@ -134,7 +134,7 @@
 
                 <div class="col-lg-6 invisalign_second_section_right">
                     <div class="invisalign_second_section_image_wrapper">
-                        <img src="assets/img/treatments/Root-canal-square.png"
+                        <img src="assets/img/treatments/root-canal-rec.png"
                              alt="Root canal therapy illustration"
                              class="invisalign_second_section_image"
                              loading="lazy">
@@ -284,7 +284,7 @@
 
                 <div class="col-lg-4 invisalign_forth_section_right">
                     <div class="invisalign_forth_section_image_wrapper">
-                        <img src="assets/img/treatments/Root-canal-square.png"
+                        <img src="assets/img/treatments/root-cnal-square.png"
                              alt="Root canal therapy illustration"
                              class="invisalign_forth_section_image"
                              loading="lazy">
@@ -324,10 +324,10 @@
                 <div class="col-xl-6 col-lg-5">
                     <div class="invisalign_fifth_section_before_after">
                         <div class="invisalign_fifth_section_photo">
-                            <img src="assets/img/treatments/Root-canal-rectangle-img.png"
+                            <img src="assets/img/treatments/Root-canal-bef-img.png"
                                  alt="Root canal treatment for an infected tooth"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label before">Treatment Focus</span>
+                            <span class="invisalign_fifth_section_label before">Before</span>
                         </div>
 
                         <div class="invisalign_fifth_section_center_arrow" aria-hidden="true">
@@ -335,10 +335,10 @@
                         </div>
 
                         <div class="invisalign_fifth_section_photo">
-                            <img src="assets/img/treatments/Root-canal-square.png"
+                            <img src="assets/img/treatments/Root-canal-aft-img.png"
                                  alt="Root canal therapy illustration"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label after">Personalised Care</span>
+                            <span class="invisalign_fifth_section_label after">After</span>
                         </div>
                     </div>
                 </div>

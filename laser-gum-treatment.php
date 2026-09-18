@@ -83,7 +83,7 @@
 
                 <div class="col-lg-7 invisalign_first_section_right">
                     <div class="invisalign_first_section_image_wrapper">
-                        <img src="assets/img/treatments/Laser-gum-treatment-img.png"
+                        <img src="assets/img/treatments/laser_gum_treatment_1.png"
                              alt="Laser-assisted gum treatment"
                              class="invisalign_first_section_image">
 
@@ -134,7 +134,7 @@
 
                 <div class="col-lg-6 invisalign_second_section_right">
                     <div class="invisalign_second_section_image_wrapper">
-                        <img src="assets/img/treatments/Laser-gum-4k-square.png"
+                        <img src="assets/img/treatments/laser_gum_treatment_2.png"
                              alt="Professional periodontal laser care"
                              class="invisalign_second_section_image"
                              loading="lazy">
@@ -284,7 +284,7 @@
 
                 <div class="col-lg-4 invisalign_forth_section_right">
                     <div class="invisalign_forth_section_image_wrapper">
-                        <img src="assets/img/treatments/Laser-gum-4k-square.png"
+                        <img src="assets/img/treatments/gun_treatmnet_sq_1.png"
                              alt="Professional periodontal laser care"
                              class="invisalign_forth_section_image"
                              loading="lazy">
@@ -327,7 +327,7 @@
                             <img src="assets/img/treatments/Laser-gum-treatment-img.png"
                                  alt="Laser-assisted gum treatment"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label before">Treatment Focus</span>
+                            <!-- <span class="invisalign_fifth_section_label before">Treatment Focus</span> -->
                         </div>
 
                         <div class="invisalign_fifth_section_center_arrow" aria-hidden="true">
@@ -338,7 +338,7 @@
                             <img src="assets/img/treatments/Laser-gum-4k-square.png"
                                  alt="Professional periodontal laser care"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label after">Personalised Care</span>
+                            <!-- <span class="invisalign_fifth_section_label after">Personalised Care</span> -->
                         </div>
                     </div>
                 </div>

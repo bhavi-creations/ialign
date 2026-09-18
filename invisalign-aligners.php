@@ -170,7 +170,7 @@
 
                 <div class="invisalign_first_section_image_wrapper">
 
-                    <img src="assets/img/invisalign/invisalign-first.jpg"
+                    <img src="assets/img/treatments/aligners-rec-1.png"
                          alt="Invisalign Clear Aligners"
                          class="invisalign_first_section_image">
 
@@ -278,7 +278,7 @@
 
                 <div class="invisalign_second_section_image_wrapper">
 
-                    <img src="assets/img/invisalign/invisalign-second.jpg"
+                    <img src="assets/img/treatments/aligners-rec.png"
                          alt="Clear Invisalign Aligners"
                          class="invisalign_second_section_image">
 
@@ -645,7 +645,7 @@
 
                 <div class="invisalign_forth_section_image_wrapper">
 
-                    <img src="assets/img/invisalign/invisalign-journey-case.jpg"
+                    <img src="assets/img/treatments/aligners-squa.png"
                          alt="Invisalign Clear Aligner Case"
                          class="invisalign_forth_section_image">
 
@@ -730,7 +730,7 @@
                     <!-- BEFORE -->
                     <div class="invisalign_fifth_section_photo">
 
-                        <img src="assets/img/invisalign/invisalign-before.jpg"
+                        <img src="assets/img/treatments/invisalign-before-img.png"
                              alt="Before Invisalign">
 
                         <span class="invisalign_fifth_section_label before">
@@ -749,7 +749,7 @@
                     <!-- AFTER -->
                     <div class="invisalign_fifth_section_photo">
 
-                        <img src="assets/img/invisalign/invisalign-after.jpg"
+                        <img src="assets/img/treatments/invisalign-after-img.png"
                              alt="After Invisalign">
 
                         <span class="invisalign_fifth_section_label after">

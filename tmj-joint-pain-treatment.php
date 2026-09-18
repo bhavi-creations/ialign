@@ -327,7 +327,7 @@
                             <img src="assets/img/treatments/joint-pain-treatment.png"
                                  alt="TMJ and jaw pain assessment"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label before">Treatment Focus</span>
+                            <!-- <span class="invisalign_fifth_section_label before">Treatment Focus</span> -->
                         </div>
 
                         <div class="invisalign_fifth_section_center_arrow" aria-hidden="true">
@@ -338,7 +338,7 @@
                             <img src="assets/img/treatments/tmj-teeth-joint-square.png"
                                  alt="Temporomandibular joint evaluation"
                                  loading="lazy">
-                            <span class="invisalign_fifth_section_label after">Personalised Care</span>
+                            <!-- <span class="invisalign_fifth_section_label after">Personalised Care</span> -->
                         </div>
                     </div>
                 </div>
