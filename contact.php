@@ -112,7 +112,7 @@
 
                 <div class="contact_first_section_image_wrapper">
 
-                    <img src="assets/img/contact/contact-first-clinic.jpg"
+                    <img src="assets/img/11.png"
                          alt="IALIGN Signature Dental Care Reception"
                          class="contact_first_section_image">
 
@@ -157,6 +157,7 @@
                  LEFT SIDE
             ====================================================== -->
             <div class="col-xl-6 col-lg-6">
+               
 
                 <div class="contact_second_section_left">
 
@@ -164,12 +165,12 @@
                     <!-- ================= MAP ================= -->
                     <div class="contact_second_section_map">
 
-                        <img src="assets/img/contact/contact-map.jpg"
-                             alt="IALIGN Signature Dental Care Location">
+                        <img src="assets/img/contact.png"
+                             alt="IALIGN Signature Dental Care Location" class="img-fluid" >
 
 
                         <!-- MAP LOCATION CARD -->
-                        <div class="contact_second_section_map_location">
+                        <!-- <div class="contact_second_section_map_location">
 
                             <span class="contact_second_section_map_pin">
                                 <i class="bi bi-geo-alt-fill"></i>
@@ -180,11 +181,11 @@
                                 <span>Signature Dental Care</span>
                             </div>
 
-                        </div>
+                        </div> -->
 
 
                         <!-- GET DIRECTIONS -->
-                        <a href="#"
+                        <a href="https://maps.app.goo.gl/gG6Gdt4gjEKt639m8" target="_blank"
                            class="contact_second_section_direction">
 
                             <i class="bi bi-geo-alt-fill"></i>
@@ -201,10 +202,10 @@
                     <!-- ================= CLINIC IMAGE ================= -->
                     <div class="contact_second_section_clinic">
 
-                        <img src="assets/img/contact/contact-clinic.jpg"
-                             alt="IALIGN Signature Dental Care Clinic">
+                        <!-- <img src="assets/img/service_1.png"
+                             alt="IALIGN Signature Dental Care Clinic"> -->
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.6313303923557!2d77.6277039!3d12.931400499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15001d4d117d%3A0x8a1c1fb3c34427bc!2sIALiGN%20Signature%20Dental%20Care!5e0!3m2!1sen!2sin!4v1789724805686!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
                         <div class="contact_second_section_clinic_card">
 
                             <div class="contact_second_section_clinic_icon">
@@ -398,7 +399,7 @@
 
                             <div class="contact_second_section_visual">
 
-                                <img src="assets/img/contact/contact-tooth.jpg"
+                                <img src="assets/img/111.png"
                                      alt="Dental Care">
 
 
