@@ -6,7 +6,7 @@
     <div class="index_first_section_shape index_first_section_shape_left"></div>
     <div class="index_first_section_shape index_first_section_shape_top"></div>
 
-    <div class="container-fluid index_first_section_container">
+    <div class="container index_first_section_container">
 
         <div class="row g-0 index_first_section_row">
 
@@ -186,7 +186,7 @@
 
 <section class="index_second_section">
 
-    <div class="container-fluid index_second_section_container">
+    <div class="container index_second_section_container">
 
         <!-- ================= HEADER ================= -->
         <div class="index_second_section_header">
@@ -1005,7 +1005,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <section class="index_third_section">
 
-    <div class="container-fluid index_third_section_container">
+    <div class="container index_third_section_container">
 
         <div class="row g-0 index_third_section_row">
 
@@ -1159,7 +1159,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <section class="index_fourth_section">
 
-    <div class="container-fluid index_fourth_section_container">
+    <div class="container index_fourth_section_container">
 
         <div class="row g-0 index_fourth_section_row">
 
@@ -1306,7 +1306,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <section class="index_fifth_section">
 
-    <div class="container-fluid index_fifth_section_container">
+    <div class="container index_fifth_section_container">
 
 
         <!-- HEADER -->
@@ -1537,7 +1537,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <section class="index_sixth_section">
 
-    <div class="container-fluid index_sixth_section_container">
+    <div class="container index_sixth_section_container">
 
 
         <!-- HEADING -->
@@ -2160,7 +2160,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <section class="index_seven_section">
 
-    <div class="container-fluid index_seven_section_container">
+    <div class="container index_seven_section_container">
 
         <div class="index_seven_section_inner">
 
@@ -2240,7 +2240,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <section class="index_eight_section">
 
-    <div class="container-fluid index_eight_section_container">
+    <div class="container index_eight_section_container">
 
         <div class="index_eight_section_inner">
 

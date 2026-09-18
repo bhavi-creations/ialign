@@ -150,7 +150,7 @@
 
 
                 <!-- Appointment -->
-                <div class="navabr-appointment-wrapper">
+                <div class="navabr-appointment-wrapper ">
 
                     <a href="appointment.php"
                        class="navabr-appointment">
