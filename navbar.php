@@ -73,7 +73,7 @@
             <!-- Logo -->
             <a class="navbar-brand navabr-logo" href="home.php">
                 <img src="assets/img/logo_new.png"
-                     alt="IALIGN Signature Dental Care" style="width:90px; height: 90px">
+                     alt="IALIGN Signature Dental Care">
             </a>
 
 
