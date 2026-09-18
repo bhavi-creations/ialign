@@ -18494,3 +18494,6317 @@
 
 
 
+
+
+
+/* =========================================================
+   CONTACT FIRST SECTION
+========================================================= */
+
+.contact_first_section {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    background: #f5f6f3;
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+/* =========================================================
+   CONTAINER
+========================================================= */
+
+.contact_first_section_container {
+    width: 100%;
+    padding: 0;
+}
+
+
+.contact_first_section_row {
+    min-height: 440px;
+}
+
+
+/* =========================================================
+   LEFT AREA
+========================================================= */
+
+.contact_first_section_left {
+    position: relative;
+
+    min-height: 440px;
+
+    display: flex;
+    align-items: center;
+
+    overflow: hidden;
+
+    z-index: 4;
+
+    background:
+        linear-gradient(
+            90deg,
+            #f4f6f3 0%,
+            #f7f8f5 78%,
+            #f2f5f2 100%
+        );
+}
+
+
+/* =========================================================
+   LEFT CONTENT
+========================================================= */
+
+.contact_first_section_content {
+    width: 100%;
+
+    position: relative;
+
+    z-index: 5;
+
+    padding:
+        35px
+        35px
+        35px
+        95px;
+}
+
+
+/* =========================================================
+   EYEBROW
+========================================================= */
+
+.contact_first_section_eyebrow {
+    margin-bottom: 15px;
+
+    color: #516d65;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    line-height: 1.3;
+
+    letter-spacing: 8px;
+}
+
+
+/* =========================================================
+   TITLE
+========================================================= */
+
+.contact_first_section_title {
+    margin: 0;
+
+    color: #103f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 64px;
+    font-weight: 600;
+
+    line-height: 1.02;
+
+    letter-spacing: -1.8px;
+}
+
+
+/* =========================================================
+   DESCRIPTION
+========================================================= */
+
+.contact_first_section_description {
+    max-width: 610px;
+
+    margin: 20px 0 0;
+
+    color: #3e4d48;
+
+    font-size: 18px;
+    font-weight: 500;
+
+    line-height: 1.5;
+}
+
+
+/* =========================================================
+   FEATURES
+========================================================= */
+
+.contact_first_section_features {
+    width: 100%;
+    max-width: 620px;
+
+    margin-top: 38px;
+
+    display: grid;
+
+    grid-template-columns:
+        1fr
+        1px
+        1fr
+        1px
+        1.15fr;
+
+    align-items: center;
+}
+
+
+/* =========================================================
+   FEATURE
+========================================================= */
+
+.contact_first_section_feature {
+    display: flex;
+    align-items: center;
+
+    gap: 15px;
+
+    padding: 0 18px;
+}
+
+
+.contact_first_section_feature:first-child {
+    padding-left: 0;
+}
+
+
+/* =========================================================
+   FEATURE ICON
+========================================================= */
+
+.contact_first_section_feature_icon {
+    width: 55px;
+    min-width: 55px;
+    height: 55px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #294f47;
+
+    font-size: 45px;
+
+    line-height: 1;
+}
+
+
+/* =========================================================
+   FEATURE TEXT
+========================================================= */
+
+.contact_first_section_feature_text {
+    display: flex;
+    flex-direction: column;
+
+    color: #33423d;
+}
+
+
+.contact_first_section_feature_text strong {
+    font-size: 15px;
+    font-weight: 700;
+
+    line-height: 1.25;
+}
+
+
+.contact_first_section_feature_text span {
+    margin-top: 2px;
+
+    font-size: 15px;
+    font-weight: 500;
+
+    line-height: 1.25;
+}
+
+
+/* =========================================================
+   DIVIDER
+========================================================= */
+
+.contact_first_section_feature_divider {
+    width: 1px;
+    height: 55px;
+
+    background:
+        rgba(87,107,100,0.15);
+}
+
+
+/* =========================================================
+   LEFT DECORATIVE CURVE
+========================================================= */
+
+.contact_first_section_curve {
+    position: absolute;
+
+    z-index: 2;
+
+    left: -165px;
+    bottom: -145px;
+
+    width: 275px;
+    height: 520px;
+
+    border-radius: 50%;
+
+    background:
+        rgba(201,213,208,0.58);
+
+    transform: rotate(-12deg);
+
+    pointer-events: none;
+}
+
+
+.contact_first_section_curve::after {
+    content: "";
+
+    position: absolute;
+
+    right: 38px;
+    top: 18px;
+
+    width: 150px;
+    height: 475px;
+
+    border-radius: 50%;
+
+    border-right:
+        1px solid rgba(128,150,143,0.27);
+}
+
+
+/* =========================================================
+   RIGHT AREA
+========================================================= */
+
+.contact_first_section_right {
+    position: relative;
+
+    min-height: 440px;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   IMAGE WRAPPER
+========================================================= */
+
+.contact_first_section_image_wrapper {
+    position: absolute;
+
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+
+    background: #e5e8e4;
+}
+
+
+/* =========================================================
+   IMAGE
+========================================================= */
+
+.contact_first_section_image {
+    position: absolute;
+
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+
+}
+
+
+/* =========================================================
+   LEFT IMAGE FADE
+========================================================= */
+
+.contact_first_section_image_wrapper::before {
+    content: "";
+
+    position: absolute;
+
+    z-index: 3;
+
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+    width: 150px;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(243,246,242,0.92) 0%,
+            rgba(241,244,240,0.60) 45%,
+            rgba(241,244,240,0) 100%
+        );
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   HANDWRITTEN TEXT
+========================================================= */
+
+.contact_first_section_handwriting {
+    position: absolute;
+
+    z-index: 5;
+
+    right: 7%;
+    top: 23%;
+
+    width: 165px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    color: rgba(46,72,65,0.78);
+
+    font-family: "Caveat", cursive;
+
+    font-size: 34px;
+    font-weight: 500;
+
+    line-height: 0.95;
+
+    text-align: center;
+
+    transform: rotate(-7deg);
+}
+
+
+.contact_first_section_handwriting > span:nth-child(1) {
+    transform: translateX(-12px);
+}
+
+
+.contact_first_section_handwriting > span:nth-child(2) {
+    margin-top: 7px;
+
+    transform: translateX(2px);
+}
+
+
+.contact_first_section_handwriting > span:nth-child(3) {
+    margin-top: 7px;
+
+    transform: translateX(8px);
+}
+
+
+.contact_first_section_handwriting_last {
+    margin-top: 7px;
+
+    display: flex;
+    align-items: center;
+
+    transform: translateX(15px);
+}
+
+
+.contact_first_section_handwriting_last i {
+    margin-left: 8px;
+
+    font-size: 25px;
+}
+
+
+/* =========================================================
+   LARGE DESKTOP
+========================================================= */
+
+@media (min-width: 1600px) {
+
+    .contact_first_section_row,
+    .contact_first_section_left,
+    .contact_first_section_right {
+        min-height: 470px;
+    }
+
+
+    .contact_first_section_content {
+        padding-left: 105px;
+    }
+
+
+    .contact_first_section_title {
+        font-size: 69px;
+    }
+
+
+    .contact_first_section_description {
+        font-size: 19px;
+    }
+
+
+    .contact_first_section_feature_text strong,
+    .contact_first_section_feature_text span {
+        font-size: 16px;
+    }
+
+
+    .contact_first_section_handwriting {
+        font-size: 37px;
+    }
+
+}
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media (max-width: 1399.98px) {
+
+    .contact_first_section_row,
+    .contact_first_section_left,
+    .contact_first_section_right {
+        min-height: 410px;
+    }
+
+
+    .contact_first_section_content {
+        padding-left: 65px;
+        padding-right: 25px;
+    }
+
+
+    .contact_first_section_eyebrow {
+        font-size: 12px;
+
+        letter-spacing: 6px;
+    }
+
+
+    .contact_first_section_title {
+        font-size: 55px;
+    }
+
+
+    .contact_first_section_description {
+        font-size: 15px;
+    }
+
+
+    .contact_first_section_features {
+        margin-top: 30px;
+    }
+
+
+    .contact_first_section_feature {
+        gap: 11px;
+
+        padding: 0 12px;
+    }
+
+
+    .contact_first_section_feature_icon {
+        width: 46px;
+        min-width: 46px;
+        height: 46px;
+
+        font-size: 38px;
+    }
+
+
+    .contact_first_section_feature_text strong,
+    .contact_first_section_feature_text span {
+        font-size: 12px;
+    }
+
+
+    .contact_first_section_handwriting {
+        font-size: 29px;
+    }
+
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1199.98px) {
+
+    .contact_first_section_content {
+        padding-left: 42px;
+        padding-right: 20px;
+    }
+
+
+    .contact_first_section_title {
+        font-size: 47px;
+    }
+
+
+    .contact_first_section_description {
+        font-size: 14px;
+    }
+
+
+    .contact_first_section_features {
+        max-width: 520px;
+    }
+
+
+    .contact_first_section_feature {
+        padding: 0 8px;
+    }
+
+
+    .contact_first_section_feature_icon {
+        width: 40px;
+        min-width: 40px;
+
+        font-size: 33px;
+    }
+
+
+    .contact_first_section_feature_text strong,
+    .contact_first_section_feature_text span {
+        font-size: 11px;
+    }
+
+
+    .contact_first_section_handwriting {
+        right: 5%;
+
+        font-size: 26px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    .contact_first_section_row {
+        min-height: auto;
+    }
+
+
+    .contact_first_section_left {
+        min-height: auto;
+
+        padding: 60px 0 50px;
+    }
+
+
+    .contact_first_section_content {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+
+    .contact_first_section_title {
+        font-size: 60px;
+    }
+
+
+    .contact_first_section_description {
+        font-size: 16px;
+    }
+
+
+    .contact_first_section_features {
+        max-width: 680px;
+    }
+
+
+    .contact_first_section_feature_icon {
+        width: 50px;
+        min-width: 50px;
+
+        font-size: 40px;
+    }
+
+
+    .contact_first_section_feature_text strong,
+    .contact_first_section_feature_text span {
+        font-size: 13px;
+    }
+
+
+    .contact_first_section_right {
+        min-height: 520px;
+    }
+
+
+    .contact_first_section_handwriting {
+        right: 8%;
+        top: 18%;
+
+        font-size: 34px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 767.98px) {
+
+    .contact_first_section_left {
+        padding: 48px 0 42px;
+    }
+
+
+    .contact_first_section_content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+
+    .contact_first_section_eyebrow {
+        margin-bottom: 12px;
+
+        font-size: 9px;
+
+        letter-spacing: 4px;
+    }
+
+
+    .contact_first_section_title {
+        font-size: 44px;
+
+        line-height: 1.05;
+    }
+
+
+    .contact_first_section_description {
+        margin-top: 20px;
+
+        font-size: 14px;
+
+        line-height: 1.55;
+    }
+
+
+    .contact_first_section_description br {
+        display: none;
+    }
+
+
+    /* Features vertical */
+
+    .contact_first_section_features {
+        margin-top: 32px;
+
+        grid-template-columns: 1fr;
+    }
+
+
+    .contact_first_section_feature {
+        min-height: 75px;
+
+        padding: 12px 0;
+
+        gap: 17px;
+
+        border-bottom:
+            1px solid rgba(87,107,100,0.12);
+    }
+
+
+    .contact_first_section_feature:last-child {
+        border-bottom: 0;
+    }
+
+
+    .contact_first_section_feature_divider {
+        display: none;
+    }
+
+
+    .contact_first_section_feature_icon {
+        width: 48px;
+        min-width: 48px;
+        height: 48px;
+
+        font-size: 39px;
+    }
+
+
+    .contact_first_section_feature_text strong,
+    .contact_first_section_feature_text span {
+        font-size: 13px;
+    }
+
+
+    .contact_first_section_right {
+        min-height: 420px;
+    }
+
+
+    .contact_first_section_image {
+        object-position: 60% center;
+    }
+
+
+    .contact_first_section_image_wrapper::before {
+        width: 70px;
+    }
+
+
+    .contact_first_section_handwriting {
+        right: 18px;
+        top: 30px;
+
+        width: 135px;
+
+        padding: 10px;
+
+        font-size: 25px;
+
+        background:
+            rgba(247,248,245,0.62);
+
+        backdrop-filter: blur(3px);
+
+        border-radius: 12px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .contact_first_section_title {
+        font-size: 38px;
+    }
+
+
+    .contact_first_section_description {
+        font-size: 13px;
+    }
+
+
+    .contact_first_section_right {
+        min-height: 360px;
+    }
+
+
+    .contact_first_section_handwriting {
+        font-size: 22px;
+    }
+
+}
+
+
+/* =========================================================
+   CONTACT SECOND SECTION
+========================================================= */
+
+.contact_second_section {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    padding: 35px 0;
+
+    background: #f8f8f5;
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+/* =========================================================
+   CONTAINER
+========================================================= */
+
+.contact_second_section_container {
+    width: 100%;
+
+    padding-left: 42px;
+    padding-right: 42px;
+}
+
+
+/* =========================================================
+   LEFT SIDE
+========================================================= */
+
+.contact_second_section_left {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+
+/* =========================================================
+   MAP
+========================================================= */
+
+.contact_second_section_map {
+    width: 100%;
+    height: 330px;
+
+    position: relative;
+
+    overflow: hidden;
+
+    border-radius: 14px;
+
+    background: #e7ebe7;
+}
+
+
+.contact_second_section_map > img {
+    width: 100%;
+    height: 100%;
+
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* =========================================================
+   MAP LOCATION CARD
+========================================================= */
+
+.contact_second_section_map_location {
+    position: absolute;
+
+    left: 48%;
+    top: 35%;
+
+    transform: translate(-50%, -50%);
+
+    min-width: 245px;
+
+    padding: 12px 18px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 12px;
+
+    background: rgba(255,255,255,0.95);
+
+    border-radius: 8px;
+
+    box-shadow:
+        0 6px 20px rgba(0,0,0,0.08);
+}
+
+
+.contact_second_section_map_pin {
+    color: #d94436;
+
+    font-size: 32px;
+}
+
+
+.contact_second_section_map_location div {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.contact_second_section_map_location strong {
+    color: #253632;
+
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.contact_second_section_map_location span {
+    color: #4d5955;
+
+    font-size: 13px;
+}
+
+
+/* =========================================================
+   DIRECTIONS
+========================================================= */
+
+.contact_second_section_direction {
+    position: absolute;
+
+    left: 20px;
+    bottom: 18px;
+
+    min-width: 180px;
+    height: 48px;
+
+    padding: 0 17px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 12px;
+
+    color: #30463f;
+
+    background: #ffffff;
+
+    border-radius: 8px;
+
+    text-decoration: none;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    box-shadow:
+        0 5px 18px rgba(0,0,0,0.07);
+
+    transition:
+        background 0.3s ease,
+        color 0.3s ease;
+}
+
+
+.contact_second_section_direction i {
+    color: #174e43;
+
+    font-size: 20px;
+}
+
+
+.contact_second_section_direction:hover {
+    color: #ffffff;
+
+    background: #174e43;
+}
+
+
+.contact_second_section_direction:hover i {
+    color: #ffffff;
+}
+
+
+/* =========================================================
+   CLINIC IMAGE
+========================================================= */
+
+.contact_second_section_clinic {
+    width: 100%;
+    height: 380px;
+
+    position: relative;
+
+    overflow: hidden;
+
+    border-radius: 14px;
+
+    background: #e5e8e4;
+}
+
+
+.contact_second_section_clinic > img {
+    width: 100%;
+    height: 100%;
+
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* =========================================================
+   CLINIC OVERLAY CARD
+========================================================= */
+
+.contact_second_section_clinic_card {
+    position: absolute;
+
+    left: 14px;
+    bottom: 14px;
+
+    min-width: 310px;
+
+    padding: 17px 20px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 15px;
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(20,75,64,0.97),
+            rgba(30,93,79,0.95)
+        );
+
+    border-radius: 12px;
+
+    box-shadow:
+        0 7px 20px rgba(20,64,55,0.16);
+}
+
+
+.contact_second_section_clinic_icon {
+    width: 58px;
+    min-width: 58px;
+    height: 58px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border:
+        1.5px solid rgba(255,255,255,0.8);
+
+    border-radius: 50%;
+
+    font-size: 33px;
+}
+
+
+.contact_second_section_clinic_text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.contact_second_section_clinic_text strong {
+    font-size: 14px;
+    font-weight: 700;
+
+    margin-bottom: 4px;
+}
+
+
+.contact_second_section_clinic_text span {
+    font-size: 12px;
+    font-weight: 400;
+
+    line-height: 1.45;
+}
+
+
+/* =========================================================
+   RIGHT SIDE
+========================================================= */
+
+.contact_second_section_right {
+    width: 100%;
+}
+
+
+/* =========================================================
+   FORM AREA
+========================================================= */
+
+.contact_second_section_form_area {
+    width: 100%;
+
+    padding: 14px 0 0;
+}
+
+
+/* =========================================================
+   EYEBROW
+========================================================= */
+
+.contact_second_section_eyebrow {
+    margin-bottom: 7px;
+
+    color: #536f67;
+
+    font-size: 11px;
+    font-weight: 600;
+
+    letter-spacing: 6px;
+}
+
+
+/* =========================================================
+   TITLE
+========================================================= */
+
+.contact_second_section_title {
+    margin: 0 0 20px;
+
+    color: #123f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 39px;
+    font-weight: 600;
+
+    line-height: 1.05;
+
+    letter-spacing: -0.8px;
+}
+
+
+/* =========================================================
+   INPUT
+========================================================= */
+
+.contact_second_section_input {
+    height: 48px;
+
+    padding:
+        0
+        15px;
+
+    color: #35423e;
+
+    background: #ffffff;
+
+    border: 1px solid #ecece8;
+
+    border-radius: 5px;
+
+    font-size: 13px;
+
+    box-shadow: none !important;
+}
+
+
+.contact_second_section_input:focus {
+    border-color: #78958d;
+
+    background: #ffffff;
+}
+
+
+/* =========================================================
+   MESSAGE
+========================================================= */
+
+.contact_second_section_message {
+    height: 120px;
+
+    padding: 14px 15px;
+
+    resize: none;
+
+    color: #35423e;
+
+    border: 1px solid #ecece8;
+
+    border-radius: 5px;
+
+    background: #ffffff;
+
+    font-size: 13px;
+
+    box-shadow: none !important;
+}
+
+
+.contact_second_section_message:focus {
+    border-color: #78958d;
+}
+
+
+/* =========================================================
+   SUBMIT
+========================================================= */
+
+.contact_second_section_submit {
+    width: 100%;
+    height: 52px;
+
+    padding: 0 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            90deg,
+            #174e43,
+            #205d50
+        );
+
+    border: 0;
+
+    border-radius: 7px;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background 0.3s ease,
+        transform 0.3s ease;
+}
+
+
+.contact_second_section_submit i {
+    position: absolute;
+
+    right: 32%;
+
+    font-size: 20px;
+
+    transition: transform 0.3s ease;
+}
+
+
+.contact_second_section_submit:hover {
+    background: #123f37;
+
+    transform: translateY(-2px);
+}
+
+
+.contact_second_section_submit:hover i {
+    transform: translateX(4px);
+}
+
+
+/* =========================================================
+   TOOTH VISUAL
+========================================================= */
+
+.contact_second_section_visual {
+    width: 100%;
+    height: 435px;
+
+    position: relative;
+
+    overflow: hidden;
+
+    border-radius: 13px;
+
+    background: #e5e9e4;
+}
+
+
+.contact_second_section_visual > img {
+    width: 100%;
+    height: 100%;
+
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* =========================================================
+   HANDWRITING
+========================================================= */
+
+.contact_second_section_visual_text {
+    position: absolute;
+
+    left: 50%;
+    top: 42px;
+
+    transform:
+        translateX(-50%)
+        rotate(-7deg);
+
+    width: 150px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    color: rgba(255,255,255,0.92);
+
+    font-family: "Caveat", cursive;
+
+    font-size: 31px;
+    font-weight: 500;
+
+    line-height: 0.95;
+
+    text-align: center;
+
+    text-shadow:
+        0 2px 7px rgba(0,0,0,0.12);
+}
+
+
+.contact_second_section_visual_text span:nth-child(2) {
+    margin-top: 5px;
+}
+
+
+.contact_second_section_visual_text span:nth-child(3) {
+    margin-top: 6px;
+}
+
+
+.contact_second_section_visual_text i {
+    margin-top: 8px;
+
+    font-size: 25px;
+
+    transform: translateX(40px);
+}
+
+
+/* =========================================================
+   BOTTOM AREA
+========================================================= */
+
+.contact_second_section_bottom {
+    margin-top: 16px;
+}
+
+
+/* =========================================================
+   INFO CARD
+========================================================= */
+
+.contact_second_section_info_card {
+    min-height: 265px;
+
+    padding: 18px 20px;
+
+    background: #ffffff;
+
+    border-radius: 8px;
+
+    box-shadow:
+        0 5px 20px rgba(38,60,53,0.025);
+}
+
+
+/* =========================================================
+   INFO HEADING
+========================================================= */
+
+.contact_second_section_info_heading {
+    display: flex;
+    align-items: center;
+
+    gap: 15px;
+
+    color: #3a4742;
+
+    margin-bottom: 16px;
+}
+
+
+.contact_second_section_info_heading i {
+    width: 32px;
+    height: 32px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border:
+        1.5px solid #294f47;
+
+    border-radius: 50%;
+
+    color: #294f47;
+
+    font-size: 18px;
+}
+
+
+.contact_second_section_info_heading span {
+    font-size: 11px;
+    font-weight: 600;
+
+    letter-spacing: 5px;
+}
+
+
+/* =========================================================
+   HOURS
+========================================================= */
+
+.contact_second_section_hours_list {
+    width: 100%;
+}
+
+
+.contact_second_section_hours_list > div {
+    min-height: 29px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 20px;
+
+    border-bottom:
+        1px solid #eeeeea;
+}
+
+
+.contact_second_section_hours_list > div:last-child {
+    border-bottom: 0;
+}
+
+
+.contact_second_section_hours_list span {
+    color: #4c5753;
+
+    font-size: 12px;
+    font-weight: 500;
+}
+
+
+.contact_second_section_hours_list strong {
+    color: #52605b;
+
+    font-size: 12px;
+    font-weight: 500;
+}
+
+
+/* =========================================================
+   CONNECT
+========================================================= */
+
+.contact_second_section_connect_text {
+    margin:
+        0
+        0
+        15px
+        47px;
+
+    color: #4b5853;
+
+    font-size: 12px;
+    font-weight: 500;
+
+    line-height: 1.45;
+}
+
+
+/* =========================================================
+   SOCIAL ICONS
+========================================================= */
+
+.contact_second_section_socials {
+    margin-left: 47px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 20px;
+}
+
+
+.contact_second_section_socials a {
+    width: 27px;
+    height: 27px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #174e43;
+
+    font-size: 23px;
+
+    text-decoration: none;
+
+    transition:
+        transform 0.25s ease,
+        color 0.25s ease;
+}
+
+
+.contact_second_section_socials a:hover {
+    color: #2c6d60;
+
+    transform: translateY(-2px);
+}
+
+
+/* =========================================================
+   QUOTE
+========================================================= */
+
+.contact_second_section_quote {
+    position: absolute;
+
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    min-height: 100px;
+
+    padding:
+        22px
+        45px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 16px;
+
+    border-top:
+        1px solid #eeeeea;
+}
+
+
+.contact_second_section_connect {
+    position: relative;
+
+    padding-bottom: 105px;
+}
+
+
+.contact_second_section_quote_mark {
+    color: #174e43;
+
+    font-family: Georgia, serif;
+
+    font-size: 42px;
+    font-weight: 700;
+
+    line-height: 1;
+}
+
+
+.contact_second_section_quote p {
+    margin: 0;
+
+    flex: 1;
+
+    color: #495650;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    line-height: 1.45;
+}
+
+
+.contact_second_section_quote > i {
+    color: #708983;
+
+    font-size: 33px;
+}
+
+
+/* =========================================================
+   1600+
+========================================================= */
+
+@media (min-width: 1600px) {
+
+    .contact_second_section_container {
+        padding-left: 55px;
+        padding-right: 55px;
+    }
+
+
+    .contact_second_section_map {
+        height: 350px;
+    }
+
+
+    .contact_second_section_clinic {
+        height: 400px;
+    }
+
+
+    .contact_second_section_title {
+        font-size: 43px;
+    }
+
+
+    .contact_second_section_visual {
+        height: 455px;
+    }
+
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1399.98px) {
+
+    .contact_second_section_container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+
+    .contact_second_section_map {
+        height: 295px;
+    }
+
+
+    .contact_second_section_clinic {
+        height: 350px;
+    }
+
+
+    .contact_second_section_map_location {
+        min-width: 210px;
+
+        padding: 10px 14px;
+    }
+
+
+    .contact_second_section_title {
+        font-size: 34px;
+    }
+
+
+    .contact_second_section_visual {
+        height: 410px;
+    }
+
+
+    .contact_second_section_visual_text {
+        font-size: 27px;
+    }
+
+
+    .contact_second_section_info_card {
+        min-height: 245px;
+
+        padding:
+            16px
+            15px;
+    }
+
+
+    .contact_second_section_hours_list span,
+    .contact_second_section_hours_list strong {
+        font-size: 10px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    .contact_second_section {
+        padding: 30px 0;
+    }
+
+
+    .contact_second_section_container {
+        padding-left: 22px;
+        padding-right: 22px;
+    }
+
+
+    .contact_second_section_left {
+        margin-bottom: 30px;
+    }
+
+
+    .contact_second_section_map {
+        height: 420px;
+    }
+
+
+    .contact_second_section_clinic {
+        height: 480px;
+    }
+
+
+    .contact_second_section_title {
+        font-size: 42px;
+    }
+
+
+    .contact_second_section_visual {
+        height: 435px;
+    }
+
+
+    .contact_second_section_info_card {
+        min-height: 275px;
+    }
+
+
+    .contact_second_section_hours_list span,
+    .contact_second_section_hours_list strong {
+        font-size: 12px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 767.98px) {
+
+    .contact_second_section {
+        padding: 20px 0;
+    }
+
+
+    .contact_second_section_container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+
+    /* map */
+
+    .contact_second_section_map {
+        height: 320px;
+    }
+
+
+    .contact_second_section_map_location {
+        left: 50%;
+        top: 42%;
+
+        min-width: 205px;
+    }
+
+
+    .contact_second_section_direction {
+        left: 12px;
+        bottom: 12px;
+
+        min-width: 160px;
+        height: 44px;
+
+        font-size: 12px;
+    }
+
+
+    /* clinic */
+
+    .contact_second_section_clinic {
+        height: 360px;
+    }
+
+
+    .contact_second_section_clinic_card {
+        left: 10px;
+        right: 10px;
+        bottom: 10px;
+
+        min-width: 0;
+
+        padding: 13px 15px;
+    }
+
+
+    .contact_second_section_clinic_icon {
+        width: 48px;
+        min-width: 48px;
+        height: 48px;
+
+        font-size: 27px;
+    }
+
+
+    /* form */
+
+    .contact_second_section_form_area {
+        padding-top: 10px;
+    }
+
+
+    .contact_second_section_eyebrow {
+        font-size: 9px;
+
+        letter-spacing: 4px;
+    }
+
+
+    .contact_second_section_title {
+        font-size: 35px;
+
+        margin-bottom: 18px;
+    }
+
+
+    .contact_second_section_input {
+        height: 50px;
+    }
+
+
+    .contact_second_section_message {
+        height: 130px;
+    }
+
+
+    /* visual */
+
+    .contact_second_section_visual {
+        height: 380px;
+
+        margin-top: 5px;
+    }
+
+
+    .contact_second_section_visual_text {
+        top: 35px;
+
+        font-size: 30px;
+    }
+
+
+    /* info cards */
+
+    .contact_second_section_bottom {
+        margin-top: 14px;
+    }
+
+
+    .contact_second_section_info_card {
+        min-height: auto;
+
+        padding: 20px;
+    }
+
+
+    .contact_second_section_hours_list > div {
+        min-height: 34px;
+    }
+
+
+    .contact_second_section_hours_list span,
+    .contact_second_section_hours_list strong {
+        font-size: 12px;
+    }
+
+
+    .contact_second_section_connect {
+        min-height: 260px;
+
+        padding-bottom: 110px;
+    }
+
+
+    .contact_second_section_connect_text,
+    .contact_second_section_socials {
+        margin-left: 0;
+    }
+
+
+    .contact_second_section_quote {
+        padding:
+            20px
+            22px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .contact_second_section_map {
+        height: 280px;
+    }
+
+
+    .contact_second_section_clinic {
+        height: 320px;
+    }
+
+
+    .contact_second_section_title {
+        font-size: 31px;
+    }
+
+
+    .contact_second_section_visual {
+        height: 330px;
+    }
+
+
+    .contact_second_section_info_heading span {
+        font-size: 9px;
+
+        letter-spacing: 3px;
+    }
+
+
+    .contact_second_section_hours_list span,
+    .contact_second_section_hours_list strong {
+        font-size: 10px;
+    }
+
+}
+
+
+/* =========================================================
+   CONTACT THIRD SECTION
+========================================================= */
+
+.contact_third_section {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    padding: 45px 0 55px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #fbfaf7 0%,
+            #f8f8f5 100%
+        );
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+/* =========================================================
+   CONTAINER
+========================================================= */
+
+.contact_third_section_container {
+    width: 100%;
+
+    padding-left: 65px;
+    padding-right: 65px;
+}
+
+
+/* =========================================================
+   HEADER
+========================================================= */
+
+.contact_third_section_header {
+    width: 100%;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+    gap: 35px;
+
+    margin-bottom: 25px;
+}
+
+
+/* =========================================================
+   EYEBROW
+========================================================= */
+
+.contact_third_section_eyebrow {
+    margin-bottom: 8px;
+
+    color: #536f67;
+
+    font-size: 12px;
+    font-weight: 600;
+
+    line-height: 1.3;
+
+    letter-spacing: 7px;
+}
+
+
+/* =========================================================
+   TITLE
+========================================================= */
+
+.contact_third_section_title {
+    margin: 0;
+
+    color: #123f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 45px;
+    font-weight: 600;
+
+    line-height: 0.95;
+
+    letter-spacing: -1px;
+}
+
+
+/* =========================================================
+   VIEW ALL
+========================================================= */
+
+.contact_third_section_view_all {
+    width: 170px;
+    height: 46px;
+
+    margin-top: 12px;
+
+    padding: 0 16px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    flex-shrink: 0;
+
+    color: #344a43;
+
+    background: transparent;
+
+    border: 1px solid #8a9994;
+
+    border-radius: 8px;
+
+    text-decoration: none;
+
+    font-size: 12px;
+    font-weight: 600;
+
+    transition:
+        color 0.3s ease,
+        background 0.3s ease,
+        border-color 0.3s ease;
+}
+
+
+.contact_third_section_view_all i {
+    font-size: 16px;
+
+    transition: transform 0.3s ease;
+}
+
+
+.contact_third_section_view_all:hover {
+    color: #ffffff;
+
+    background: #174e43;
+
+    border-color: #174e43;
+}
+
+
+.contact_third_section_view_all:hover i {
+    transform: translateX(4px);
+}
+
+
+/* =========================================================
+   FAQ ROW
+========================================================= */
+
+.contact_third_section_faq_row {
+    margin-top: 0;
+}
+
+
+/* =========================================================
+   FAQ ITEM
+========================================================= */
+
+.contact_third_section_faq {
+    width: 100%;
+
+    margin-bottom: 10px;
+
+    overflow: hidden;
+
+    background: #ffffff;
+
+    border-radius: 6px;
+
+    box-shadow:
+        0 4px 15px rgba(36,57,51,0.025);
+}
+
+
+/* =========================================================
+   QUESTION
+========================================================= */
+
+.contact_third_section_question {
+    width: 100%;
+    min-height: 52px;
+
+    padding:
+        0
+        20px
+        0
+        18px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 20px;
+
+    color: #394842;
+
+    background: #ffffff;
+
+    border: 0;
+
+    text-align: left;
+
+    font-family: "DM Sans", sans-serif;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    cursor: pointer;
+
+    transition:
+        color 0.3s ease,
+        background 0.3s ease;
+}
+
+
+.contact_third_section_question:hover {
+    color: #174e43;
+
+    background: #fafbf9;
+}
+
+
+/* =========================================================
+   PLUS / MINUS
+========================================================= */
+
+.contact_third_section_plus {
+    width: 28px;
+    min-width: 28px;
+    height: 28px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #314a43;
+
+    font-size: 25px;
+    font-weight: 400;
+
+    line-height: 1;
+
+    transition:
+        transform 0.3s ease,
+        color 0.3s ease;
+}
+
+
+.contact_third_section_faq.active
+.contact_third_section_plus {
+
+    color: #174e43;
+
+    transform: rotate(180deg);
+}
+
+
+/* =========================================================
+   ANSWER
+========================================================= */
+
+.contact_third_section_answer {
+    display: grid;
+
+    grid-template-rows: 0fr;
+
+    opacity: 0;
+
+    transition:
+        grid-template-rows 0.35s ease,
+        opacity 0.3s ease;
+}
+
+
+.contact_third_section_answer_inner {
+    overflow: hidden;
+
+    padding:
+        0
+        55px
+        0
+        18px;
+
+    color: #69736f;
+
+    font-size: 13px;
+    font-weight: 400;
+
+    line-height: 1.65;
+
+    transition:
+        padding 0.35s ease;
+}
+
+
+/* OPEN */
+
+.contact_third_section_faq.active
+.contact_third_section_answer {
+
+    grid-template-rows: 1fr;
+
+    opacity: 1;
+}
+
+
+.contact_third_section_faq.active
+.contact_third_section_answer_inner {
+
+    padding:
+        2px
+        55px
+        18px
+        18px;
+}
+
+
+/* =========================================================
+   LARGE DESKTOP
+========================================================= */
+
+@media (min-width: 1600px) {
+
+    .contact_third_section_container {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+
+    .contact_third_section_title {
+        font-size: 49px;
+    }
+
+
+    .contact_third_section_question {
+        min-height: 58px;
+
+        font-size: 15px;
+    }
+
+
+    .contact_third_section_answer_inner {
+        font-size: 14px;
+    }
+
+}
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media (max-width: 1399.98px) {
+
+    .contact_third_section_container {
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+
+
+    .contact_third_section_title {
+        font-size: 40px;
+    }
+
+
+    .contact_third_section_eyebrow {
+        font-size: 10px;
+
+        letter-spacing: 6px;
+    }
+
+
+    .contact_third_section_question {
+        min-height: 50px;
+
+        font-size: 13px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    .contact_third_section {
+        padding: 40px 0;
+    }
+
+
+    .contact_third_section_container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+
+    .contact_third_section_header {
+        align-items: center;
+    }
+
+
+    .contact_third_section_title {
+        font-size: 40px;
+    }
+
+
+    .contact_third_section_question {
+        min-height: 56px;
+
+        font-size: 14px;
+    }
+
+
+    .contact_third_section_faq {
+        margin-bottom: 12px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 767.98px) {
+
+    .contact_third_section {
+        padding: 35px 0;
+    }
+
+
+    .contact_third_section_container {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+
+    .contact_third_section_header {
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        gap: 20px;
+    }
+
+
+    .contact_third_section_eyebrow {
+        font-size: 9px;
+
+        letter-spacing: 4px;
+    }
+
+
+    .contact_third_section_title {
+        font-size: 35px;
+
+        line-height: 1.05;
+    }
+
+
+    .contact_third_section_view_all {
+        margin-top: 0;
+
+        width: 160px;
+    }
+
+
+    .contact_third_section_question {
+        min-height: 58px;
+
+        padding-left: 15px;
+        padding-right: 12px;
+
+        font-size: 13px;
+
+        line-height: 1.4;
+    }
+
+
+    .contact_third_section_answer_inner {
+        padding-left: 15px;
+        padding-right: 42px;
+
+        font-size: 12px;
+    }
+
+
+    .contact_third_section_faq.active
+    .contact_third_section_answer_inner {
+
+        padding:
+            2px
+            42px
+            17px
+            15px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .contact_third_section_title {
+        font-size: 31px;
+    }
+
+
+    .contact_third_section_question {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+/* invisialing stylings */
+
+/* =========================================================
+   INVISALIGN FIRST SECTION
+========================================================= */
+
+.invisalign_first_section {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    background: #f4f6f3;
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+/* =========================================================
+   CONTAINER
+========================================================= */
+
+.invisalign_first_section_container {
+    width: 100%;
+    padding: 0;
+}
+
+
+.invisalign_first_section_row {
+    min-height: 625px;
+}
+
+
+/* =========================================================
+   LEFT
+========================================================= */
+
+.invisalign_first_section_left {
+    position: relative;
+
+    min-height: 625px;
+
+    display: flex;
+    align-items: center;
+
+    overflow: hidden;
+
+    z-index: 5;
+
+    background:
+        linear-gradient(
+            90deg,
+            #f4f6f3 0%,
+            #f7f8f5 78%,
+            #f2f5f2 100%
+        );
+}
+
+
+/* =========================================================
+   CONTENT
+========================================================= */
+
+.invisalign_first_section_content {
+    width: 100%;
+
+    position: relative;
+
+    z-index: 4;
+
+    padding:
+        30px
+        40px
+        30px
+        105px;
+}
+
+
+/* =========================================================
+   BREADCRUMB
+========================================================= */
+
+.invisalign_first_section_breadcrumb {
+    margin-bottom: 28px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 12px;
+
+    color: #53605b;
+
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.invisalign_first_section_breadcrumb a {
+    color: #53605b;
+
+    text-decoration: none;
+
+    transition: color 0.25s ease;
+}
+
+
+.invisalign_first_section_breadcrumb a:hover {
+    color: #174e43;
+}
+
+
+.invisalign_first_section_breadcrumb i {
+    color: #78837f;
+
+    font-size: 12px;
+}
+
+
+.invisalign_first_section_breadcrumb span {
+    color: #40514b;
+}
+
+
+/* =========================================================
+   EYEBROW
+========================================================= */
+
+.invisalign_first_section_eyebrow {
+    margin-bottom: 15px;
+
+    color: #526f67;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    line-height: 1.3;
+
+    letter-spacing: 8px;
+}
+
+
+/* =========================================================
+   TITLE
+========================================================= */
+
+.invisalign_first_section_title {
+    margin: 0;
+
+    color: #103f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 73px;
+    font-weight: 600;
+
+    line-height: 1;
+
+    letter-spacing: -2px;
+}
+
+
+/* =========================================================
+   DESCRIPTION
+========================================================= */
+
+.invisalign_first_section_description {
+    max-width: 660px;
+
+    margin: 22px 0 0;
+
+    color: #3d4c47;
+
+    font-size: 20px;
+    font-weight: 500;
+
+    line-height: 1.5;
+}
+
+
+/* =========================================================
+   BENEFITS
+========================================================= */
+
+.invisalign_first_section_benefits {
+    width: 100%;
+    max-width: 690px;
+
+    margin-top: 34px;
+
+    display: grid;
+
+    grid-template-columns:
+        1fr
+        1px
+        1fr
+        1px
+        1.25fr;
+
+    align-items: center;
+}
+
+
+/* =========================================================
+   BENEFIT
+========================================================= */
+
+.invisalign_first_section_benefit {
+    display: flex;
+    align-items: center;
+
+    gap: 16px;
+
+    padding: 0 20px;
+}
+
+
+.invisalign_first_section_benefit:first-child {
+    padding-left: 0;
+}
+
+
+/* ICON */
+
+.invisalign_first_section_benefit_icon {
+    width: 55px;
+    min-width: 55px;
+    height: 55px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #294f47;
+
+    font-size: 45px;
+}
+
+
+/* TEXT */
+
+.invisalign_first_section_benefit_text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.invisalign_first_section_benefit_text strong,
+.invisalign_first_section_benefit_text span {
+
+    color: #34433e;
+
+    font-size: 15px;
+
+    line-height: 1.35;
+}
+
+
+.invisalign_first_section_benefit_text strong {
+    font-weight: 700;
+}
+
+
+.invisalign_first_section_benefit_text span {
+    font-weight: 500;
+}
+
+
+/* DIVIDER */
+
+.invisalign_first_section_benefit_divider {
+    width: 1px;
+    height: 65px;
+
+    background:
+        rgba(87,107,100,0.17);
+}
+
+
+/* =========================================================
+   ACTIONS
+========================================================= */
+
+.invisalign_first_section_actions {
+    margin-top: 38px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 55px;
+}
+
+
+/* =========================================================
+   BOOK BUTTON
+========================================================= */
+
+.invisalign_first_section_book {
+    width: 355px;
+    height: 80px;
+
+    padding: 0 35px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            90deg,
+            #174e43,
+            #205e51
+        );
+
+    border-radius: 13px;
+
+    text-decoration: none;
+
+    font-size: 18px;
+    font-weight: 600;
+
+    transition:
+        transform 0.3s ease,
+        background 0.3s ease;
+}
+
+
+.invisalign_first_section_book i {
+    font-size: 24px;
+
+    transition: transform 0.3s ease;
+}
+
+
+.invisalign_first_section_book:hover {
+    color: #ffffff;
+
+    background: #123f37;
+
+    transform: translateY(-2px);
+}
+
+
+.invisalign_first_section_book:hover i {
+    transform: translateX(5px);
+}
+
+
+/* =========================================================
+   VIDEO BUTTON
+========================================================= */
+
+.invisalign_first_section_video_btn {
+    padding: 0;
+
+    display: flex;
+    align-items: center;
+
+    gap: 17px;
+
+    border: 0;
+
+    background: transparent;
+
+    text-align: left;
+
+    cursor: pointer;
+}
+
+
+/* PLAY */
+
+.invisalign_first_section_play {
+    width: 74px;
+    min-width: 74px;
+    height: 74px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border:
+        1.5px solid #526c65;
+
+    border-radius: 50%;
+
+    color: #174e43;
+
+    font-size: 38px;
+
+    transition:
+        background 0.3s ease,
+        color 0.3s ease;
+}
+
+
+.invisalign_first_section_play i {
+    margin-left: 5px;
+}
+
+
+.invisalign_first_section_video_btn:hover
+.invisalign_first_section_play {
+
+    color: #ffffff;
+
+    background: #174e43;
+}
+
+
+/* VIDEO TEXT */
+
+.invisalign_first_section_video_text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.invisalign_first_section_video_text strong {
+    color: #354740;
+
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
+.invisalign_first_section_video_text small {
+    margin-top: 4px;
+
+    color: #65706c;
+
+    font-size: 13px;
+    font-weight: 500;
+}
+
+
+/* =========================================================
+   LEFT CURVE
+========================================================= */
+
+.invisalign_first_section_curve {
+    position: absolute;
+
+    z-index: 2;
+
+    left: -175px;
+    bottom: -150px;
+
+    width: 295px;
+    height: 560px;
+
+    border-radius: 50%;
+
+    background:
+        rgba(200,212,207,0.56);
+
+    transform: rotate(-12deg);
+}
+
+
+.invisalign_first_section_curve::after {
+    content: "";
+
+    position: absolute;
+
+    right: 40px;
+    top: 22px;
+
+    width: 160px;
+    height: 510px;
+
+    border-radius: 50%;
+
+    border-right:
+        1px solid rgba(130,151,144,0.28);
+}
+
+
+/* =========================================================
+   RIGHT AREA
+========================================================= */
+
+.invisalign_first_section_right {
+    position: relative;
+
+    min-height: 625px;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   IMAGE WRAPPER
+========================================================= */
+
+.invisalign_first_section_image_wrapper {
+    position: absolute;
+
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+
+    background: #e6e9e5;
+}
+
+
+/* IMAGE */
+
+.invisalign_first_section_image {
+    width: 100%;
+    height: 100%;
+
+    position: absolute;
+
+    inset: 0;
+
+    display: block;
+
+    object-fit: cover;
+
+    object-position: center;
+}
+
+
+/* LEFT FADE */
+
+.invisalign_first_section_image_wrapper::before {
+    content: "";
+
+    position: absolute;
+
+    z-index: 3;
+
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+    width: 170px;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(243,246,242,0.94) 0%,
+            rgba(240,244,240,0.57) 45%,
+            rgba(240,244,240,0) 100%
+        );
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   LEFT HANDWRITING
+========================================================= */
+
+.invisalign_first_section_handwriting_one {
+    position: absolute;
+
+    z-index: 5;
+
+    left: 5%;
+    top: 14%;
+
+    width: 175px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    color: rgba(48,74,67,0.79);
+
+    font-family: "Caveat", cursive;
+
+    font-size: 36px;
+    font-weight: 500;
+
+    line-height: 0.95;
+
+    text-align: center;
+
+    transform: rotate(-7deg);
+}
+
+
+.invisalign_first_section_handwriting_one > span:nth-child(1) {
+    transform: translateX(-15px);
+}
+
+
+.invisalign_first_section_handwriting_one > span:nth-child(2) {
+    margin-top: 7px;
+}
+
+
+.invisalign_first_section_handwriting_one > span:nth-child(3) {
+    margin-top: 7px;
+
+    transform: translateX(8px);
+}
+
+
+.invisalign_first_section_handwriting_one > div {
+    margin-top: 7px;
+
+    display: flex;
+    align-items: center;
+
+    transform: translateX(18px);
+}
+
+
+.invisalign_first_section_handwriting_one i {
+    margin-left: 8px;
+
+    font-size: 26px;
+}
+
+
+/* =========================================================
+   RIGHT HANDWRITING
+========================================================= */
+
+.invisalign_first_section_handwriting_two {
+    position: absolute;
+
+    z-index: 5;
+
+    right: 4%;
+    top: 14%;
+
+    width: 150px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    color: rgba(255,255,255,0.84);
+
+    font-family: "Caveat", cursive;
+
+    font-size: 35px;
+    font-weight: 500;
+
+    line-height: 0.94;
+
+    text-align: center;
+
+    transform: rotate(-7deg);
+
+    text-shadow:
+        0 2px 6px rgba(0,0,0,0.12);
+}
+
+
+.invisalign_first_section_handwriting_two span:nth-child(2) {
+    margin-top: 6px;
+}
+
+
+.invisalign_first_section_handwriting_two span:nth-child(3) {
+    margin-top: 7px;
+}
+
+
+.invisalign_first_section_handwriting_two i {
+    margin-top: 15px;
+
+    font-size: 31px;
+
+    transform: translateX(30px);
+}
+
+
+/* =========================================================
+   GREEN QUOTE CARD
+========================================================= */
+
+.invisalign_first_section_quote_card {
+    position: absolute;
+
+    z-index: 6;
+
+    right: 0;
+    bottom: 0;
+
+    width: 315px;
+    min-height: 240px;
+
+    padding:
+        45px
+        40px
+        30px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(15,73,61,0.94),
+            rgba(11,83,65,0.94)
+        );
+
+    border-radius:
+        28px
+        0
+        0
+        0;
+
+    color: #ffffff;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 29px;
+    font-weight: 500;
+
+    line-height: 1.35;
+
+    text-align: center;
+
+    backdrop-filter: blur(4px);
+}
+
+
+.invisalign_first_section_quote_line {
+    width: 65px;
+    height: 2px;
+
+    margin-top: 25px;
+
+    background:
+        rgba(255,255,255,0.75);
+}
+
+
+/* =========================================================
+   LARGE DESKTOP
+========================================================= */
+
+@media (min-width: 1700px) {
+
+    .invisalign_first_section_row,
+    .invisalign_first_section_left,
+    .invisalign_first_section_right {
+        min-height: 660px;
+    }
+
+
+    .invisalign_first_section_content {
+        padding-left: 110px;
+    }
+
+
+    .invisalign_first_section_title {
+        font-size: 78px;
+    }
+
+
+    .invisalign_first_section_description {
+        font-size: 21px;
+    }
+
+}
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media (max-width: 1500px) {
+
+    .invisalign_first_section_row,
+    .invisalign_first_section_left,
+    .invisalign_first_section_right {
+        min-height: 560px;
+    }
+
+
+    .invisalign_first_section_content {
+        padding-left: 65px;
+        padding-right: 25px;
+    }
+
+
+    .invisalign_first_section_breadcrumb {
+        margin-bottom: 20px;
+
+        font-size: 13px;
+    }
+
+
+    .invisalign_first_section_eyebrow {
+        font-size: 12px;
+
+        letter-spacing: 6px;
+    }
+
+
+    .invisalign_first_section_title {
+        font-size: 59px;
+    }
+
+
+    .invisalign_first_section_description {
+        font-size: 16px;
+    }
+
+
+    .invisalign_first_section_benefits {
+        margin-top: 28px;
+    }
+
+
+    .invisalign_first_section_benefit {
+        gap: 11px;
+
+        padding: 0 13px;
+    }
+
+
+    .invisalign_first_section_benefit_icon {
+        width: 46px;
+        min-width: 46px;
+        height: 46px;
+
+        font-size: 37px;
+    }
+
+
+    .invisalign_first_section_benefit_text strong,
+    .invisalign_first_section_benefit_text span {
+        font-size: 12px;
+    }
+
+
+    .invisalign_first_section_actions {
+        margin-top: 30px;
+
+        gap: 35px;
+    }
+
+
+    .invisalign_first_section_book {
+        width: 285px;
+        height: 66px;
+
+        font-size: 15px;
+    }
+
+
+    .invisalign_first_section_play {
+        width: 60px;
+        min-width: 60px;
+        height: 60px;
+
+        font-size: 30px;
+    }
+
+
+    .invisalign_first_section_video_text strong {
+        font-size: 14px;
+    }
+
+
+    .invisalign_first_section_video_text small {
+        font-size: 11px;
+    }
+
+
+    .invisalign_first_section_handwriting_one,
+    .invisalign_first_section_handwriting_two {
+        font-size: 29px;
+    }
+
+
+    .invisalign_first_section_quote_card {
+        width: 265px;
+        min-height: 205px;
+
+        font-size: 24px;
+    }
+
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1199.98px) {
+
+    .invisalign_first_section_content {
+        padding-left: 42px;
+        padding-right: 20px;
+    }
+
+
+    .invisalign_first_section_title {
+        font-size: 49px;
+    }
+
+
+    .invisalign_first_section_description {
+        font-size: 14px;
+    }
+
+
+    .invisalign_first_section_benefit {
+        padding: 0 8px;
+    }
+
+
+    .invisalign_first_section_benefit_icon {
+        width: 40px;
+        min-width: 40px;
+
+        font-size: 32px;
+    }
+
+
+    .invisalign_first_section_benefit_text strong,
+    .invisalign_first_section_benefit_text span {
+        font-size: 10px;
+    }
+
+
+    .invisalign_first_section_actions {
+        gap: 20px;
+    }
+
+
+    .invisalign_first_section_book {
+        width: 245px;
+
+        padding: 0 20px;
+
+        font-size: 13px;
+    }
+
+
+    .invisalign_first_section_handwriting_one {
+        left: 3%;
+
+        font-size: 25px;
+    }
+
+
+    .invisalign_first_section_handwriting_two {
+        font-size: 25px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    .invisalign_first_section_row {
+        min-height: auto;
+    }
+
+
+    .invisalign_first_section_left {
+        min-height: auto;
+
+        padding: 55px 0 50px;
+    }
+
+
+    .invisalign_first_section_content {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+
+    .invisalign_first_section_title {
+        font-size: 62px;
+    }
+
+
+    .invisalign_first_section_description {
+        max-width: 650px;
+
+        font-size: 17px;
+    }
+
+
+    .invisalign_first_section_benefits {
+        max-width: 680px;
+    }
+
+
+    .invisalign_first_section_benefit_icon {
+        width: 50px;
+        min-width: 50px;
+
+        font-size: 40px;
+    }
+
+
+    .invisalign_first_section_benefit_text strong,
+    .invisalign_first_section_benefit_text span {
+        font-size: 13px;
+    }
+
+
+    .invisalign_first_section_book {
+        width: 310px;
+    }
+
+
+    .invisalign_first_section_right {
+        min-height: 570px;
+    }
+
+
+    .invisalign_first_section_handwriting_one {
+        left: 7%;
+        top: 12%;
+
+        font-size: 32px;
+    }
+
+
+    .invisalign_first_section_handwriting_two {
+        right: 6%;
+
+        font-size: 31px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 767.98px) {
+
+    .invisalign_first_section_left {
+        padding: 40px 0;
+    }
+
+
+    .invisalign_first_section_content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+
+    .invisalign_first_section_breadcrumb {
+        margin-bottom: 20px;
+
+        gap: 8px;
+
+        font-size: 11px;
+    }
+
+
+    .invisalign_first_section_eyebrow {
+        margin-bottom: 12px;
+
+        font-size: 9px;
+
+        letter-spacing: 4px;
+    }
+
+
+    .invisalign_first_section_title {
+        font-size: 44px;
+
+        line-height: 1.03;
+    }
+
+
+    .invisalign_first_section_description {
+        margin-top: 20px;
+
+        font-size: 14px;
+    }
+
+
+    /* benefits vertical */
+
+    .invisalign_first_section_benefits {
+        margin-top: 28px;
+
+        grid-template-columns: 1fr;
+    }
+
+
+    .invisalign_first_section_benefit {
+        min-height: 72px;
+
+        padding: 12px 0;
+
+        gap: 16px;
+
+        border-bottom:
+            1px solid rgba(87,107,100,0.12);
+    }
+
+
+    .invisalign_first_section_benefit:last-child {
+        border-bottom: 0;
+    }
+
+
+    .invisalign_first_section_benefit_divider {
+        display: none;
+    }
+
+
+    .invisalign_first_section_benefit_icon {
+        width: 48px;
+        min-width: 48px;
+        height: 48px;
+
+        font-size: 38px;
+    }
+
+
+    .invisalign_first_section_benefit_text strong,
+    .invisalign_first_section_benefit_text span {
+        font-size: 13px;
+    }
+
+
+    /* actions */
+
+    .invisalign_first_section_actions {
+        margin-top: 27px;
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        gap: 20px;
+    }
+
+
+    .invisalign_first_section_book {
+        width: 100%;
+        max-width: 330px;
+
+        height: 60px;
+
+        font-size: 14px;
+    }
+
+
+    .invisalign_first_section_play {
+        width: 55px;
+        min-width: 55px;
+        height: 55px;
+
+        font-size: 27px;
+    }
+
+
+    .invisalign_first_section_video_text strong {
+        font-size: 14px;
+    }
+
+
+    .invisalign_first_section_video_text small {
+        font-size: 11px;
+    }
+
+
+    /* image */
+
+    .invisalign_first_section_right {
+        min-height: 470px;
+    }
+
+
+    .invisalign_first_section_image {
+        object-position: 60% center;
+    }
+
+
+    .invisalign_first_section_image_wrapper::before {
+        width: 80px;
+    }
+
+
+    .invisalign_first_section_handwriting_one {
+        left: 18px;
+        top: 30px;
+
+        width: 130px;
+
+        padding: 9px;
+
+        font-size: 24px;
+
+        background:
+            rgba(247,248,245,0.58);
+
+        backdrop-filter: blur(3px);
+
+        border-radius: 10px;
+    }
+
+
+    .invisalign_first_section_handwriting_two {
+        right: 15px;
+        top: 28px;
+
+        width: 120px;
+
+        font-size: 23px;
+    }
+
+
+    .invisalign_first_section_quote_card {
+        width: 200px;
+        min-height: 150px;
+
+        padding: 25px 20px;
+
+        font-size: 19px;
+
+        border-radius:
+            20px
+            0
+            0
+            0;
+    }
+
+
+    .invisalign_first_section_quote_line {
+        width: 45px;
+
+        margin-top: 16px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .invisalign_first_section_title {
+        font-size: 38px;
+    }
+
+
+    .invisalign_first_section_description {
+        font-size: 13px;
+    }
+
+
+    .invisalign_first_section_right {
+        min-height: 410px;
+    }
+
+
+    .invisalign_first_section_quote_card {
+        width: 175px;
+        min-height: 135px;
+
+        font-size: 17px;
+    }
+
+}
+
+
+
+
+/* =========================================================
+   INVISALIGN SECOND SECTION
+========================================================= */
+
+.invisalign_second_section {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    padding: 5px 0 18px;
+
+    background:
+        linear-gradient(
+            90deg,
+            #fafaf7 0%,
+            #f8f8f5 48%,
+            #f7f8f5 100%
+        );
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+/* =========================================================
+   CONTAINER
+========================================================= */
+
+.invisalign_second_section_container {
+    width: 100%;
+
+    padding-left: 65px;
+    padding-right: 25px;
+}
+
+
+/* =========================================================
+   ROW
+========================================================= */
+
+.invisalign_second_section_row {
+    min-height: 320px;
+
+    align-items: center;
+}
+
+
+/* =========================================================
+   LEFT
+========================================================= */
+
+.invisalign_second_section_left {
+    min-height: 320px;
+
+    display: flex;
+    align-items: center;
+}
+
+
+.invisalign_second_section_content {
+    width: 100%;
+
+    padding-right: 60px;
+}
+
+
+/* =========================================================
+   TITLE
+========================================================= */
+
+.invisalign_second_section_title {
+    margin: 0;
+
+    color: #123f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 54px;
+    font-weight: 600;
+
+    line-height: 1.05;
+
+    letter-spacing: -1.4px;
+}
+
+
+/* =========================================================
+   DESCRIPTION
+========================================================= */
+
+.invisalign_second_section_description {
+    max-width: 880px;
+
+    margin: 14px 0 0;
+
+    color: #3e4d48;
+
+    font-size: 18px;
+    font-weight: 500;
+
+    line-height: 1.55;
+}
+
+
+/* =========================================================
+   BUTTON
+========================================================= */
+
+.invisalign_second_section_button {
+    width: 480px;
+    max-width: 100%;
+    height: 62px;
+
+    margin-top: 20px;
+
+    padding:
+        0
+        28px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            90deg,
+            #174e43,
+            #205e51
+        );
+
+    border-radius: 11px;
+
+    text-decoration: none;
+
+    font-size: 17px;
+    font-weight: 600;
+
+    transition:
+        transform 0.3s ease,
+        background 0.3s ease;
+}
+
+
+.invisalign_second_section_button i {
+    font-size: 22px;
+
+    transition: transform 0.3s ease;
+}
+
+
+.invisalign_second_section_button:hover {
+    color: #ffffff;
+
+    background: #123f37;
+
+    transform: translateY(-2px);
+}
+
+
+.invisalign_second_section_button:hover i {
+    transform: translateX(5px);
+}
+
+
+/* =========================================================
+   RIGHT SIDE
+========================================================= */
+
+.invisalign_second_section_right {
+    min-height: 320px;
+
+    display: flex;
+    align-items: center;
+}
+
+
+/* =========================================================
+   IMAGE WRAPPER
+========================================================= */
+
+.invisalign_second_section_image_wrapper {
+    width: 100%;
+    height: 320px;
+
+    position: relative;
+
+    overflow: hidden;
+
+    border-radius: 0 16px 16px 0;
+
+    background: #e7e9e5;
+}
+
+
+/* =========================================================
+   IMAGE
+========================================================= */
+
+.invisalign_second_section_image {
+    width: 100%;
+    height: 100%;
+
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+
+    transition: transform 0.4s ease;
+}
+
+
+.invisalign_second_section_image_wrapper:hover
+.invisalign_second_section_image {
+
+    transform: scale(1.015);
+}
+
+
+/* =========================================================
+   SOFT LEFT FADE
+========================================================= */
+
+.invisalign_second_section_image_wrapper::before {
+    content: "";
+
+    position: absolute;
+
+    z-index: 3;
+
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+    width: 120px;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(248,249,246,0.88),
+            rgba(248,249,246,0)
+        );
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   HANDWRITING
+========================================================= */
+
+.invisalign_second_section_handwriting {
+    position: absolute;
+
+    z-index: 5;
+
+    left: 3%;
+    top: 28%;
+
+    width: 155px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    color: rgba(47,72,65,0.78);
+
+    font-family: "Caveat", cursive;
+
+    font-size: 34px;
+    font-weight: 500;
+
+    line-height: 0.92;
+
+    text-align: center;
+
+    transform: rotate(-7deg);
+}
+
+
+.invisalign_second_section_handwriting > span:nth-child(1) {
+    transform: translateX(-8px);
+}
+
+
+.invisalign_second_section_handwriting > span:nth-child(2) {
+    margin-top: 7px;
+
+    transform: translateX(2px);
+}
+
+
+.invisalign_second_section_handwriting_last {
+    margin-top: 8px;
+
+    display: flex;
+    align-items: center;
+
+    transform: translateX(14px);
+}
+
+
+.invisalign_second_section_handwriting_last i {
+    margin-left: 8px;
+
+    font-size: 25px;
+}
+
+
+/* =========================================================
+   LARGE DESKTOP
+========================================================= */
+
+@media (min-width: 1600px) {
+
+    .invisalign_second_section_container {
+        padding-left: 85px;
+        padding-right: 30px;
+    }
+
+
+    .invisalign_second_section_row,
+    .invisalign_second_section_left,
+    .invisalign_second_section_right {
+        min-height: 345px;
+    }
+
+
+    .invisalign_second_section_image_wrapper {
+        height: 340px;
+    }
+
+
+    .invisalign_second_section_title {
+        font-size: 59px;
+    }
+
+
+    .invisalign_second_section_description {
+        font-size: 19px;
+    }
+
+
+    .invisalign_second_section_button {
+        height: 65px;
+
+        font-size: 18px;
+    }
+
+}
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media (max-width: 1399.98px) {
+
+    .invisalign_second_section_container {
+        padding-left: 45px;
+        padding-right: 20px;
+    }
+
+
+    .invisalign_second_section_row,
+    .invisalign_second_section_left,
+    .invisalign_second_section_right {
+        min-height: 290px;
+    }
+
+
+    .invisalign_second_section_content {
+        padding-right: 40px;
+    }
+
+
+    .invisalign_second_section_title {
+        font-size: 46px;
+    }
+
+
+    .invisalign_second_section_description {
+        font-size: 15px;
+    }
+
+
+    .invisalign_second_section_button {
+        width: 420px;
+        height: 56px;
+
+        font-size: 14px;
+    }
+
+
+    .invisalign_second_section_image_wrapper {
+        height: 285px;
+    }
+
+
+    .invisalign_second_section_handwriting {
+        font-size: 29px;
+    }
+
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1199.98px) {
+
+    .invisalign_second_section_container {
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+
+
+    .invisalign_second_section_content {
+        padding-right: 30px;
+    }
+
+
+    .invisalign_second_section_title {
+        font-size: 40px;
+    }
+
+
+    .invisalign_second_section_description {
+        font-size: 13px;
+
+        line-height: 1.55;
+    }
+
+
+    .invisalign_second_section_button {
+        width: 355px;
+
+        font-size: 12px;
+    }
+
+
+    .invisalign_second_section_handwriting {
+        left: 2%;
+
+        font-size: 25px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    .invisalign_second_section {
+        padding: 35px 0;
+    }
+
+
+    .invisalign_second_section_container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+
+    .invisalign_second_section_row {
+        min-height: auto;
+    }
+
+
+    .invisalign_second_section_left {
+        min-height: auto;
+
+        padding-bottom: 35px;
+    }
+
+
+    .invisalign_second_section_content {
+        padding-right: 0;
+    }
+
+
+    .invisalign_second_section_title {
+        font-size: 48px;
+    }
+
+
+    .invisalign_second_section_description {
+        max-width: 760px;
+
+        font-size: 16px;
+    }
+
+
+    .invisalign_second_section_button {
+        width: 420px;
+        height: 60px;
+
+        font-size: 15px;
+    }
+
+
+    .invisalign_second_section_right {
+        min-height: auto;
+    }
+
+
+    .invisalign_second_section_image_wrapper {
+        height: 420px;
+
+        border-radius: 15px;
+    }
+
+
+    .invisalign_second_section_handwriting {
+        left: 7%;
+        top: 20%;
+
+        font-size: 33px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 767.98px) {
+
+    .invisalign_second_section {
+        padding: 30px 0;
+    }
+
+
+    .invisalign_second_section_container {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+
+    .invisalign_second_section_left {
+        padding-bottom: 28px;
+    }
+
+
+    .invisalign_second_section_title {
+        font-size: 38px;
+
+        line-height: 1.08;
+    }
+
+
+    .invisalign_second_section_description {
+        margin-top: 15px;
+
+        font-size: 14px;
+
+        line-height: 1.6;
+    }
+
+
+    .invisalign_second_section_button {
+        width: 100%;
+        max-width: 360px;
+        height: 58px;
+
+        margin-top: 20px;
+
+        padding:
+            0
+            18px;
+
+        font-size: 13px;
+    }
+
+
+    .invisalign_second_section_image_wrapper {
+        height: 320px;
+
+        border-radius: 13px;
+    }
+
+
+    .invisalign_second_section_image {
+        object-position: 62% center;
+    }
+
+
+    .invisalign_second_section_image_wrapper::before {
+        width: 75px;
+    }
+
+
+    .invisalign_second_section_handwriting {
+        left: 16px;
+        top: 25px;
+
+        width: 125px;
+
+        padding: 9px;
+
+        font-size: 25px;
+
+        background:
+            rgba(247,248,245,0.58);
+
+        backdrop-filter: blur(3px);
+
+        border-radius: 10px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .invisalign_second_section_title {
+        font-size: 34px;
+    }
+
+
+    .invisalign_second_section_description {
+        font-size: 13px;
+    }
+
+
+    .invisalign_second_section_button {
+        font-size: 12px;
+    }
+
+
+    .invisalign_second_section_image_wrapper {
+        height: 275px;
+    }
+
+
+    .invisalign_second_section_handwriting {
+        font-size: 22px;
+    }
+
+}
+
+
+
+
+/* =========================================================
+   INVISALIGN THIRD SECTION
+========================================================= */
+
+.invisalign_third_section {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    padding: 28px 0 32px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #fafaf7 0%,
+            #f8f8f5 100%
+        );
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+/* =========================================================
+   CONTAINER
+========================================================= */
+
+.invisalign_third_section_container {
+    width: 100%;
+
+    padding-left: 70px;
+    padding-right: 35px;
+}
+
+
+/* =========================================================
+   HEADER
+========================================================= */
+
+.invisalign_third_section_header {
+    margin-bottom: 20px;
+}
+
+
+/* EYEBROW */
+
+.invisalign_third_section_eyebrow {
+    margin-bottom: 7px;
+
+    color: #526f67;
+
+    font-size: 12px;
+    font-weight: 600;
+
+    line-height: 1.3;
+
+    letter-spacing: 7px;
+}
+
+
+/* TITLE */
+
+.invisalign_third_section_title {
+    margin: 0;
+
+    color: #123f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 47px;
+    font-weight: 600;
+
+    line-height: 1.05;
+
+    letter-spacing: -1.2px;
+}
+
+
+/* =========================================================
+   BENEFITS GRID
+========================================================= */
+
+.invisalign_third_section_benefits {
+    width: 100%;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(6, minmax(0,1fr));
+
+    gap: 15px;
+}
+
+
+/* =========================================================
+   BENEFIT CARD
+========================================================= */
+
+.invisalign_third_section_card {
+    min-height: 185px;
+
+    padding:
+        18px
+        10px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #fbfbf8 100%
+        );
+
+    border:
+        1px solid rgba(83,105,98,0.08);
+
+    border-radius: 8px;
+
+    box-shadow:
+        0 5px 18px rgba(38,59,53,0.025);
+
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
+}
+
+
+.invisalign_third_section_card:hover {
+    transform: translateY(-4px);
+
+    box-shadow:
+        0 10px 25px rgba(30,68,59,0.08);
+}
+
+
+/* =========================================================
+   ICON
+========================================================= */
+
+.invisalign_third_section_icon {
+    width: 76px;
+    height: 76px;
+
+    margin-bottom: 12px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background:
+        linear-gradient(
+            145deg,
+            #f0f2ee,
+            #f7f7f4
+        );
+
+    color: #294f47;
+
+    font-size: 39px;
+
+    transition:
+        transform 0.3s ease,
+        background 0.3s ease;
+}
+
+
+.invisalign_third_section_card:hover
+.invisalign_third_section_icon {
+
+    transform: scale(1.05);
+
+    background: #edf2ee;
+}
+
+
+/* =========================================================
+   CARD TEXT
+========================================================= */
+
+.invisalign_third_section_card_text {
+    color: #34433e;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    line-height: 1.35;
+}
+
+
+/* =========================================================
+   CTA CARD
+========================================================= */
+
+.invisalign_third_section_cta {
+    width: 100%;
+    min-height: 245px;
+
+    padding:
+        24px
+        28px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    background:
+        linear-gradient(
+            145deg,
+            #eef3f0,
+            #f7f8f5
+        );
+
+    border-radius: 15px;
+}
+
+
+/* CTA TITLE */
+
+.invisalign_third_section_cta h3 {
+    margin: 0;
+
+    color: #183f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 29px;
+    font-weight: 600;
+
+    line-height: 1.15;
+
+    letter-spacing: -0.5px;
+}
+
+
+/* LINE */
+
+.invisalign_third_section_cta_line {
+    width: 66px;
+    height: 2px;
+
+    margin:
+        20px
+        0;
+
+    background: #42665d;
+}
+
+
+/* CTA TEXT */
+
+.invisalign_third_section_cta p {
+    max-width: 310px;
+
+    margin: 0;
+
+    color: #52605b;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    line-height: 1.45;
+}
+
+
+/* =========================================================
+   CTA BUTTON
+========================================================= */
+
+.invisalign_third_section_cta_button {
+    width: 100%;
+    height: 52px;
+
+    margin-top: 20px;
+
+    padding:
+        0
+        18px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            90deg,
+            #174e43,
+            #215d51
+        );
+
+    border-radius: 8px;
+
+    text-decoration: none;
+
+    font-size: 13px;
+    font-weight: 600;
+
+    transition:
+        background 0.3s ease,
+        transform 0.3s ease;
+}
+
+
+.invisalign_third_section_cta_button i {
+    font-size: 19px;
+
+    transition: transform 0.3s ease;
+}
+
+
+.invisalign_third_section_cta_button:hover {
+    color: #ffffff;
+
+    background: #123f37;
+
+    transform: translateY(-2px);
+}
+
+
+.invisalign_third_section_cta_button:hover i {
+    transform: translateX(4px);
+}
+
+
+/* =========================================================
+   LARGE DESKTOP
+========================================================= */
+
+@media (min-width: 1600px) {
+
+    .invisalign_third_section_container {
+        padding-left: 75px;
+        padding-right: 40px;
+    }
+
+
+    .invisalign_third_section_title {
+        font-size: 51px;
+    }
+
+
+    .invisalign_third_section_card {
+        min-height: 200px;
+    }
+
+
+    .invisalign_third_section_icon {
+        width: 82px;
+        height: 82px;
+
+        font-size: 42px;
+    }
+
+
+    .invisalign_third_section_card_text {
+        font-size: 15px;
+    }
+
+
+    .invisalign_third_section_cta {
+        min-height: 260px;
+    }
+
+}
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media (max-width: 1399.98px) {
+
+    .invisalign_third_section_container {
+        padding-left: 45px;
+        padding-right: 30px;
+    }
+
+
+    .invisalign_third_section_title {
+        font-size: 42px;
+    }
+
+
+    .invisalign_third_section_benefits {
+        gap: 10px;
+    }
+
+
+    .invisalign_third_section_card {
+        min-height: 175px;
+
+        padding:
+            15px
+            8px;
+    }
+
+
+    .invisalign_third_section_icon {
+        width: 65px;
+        height: 65px;
+
+        margin-bottom: 10px;
+
+        font-size: 34px;
+    }
+
+
+    .invisalign_third_section_card_text {
+        font-size: 12px;
+    }
+
+
+    .invisalign_third_section_cta {
+        min-height: 230px;
+
+        padding:
+            20px
+            22px;
+    }
+
+
+    .invisalign_third_section_cta h3 {
+        font-size: 25px;
+    }
+
+
+    .invisalign_third_section_cta p {
+        font-size: 12px;
+    }
+
+
+    .invisalign_third_section_cta_button {
+        font-size: 11px;
+    }
+
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1199.98px) {
+
+    .invisalign_third_section_container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+
+    .invisalign_third_section_benefits {
+        grid-template-columns:
+            repeat(3, minmax(0,1fr));
+
+        gap: 16px;
+    }
+
+
+    .invisalign_third_section_card {
+        min-height: 180px;
+    }
+
+
+    .invisalign_third_section_icon {
+        width: 72px;
+        height: 72px;
+
+        font-size: 37px;
+    }
+
+
+    .invisalign_third_section_card_text {
+        font-size: 13px;
+    }
+
+
+    .invisalign_third_section_cta {
+        height: 100%;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    .invisalign_third_section {
+        padding: 35px 0;
+    }
+
+
+    .invisalign_third_section_container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+
+    .invisalign_third_section_eyebrow {
+        font-size: 10px;
+
+        letter-spacing: 5px;
+    }
+
+
+    .invisalign_third_section_title {
+        font-size: 40px;
+    }
+
+
+    .invisalign_third_section_benefits {
+        grid-template-columns:
+            repeat(3, minmax(0,1fr));
+    }
+
+
+    .invisalign_third_section_cta {
+        min-height: 220px;
+
+        margin-top: 5px;
+    }
+
+
+    .invisalign_third_section_cta h3 {
+        font-size: 28px;
+    }
+
+
+    .invisalign_third_section_cta p {
+        font-size: 14px;
+    }
+
+
+    .invisalign_third_section_cta_button {
+        max-width: 400px;
+
+        font-size: 13px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 767.98px) {
+
+    .invisalign_third_section {
+        padding: 30px 0;
+    }
+
+
+    .invisalign_third_section_container {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+
+    .invisalign_third_section_header {
+        text-align: center;
+
+        margin-bottom: 22px;
+    }
+
+
+    .invisalign_third_section_eyebrow {
+        font-size: 9px;
+
+        letter-spacing: 4px;
+    }
+
+
+    .invisalign_third_section_title {
+        font-size: 34px;
+
+        line-height: 1.1;
+    }
+
+
+    .invisalign_third_section_benefits {
+        grid-template-columns:
+            repeat(2, minmax(0,1fr));
+
+        gap: 12px;
+    }
+
+
+    .invisalign_third_section_card {
+        min-height: 165px;
+
+        padding:
+            15px
+            8px;
+    }
+
+
+    .invisalign_third_section_icon {
+        width: 65px;
+        height: 65px;
+
+        font-size: 33px;
+    }
+
+
+    .invisalign_third_section_card_text {
+        font-size: 12px;
+    }
+
+
+    .invisalign_third_section_cta {
+        min-height: auto;
+
+        padding:
+            25px
+            22px;
+
+        margin-top: 5px;
+    }
+
+
+    .invisalign_third_section_cta h3 {
+        font-size: 27px;
+    }
+
+
+    .invisalign_third_section_cta_line {
+        margin:
+            16px
+            0;
+    }
+
+
+    .invisalign_third_section_cta p {
+        font-size: 13px;
+    }
+
+
+    .invisalign_third_section_cta_button {
+        max-width: 100%;
+
+        height: 50px;
+
+        font-size: 12px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .invisalign_third_section_title {
+        font-size: 30px;
+    }
+
+
+    .invisalign_third_section_benefits {
+        grid-template-columns: 1fr;
+    }
+
+
+    .invisalign_third_section_card {
+        min-height: 140px;
+
+        flex-direction: row;
+
+        justify-content: flex-start;
+
+        gap: 18px;
+
+        padding:
+            16px
+            18px;
+
+        text-align: left;
+    }
+
+
+    .invisalign_third_section_icon {
+        width: 60px;
+        min-width: 60px;
+        height: 60px;
+
+        margin-bottom: 0;
+
+        font-size: 31px;
+    }
+
+
+    .invisalign_third_section_card_text {
+        font-size: 13px;
+    }
+
+}
+
+
+
+
+
+/* =========================================================
+   INVISALIGN FORTH SECTION
+========================================================= */
+
+.invisalign_forth_section {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    background: #fbfaf7;
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+.invisalign_forth_section_container {
+    width: 100%;
+    padding: 0;
+}
+
+
+.invisalign_forth_section_row {
+    min-height: 325px;
+}
+
+
+/* =========================================================
+   LEFT CONTENT
+========================================================= */
+
+.invisalign_forth_section_left {
+    min-height: 325px;
+
+    display: flex;
+    align-items: center;
+}
+
+
+.invisalign_forth_section_content {
+    width: 100%;
+
+    padding:
+        27px
+        30px
+        30px
+        65px;
+}
+
+
+.invisalign_forth_section_eyebrow {
+    margin-bottom: 5px;
+
+    color: #506d65;
+
+    font-size: 11px;
+    font-weight: 600;
+
+    letter-spacing: 7px;
+}
+
+
+.invisalign_forth_section_title {
+    margin: 0 0 30px;
+
+    color: #123f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 43px;
+    font-weight: 600;
+
+    line-height: 1.05;
+}
+
+
+/* =========================================================
+   STEPS
+========================================================= */
+
+.invisalign_forth_section_steps {
+    width: 100%;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, minmax(0,1fr));
+}
+
+
+.invisalign_forth_section_step {
+    min-height: 160px;
+
+    position: relative;
+
+    padding:
+        0
+        22px;
+
+    text-align: center;
+}
+
+
+.invisalign_forth_section_step:first-child {
+    padding-left: 0;
+}
+
+
+.invisalign_forth_section_step:not(:last-child)::after {
+    content: "";
+
+    position: absolute;
+
+    right: 0;
+    top: 3px;
+    bottom: 0;
+
+    width: 1px;
+
+    background:
+        rgba(75,99,91,0.14);
+}
+
+
+/* =========================================================
+   STEP TOP
+========================================================= */
+
+.invisalign_forth_section_step_top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+    gap: 12px;
+
+    margin-bottom: 8px;
+}
+
+
+.invisalign_forth_section_icon {
+    width: 68px;
+    height: 68px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background:
+        linear-gradient(
+            145deg,
+            #edf2ef,
+            #f5f6f3
+        );
+
+    color: #294f47;
+
+    font-size: 35px;
+}
+
+
+.invisalign_forth_section_number {
+    margin-top: 12px;
+
+    color: #293a35;
+
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.invisalign_forth_section_step h3 {
+    margin: 0 0 5px;
+
+    color: #32413c;
+
+    font-size: 15px;
+    font-weight: 700;
+}
+
+
+.invisalign_forth_section_step p {
+    margin: 0;
+
+    color: #59645f;
+
+    font-size: 12px;
+    font-weight: 500;
+
+    line-height: 1.45;
+}
+
+
+/* =========================================================
+   RIGHT IMAGE
+========================================================= */
+
+.invisalign_forth_section_right {
+    min-height: 325px;
+}
+
+
+.invisalign_forth_section_image_wrapper {
+    width: 100%;
+    height: 100%;
+
+    min-height: 325px;
+
+    position: relative;
+
+    overflow: hidden;
+
+    background: #e6e8e4;
+}
+
+
+.invisalign_forth_section_image {
+    width: 100%;
+    height: 100%;
+
+    position: absolute;
+
+    inset: 0;
+
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* =========================================================
+   HAND WRITING
+========================================================= */
+
+.invisalign_forth_section_handwriting {
+    position: absolute;
+
+    z-index: 5;
+
+    right: 8%;
+    top: 17%;
+
+    width: 155px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    color: rgba(255,255,255,0.90);
+
+    font-family: "Caveat", cursive;
+
+    font-size: 31px;
+    font-weight: 500;
+
+    line-height: 0.93;
+
+    text-align: center;
+
+    transform: rotate(-7deg);
+
+    text-shadow:
+        0 2px 6px rgba(0,0,0,0.12);
+}
+
+
+.invisalign_forth_section_handwriting span:nth-child(2),
+.invisalign_forth_section_handwriting span:nth-child(3) {
+    margin-top: 6px;
+}
+
+
+.invisalign_forth_section_handwriting > div {
+    margin-top: 7px;
+
+    display: flex;
+    align-items: center;
+}
+
+
+.invisalign_forth_section_handwriting i {
+    margin-left: 8px;
+
+    font-size: 25px;
+}
+
+
+
+/* =========================================================
+   INVISALIGN FIFTH SECTION
+========================================================= */
+
+.invisalign_fifth_section {
+    width: 100%;
+
+    position: relative;
+
+    overflow: hidden;
+
+    padding: 22px 0 28px;
+
+    background: #f8f8f5;
+
+    border-top:
+        1px solid rgba(70,95,87,0.06);
+
+    font-family: "DM Sans", sans-serif;
+}
+
+
+.invisalign_fifth_section_container {
+    width: 100%;
+
+    padding-left: 62px;
+    padding-right: 55px;
+}
+
+
+/* =========================================================
+   LEFT INTRO
+========================================================= */
+
+.invisalign_fifth_section_intro {
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.invisalign_fifth_section_eyebrow {
+    margin-bottom: 8px;
+
+    color: #526f67;
+
+    font-size: 11px;
+    font-weight: 600;
+
+    letter-spacing: 7px;
+}
+
+
+.invisalign_fifth_section_title {
+    margin: 0;
+
+    color: #123f37;
+
+    font-family: "Playfair Display", serif;
+
+    font-size: 43px;
+    font-weight: 600;
+
+    line-height: 1;
+
+    letter-spacing: -1px;
+}
+
+
+.invisalign_fifth_section_description {
+    margin: 15px 0 0;
+
+    color: #52605b;
+
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+/* =========================================================
+   BUTTON
+========================================================= */
+
+.invisalign_fifth_section_button {
+    width: 100%;
+    max-width: 395px;
+
+    height: 53px;
+
+    margin-top: 17px;
+
+    padding:
+        0
+        22px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            90deg,
+            #174e43,
+            #205d50
+        );
+
+    border-radius: 8px;
+
+    text-decoration: none;
+
+    font-size: 13px;
+    font-weight: 600;
+
+    transition:
+        background 0.3s ease,
+        transform 0.3s ease;
+}
+
+
+.invisalign_fifth_section_button i {
+    font-size: 19px;
+
+    transition: transform 0.3s ease;
+}
+
+
+.invisalign_fifth_section_button:hover {
+    color: #ffffff;
+
+    background: #123f37;
+
+    transform: translateY(-2px);
+}
+
+
+.invisalign_fifth_section_button:hover i {
+    transform: translateX(4px);
+}
+
+
+/* =========================================================
+   BEFORE AFTER WRAPPER
+========================================================= */
+
+.invisalign_fifth_section_before_after {
+    width: 100%;
+    height: 225px;
+
+    position: relative;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(2,minmax(0,1fr));
+
+    gap: 3px;
+
+    overflow: visible;
+
+    background: #ffffff;
+
+    border-radius: 9px;
+
+    box-shadow:
+        0 5px 20px rgba(37,60,53,0.035);
+}
+
+
+/* =========================================================
+   PHOTO
+========================================================= */
+
+.invisalign_fifth_section_photo {
+    width: 100%;
+    height: 225px;
+
+    position: relative;
+
+    overflow: hidden;
+}
+
+
+.invisalign_fifth_section_photo:first-child {
+    border-radius:
+        9px
+        0
+        0
+        9px;
+}
+
+
+.invisalign_fifth_section_photo:nth-child(3) {
+    border-radius:
+        0
+        9px
+        9px
+        0;
+}
+
+
+.invisalign_fifth_section_photo img {
+    width: 100%;
+    height: 100%;
+
+    display: block;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* =========================================================
+   BEFORE AFTER LABEL
+========================================================= */
+
+.invisalign_fifth_section_label {
+    position: absolute;
+
+    left: 15px;
+    bottom: 12px;
+
+    min-width: 90px;
+    height: 35px;
+
+    padding:
+        0
+        13px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #ffffff;
+
+    border-radius: 18px;
+
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+.invisalign_fifth_section_label.before {
+    background:
+        rgba(45,42,37,0.92);
+}
+
+
+.invisalign_fifth_section_label.after {
+    background:
+        rgba(20,80,67,0.95);
+}
+
+
+/* =========================================================
+   CENTER ARROW
+========================================================= */
+
+.invisalign_fifth_section_center_arrow {
+    position: absolute;
+
+    z-index: 6;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: 56px;
+    height: 56px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #244a41;
+
+    background: #ffffff;
+
+    border-radius: 50%;
+
+    font-size: 28px;
+
+    box-shadow:
+        0 5px 15px rgba(0,0,0,0.08);
+}
+
+
+/* =========================================================
+   TESTIMONIAL
+========================================================= */
+
+.invisalign_fifth_section_testimonial {
+    width: 100%;
+    height: 225px;
+
+    position: relative;
+
+    padding:
+        34px
+        40px
+        30px
+        55px;
+
+    background: #ffffff;
+
+    border-radius: 8px;
+
+    box-shadow:
+        0 5px 20px rgba(37,60,53,0.035);
+}
+
+
+.invisalign_fifth_section_quote_mark {
+    position: absolute;
+
+    left: 24px;
+    top: 15px;
+
+    color: #174e43;
+
+    font-family: Georgia, serif;
+
+    font-size: 46px;
+    font-weight: 700;
+}
+
+
+.invisalign_fifth_section_quote {
+    margin: 0;
+
+    color: #45524d;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    line-height: 1.5;
+}
+
+
+.invisalign_fifth_section_author {
+    margin-top: 11px;
+
+    color: #253c35;
+
+    font-size: 15px;
+    font-weight: 700;
+
+    text-align: center;
+}
+
+
+/* =========================================================
+   STARS
+========================================================= */
+
+.invisalign_fifth_section_stars {
+    margin-top: 8px;
+
+    display: flex;
+    justify-content: center;
+
+    gap: 6px;
+
+    color: #f8a918;
+
+    font-size: 19px;
+}
+
+
+/* =========================================================
+   CONTROLS
+========================================================= */
+
+.invisalign_fifth_section_controls {
+    position: absolute;
+
+    left: 17px;
+    right: 17px;
+    bottom: 23px;
+
+    display: flex;
+    justify-content: space-between;
+
+    pointer-events: none;
+}
+
+
+.invisalign_fifth_section_control {
+    width: 40px;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    pointer-events: auto;
+
+    color: #355048;
+
+    background: #ffffff;
+
+    border:
+        1px solid #96a39f;
+
+    border-radius: 50%;
+
+    font-size: 19px;
+
+    cursor: pointer;
+
+    transition:
+        background 0.3s ease,
+        color 0.3s ease;
+}
+
+
+.invisalign_fifth_section_control:hover {
+    color: #ffffff;
+
+    background: #174e43;
+
+    border-color: #174e43;
+}
+
+
+/* =========================================================
+   LARGE DESKTOP
+========================================================= */
+
+@media (min-width: 1600px) {
+
+    .invisalign_forth_section_row,
+    .invisalign_forth_section_left,
+    .invisalign_forth_section_right,
+    .invisalign_forth_section_image_wrapper {
+        min-height: 345px;
+    }
+
+
+    .invisalign_forth_section_title {
+        font-size: 47px;
+    }
+
+
+    .invisalign_forth_section_step h3 {
+        font-size: 16px;
+    }
+
+
+    .invisalign_forth_section_step p {
+        font-size: 13px;
+    }
+
+
+    .invisalign_fifth_section_title {
+        font-size: 47px;
+    }
+
+
+    .invisalign_fifth_section_before_after,
+    .invisalign_fifth_section_photo,
+    .invisalign_fifth_section_testimonial {
+        height: 240px;
+    }
+
+}
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media (max-width: 1399.98px) {
+
+    .invisalign_forth_section_content {
+        padding-left: 45px;
+    }
+
+
+    .invisalign_forth_section_title {
+        font-size: 37px;
+    }
+
+
+    .invisalign_forth_section_icon {
+        width: 60px;
+        height: 60px;
+
+        font-size: 30px;
+    }
+
+
+    .invisalign_forth_section_number {
+        font-size: 14px;
+    }
+
+
+    .invisalign_forth_section_step h3 {
+        font-size: 13px;
+    }
+
+
+    .invisalign_forth_section_step p {
+        font-size: 10px;
+    }
+
+
+    .invisalign_forth_section_handwriting {
+        font-size: 27px;
+    }
+
+
+    /* fifth */
+
+    .invisalign_fifth_section_container {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+
+    .invisalign_fifth_section_title {
+        font-size: 37px;
+    }
+
+
+    .invisalign_fifth_section_description {
+        font-size: 12px;
+    }
+
+
+    .invisalign_fifth_section_button {
+        font-size: 11px;
+    }
+
+
+    .invisalign_fifth_section_quote {
+        font-size: 12px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    /* FORTH */
+
+    .invisalign_forth_section_left {
+        min-height: auto;
+    }
+
+
+    .invisalign_forth_section_content {
+        padding:
+            40px
+            30px;
+    }
+
+
+    .invisalign_forth_section_title {
+        font-size: 42px;
+    }
+
+
+    .invisalign_forth_section_steps {
+        grid-template-columns:
+            repeat(2, minmax(0,1fr));
+
+        gap: 25px 0;
+    }
+
+
+    .invisalign_forth_section_step {
+        min-height: 170px;
+    }
+
+
+    .invisalign_forth_section_step:nth-child(2)::after {
+        display: none;
+    }
+
+
+    .invisalign_forth_section_step h3 {
+        font-size: 15px;
+    }
+
+
+    .invisalign_forth_section_step p {
+        font-size: 12px;
+    }
+
+
+    .invisalign_forth_section_right,
+    .invisalign_forth_section_image_wrapper {
+        min-height: 430px;
+    }
+
+
+    .invisalign_forth_section_handwriting {
+        font-size: 34px;
+    }
+
+
+    /* FIFTH */
+
+    .invisalign_fifth_section {
+        padding:
+            35px
+            0;
+    }
+
+
+    .invisalign_fifth_section_container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+
+    .invisalign_fifth_section_intro {
+        padding-bottom: 10px;
+    }
+
+
+    .invisalign_fifth_section_title {
+        font-size: 40px;
+    }
+
+
+    .invisalign_fifth_section_description {
+        font-size: 14px;
+    }
+
+
+    .invisalign_fifth_section_before_after,
+    .invisalign_fifth_section_photo {
+        height: 280px;
+    }
+
+
+    .invisalign_fifth_section_testimonial {
+        height: 280px;
+
+        padding:
+            45px
+            45px;
+    }
+
+
+    .invisalign_fifth_section_quote {
+        font-size: 15px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 767.98px) {
+
+    /* FORTH */
+
+    .invisalign_forth_section_content {
+        padding:
+            35px
+            16px;
+    }
+
+
+    .invisalign_forth_section_eyebrow {
+        font-size: 9px;
+
+        letter-spacing: 4px;
+    }
+
+
+    .invisalign_forth_section_title {
+        font-size: 35px;
+    }
+
+
+    .invisalign_forth_section_steps {
+        grid-template-columns: 1fr;
+
+        gap: 0;
+
+        margin-top: 25px;
+    }
+
+
+    .invisalign_forth_section_step {
+        min-height: 120px;
+
+        padding:
+            18px
+            5px;
+
+        border-bottom:
+            1px solid rgba(75,99,91,0.12);
+    }
+
+
+    .invisalign_forth_section_step:last-child {
+        border-bottom: 0;
+    }
+
+
+    .invisalign_forth_section_step::after {
+        display: none;
+    }
+
+
+    .invisalign_forth_section_step_top {
+        justify-content: flex-start;
+    }
+
+
+    .invisalign_forth_section_step h3,
+    .invisalign_forth_section_step p {
+        text-align: left;
+    }
+
+
+    .invisalign_forth_section_right,
+    .invisalign_forth_section_image_wrapper {
+        min-height: 320px;
+    }
+
+
+    .invisalign_forth_section_handwriting {
+        right: 20px;
+        top: 30px;
+
+        width: 130px;
+
+        padding: 9px;
+
+        font-size: 25px;
+
+        background:
+            rgba(40,75,66,0.35);
+
+        backdrop-filter: blur(3px);
+
+        border-radius: 10px;
+    }
+
+
+    /* FIFTH */
+
+    .invisalign_fifth_section_container {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+
+    .invisalign_fifth_section_eyebrow {
+        font-size: 9px;
+
+        letter-spacing: 4px;
+    }
+
+
+    .invisalign_fifth_section_title {
+        font-size: 34px;
+    }
+
+
+    .invisalign_fifth_section_button {
+        height: 52px;
+
+        font-size: 12px;
+    }
+
+
+    .invisalign_fifth_section_before_after {
+        height: 210px;
+    }
+
+
+    .invisalign_fifth_section_photo {
+        height: 210px;
+    }
+
+
+    .invisalign_fifth_section_label {
+        left: 8px;
+        bottom: 8px;
+
+        min-width: 65px;
+        height: 28px;
+
+        font-size: 11px;
+    }
+
+
+    .invisalign_fifth_section_center_arrow {
+        width: 45px;
+        height: 45px;
+
+        font-size: 22px;
+    }
+
+
+    .invisalign_fifth_section_testimonial {
+        height: auto;
+        min-height: 250px;
+
+        padding:
+            40px
+            40px
+            55px;
+    }
+
+
+    .invisalign_fifth_section_quote {
+        font-size: 14px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .invisalign_forth_section_title {
+        font-size: 31px;
+    }
+
+
+    .invisalign_forth_section_right,
+    .invisalign_forth_section_image_wrapper {
+        min-height: 275px;
+    }
+
+
+    .invisalign_fifth_section_title {
+        font-size: 30px;
+    }
+
+
+    .invisalign_fifth_section_before_after {
+        height: 175px;
+    }
+
+
+    .invisalign_fifth_section_photo {
+        height: 175px;
+    }
+
+}
