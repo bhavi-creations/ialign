@@ -1,12 +1,6 @@
 <?php include 'navbar.php'; ?>
 
 
-<!-- Bootstrap Icons -->
-<link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
 
 
 <section class="about_first_section">
@@ -131,7 +125,7 @@
 
                 <div class="about_first_section_image_wrapper">
 
-                    <img src="assets/img/1.jpeg"
+                    <img src="assets/img//11.png"
                          alt="IALIGN Signature Dental Care Clinic"
                          class="about_first_section_image">
 
@@ -175,7 +169,7 @@
 
                 <div class="about_second_section_image_wrapper">
 
-                    <img src="assets/img/about/about-second-clinic.jpg"
+                    <img src="assets/img/11.png"
                          alt="Modern Dental Clinic"
                          class="about_second_section_image">
 
@@ -337,7 +331,7 @@
 
                 <div class="about_third_section_doctor_image">
 
-                    <img src="assets/img/doctors/dr-sridhar.png"
+                    <img src="assets/img/about_doctor_2.png"
                          alt="Dr. Sridhar K R">
 
                 </div>
@@ -373,7 +367,7 @@
 
                 <div class="about_third_section_doctor_image">
 
-                    <img src="assets/img/doctors/dr-aparna.png"
+                    <img src="assets/img/about_doctor_1.png"
                          alt="Dr. P Aparna">
 
                 </div>

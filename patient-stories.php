@@ -144,7 +144,7 @@
 
                 <div class="patient_stories_first_section_image_wrapper">
 
-                    <img src="assets/img/patient-stories/patient-stories-first.jpg"
+                    <img src="assets/img/11.png"
                          alt="Happy Dental Patient"
                          class="patient_stories_first_section_image">
 

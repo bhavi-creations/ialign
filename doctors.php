@@ -48,7 +48,7 @@
 
                 <div class="doctor_first_section_image_wrapper">
 
-                    <img src="assets/img/doctors/doctor-first-clinic.jpg"
+                    <img src="assets/img/home-bg-img-1.png"
                          alt="IALIGN Signature Dental Care"
                          class="doctor_first_section_image">
 
@@ -110,7 +110,7 @@
 
                 <div class="doctor_second_section_image_box">
 
-                    <img src="assets/img/1.jpeg"
+                    <img src="assets/img/doctor2.png"
                          alt="Dr. Sridhar K R"
                          class="doctor_second_section_image">
 
@@ -358,7 +358,7 @@
 
                 <div class="doctor_second_section_image_box">
 
-                    <img src="assets/img/1.jpeg"
+                    <img src="assets/img/doctor1.png"
                          alt="Dr. P Aparna"
                          class="doctor_second_section_image">
 
@@ -670,7 +670,7 @@
 
                 <div class="doctor_third_section_image_wrapper">
 
-                    <img src="assets/img/doctors/doctor-third-clinic.jpg"
+                    <img src="assets/img/service-3.png"
                          alt="IALIGN Dental Clinic"
                          class="doctor_third_section_image">
 

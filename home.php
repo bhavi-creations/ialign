@@ -1060,7 +1060,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_third_section_doctor_image">
 
-                            <img src="assets/img/doctors/dr-sridhar.png"
+                            <img src="assets/img/doctor2.png"
                                  alt="Dr. Sridhar K R">
 
                         </div>
@@ -1086,7 +1086,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="index_third_section_doctor_image">
 
-                            <img src="assets/img/doctors/dr-aparna.png"
+                            <img src="assets/img/doctor1.png"
                                  alt="Dr. P Aparna">
 
                         </div>
