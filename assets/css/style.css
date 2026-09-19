@@ -14820,7 +14820,7 @@
 
 
     .doctor_first_section_description {
-        font-size: 14px;
+        font-size: 16px;
     }
 
 
@@ -15030,7 +15030,7 @@
 
 
     .doctor_first_section_description {
-        font-size: 13px;
+        font-size: 16px;
     }
 
 
@@ -15785,7 +15785,7 @@
 
     text-decoration: none;
 
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
 
     transition:
@@ -15911,7 +15911,7 @@
 
 
     .doctor_second_section_description {
-        font-size: 11px;
+        font-size: 19px;
     }
 
 
@@ -15926,7 +15926,7 @@
 
 
     .doctor_second_section_expertise_item {
-        font-size: 9px;
+        font-size: 17px;
     }
 
 
@@ -15939,7 +15939,7 @@
 
 
     .doctor_second_section_quote_card p {
-        font-size: 12px;
+        font-size: 15px;
     }
 
 }
@@ -16023,7 +16023,7 @@
     .doctor_second_section_description {
         max-width: none;
 
-        font-size: 13px;
+        font-size: 15px;
     }
 
 
@@ -16040,7 +16040,7 @@
     .doctor_second_section_expertise_item {
         min-height: 36px;
 
-        font-size: 12px;
+        font-size: 16px;
     }
 
 
@@ -16135,7 +16135,7 @@
 
 
     .doctor_second_section_description {
-        font-size: 12px;
+        font-size: 15px;
 
         line-height: 1.55;
     }
@@ -16161,7 +16161,7 @@
         border-bottom:
             1px solid rgba(78,99,92,0.08);
 
-        font-size: 12px;
+        font-size: 15px;
     }
 
 
@@ -16221,7 +16221,7 @@
 
 
     .doctor_second_section_quote_card p {
-        font-size: 13px;
+        font-size: 15px;
     }
 
 }
@@ -16913,7 +16913,7 @@
 
 
     .doctor_fourth_section_text {
-        font-size: 12px;
+        font-size: 15px;
     }
 
 
@@ -17048,7 +17048,7 @@
 
 
     .doctor_fourth_section_text {
-        font-size: 13px;
+        font-size: 15px;
     }
 
 
