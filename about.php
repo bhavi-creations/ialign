@@ -455,7 +455,7 @@
 
                 <div class="about_fourth_section_image_wrapper">
 
-                    <img src="assets/img/about/about-fourth-aligner.jpg"
+                    <img src="assets/img/service_1.png"
                          alt="Dental Aligners"
                          class="about_fourth_section_image">
 

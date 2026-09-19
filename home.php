@@ -39,7 +39,7 @@
                     <!-- CTA BUTTONS -->
                     <div class="index_first_section_buttons">
 
-                        <a href="#appointment"
+                        <a href="appointment.php"
                            class="index_first_section_btn index_first_section_btn_primary">
 
                             <i class="bi bi-calendar2-week"></i>

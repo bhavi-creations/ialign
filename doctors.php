@@ -54,7 +54,7 @@
 
 
                     <!-- LEFT HANDWRITING -->
-                    <div class="doctor_first_section_quote_one">
+                    <!-- <div class="doctor_first_section_quote_one">
 
                         <span>Same</span>
                         <span>Passion</span>
@@ -65,11 +65,11 @@
                             <i class="bi bi-heart"></i>
                         </div>
 
-                    </div>
+                    </div> -->
 
 
                     <!-- RIGHT HANDWRITING -->
-                    <div class="doctor_first_section_quote_two">
+                    <!-- <div class="doctor_first_section_quote_two">
 
                         <span>Healthy</span>
                         <span>Smiles</span>
@@ -78,7 +78,7 @@
 
                         <div class="doctor_first_section_quote_line"></div>
 
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -116,11 +116,11 @@
 
 
                     <!-- handwritten -->
-                    <div class="doctor_second_section_image_quote">
+                    <!-- <div class="doctor_second_section_image_quote">
                         <span>Precision</span>
                         <span>Experience</span>
                         <span>Better Outcomes</span>
-                    </div>
+                    </div> -->
 
 
                     <!-- specialization -->

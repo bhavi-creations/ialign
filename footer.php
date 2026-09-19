@@ -60,9 +60,9 @@
                             Home
                         </a>
 
-                        <a href="smile-gallery.php">
+                        <!-- <a href="smile-gallery.php">
                             Smile Gallery
-                        </a>
+                        </a> -->
 
                         <a href="about.php">
                             About Us
