@@ -2602,7 +2602,7 @@
     }
 
     .index_first_section_btn {
-        padding: 0 27px;
+        padding: 0 20px;
     }
 
     .index_first_section_btn_primary {
@@ -2610,7 +2610,7 @@
     }
 
     .index_first_section_btn_secondary {
-        min-width: 205px;
+        min-width: 160px;
     }
 
     .index_first_section_features {
