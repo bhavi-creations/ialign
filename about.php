@@ -55,7 +55,8 @@
                         <div class="about_first_section_feature">
 
                             <div class="about_first_section_feature_icon">
-                                <i class="bi bi-tooth"></i>
+                                <img src="./assets/img/icons/personalized.png" alt="" style="width: 50px; height: 50px;">
+                                <!-- <i class="bi bi-tooth"></i> -->
                             </div>
 
                             <div class="about_first_section_feature_text">
@@ -70,7 +71,8 @@
                         <div class="about_first_section_feature">
 
                             <div class="about_first_section_feature_icon">
-                                <i class="bi bi-gem"></i>
+                                <img src="./assets/img/icons/robotics.png" alt="" style="width: 50px; height: 50px;">
+                                <!-- <i class="bi bi-gem"></i> -->
                             </div>
 
                             <div class="about_first_section_feature_text">
@@ -85,7 +87,9 @@
                         <div class="about_first_section_feature">
 
                             <div class="about_first_section_feature_icon">
-                                <i class="bi bi-people"></i>
+                                                                <img src="./assets/img/icons/experienced.png" alt="" style="width: 50px; height: 50px;">
+
+                                <!-- <i class="bi bi-people"></i> -->
                             </div>
 
                             <div class="about_first_section_feature_text">
@@ -100,7 +104,8 @@
                         <div class="about_first_section_feature">
 
                             <div class="about_first_section_feature_icon">
-                                <i class="bi bi-heart"></i>
+                                <!-- <i class="bi bi-heart"></i> -->
+                                 <img src="./assets/img/icons/care.png" alt="" style="width: 40px; height: 40px;">
                             </div>
 
                             <div class="about_first_section_feature_text">

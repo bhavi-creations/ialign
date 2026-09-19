@@ -4383,14 +4383,16 @@
 ========================================================= */
 
 .index_fourth_section_icon {
-    width: 66px;
-    min-width: 66px;
-    height: 70px;
+    width: 75px;
+    min-width: 75px;
+    height: 75px;
+    border-radius: ;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
+/* background-color: red; */
     color: #e1ddbd;
 
     font-size: 55px;

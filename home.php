@@ -65,7 +65,9 @@
                         <div class="index_first_section_feature">
 
                             <div class="index_first_section_feature_icon">
-                                <i class="bi bi-bounding-box-circles"></i>
+                                <!-- <i class="bi bi-bounding-box-circles"></i> -->
+                                 <img src="./assets/img/icons/robotics.png" alt="Advanced
+Technology" style="width: 40px; height: 40px;">
                             </div>
 
                             <div class="index_first_section_feature_text">
@@ -80,7 +82,9 @@
                         <div class="index_first_section_feature">
 
                             <div class="index_first_section_feature_icon">
-                                <i class="bi bi-person-check"></i>
+                                <!-- <i class="bi bi-person-check"></i> -->
+                                  <img src="./assets/img/icons/personalized.png" alt="Advanced
+Technology" style="width: 40px; height: 40px;">
                             </div>
 
                             <div class="index_first_section_feature_text">
@@ -95,7 +99,9 @@
                         <div class="index_first_section_feature">
 
                             <div class="index_first_section_feature_icon">
-                                <i class="bi bi-shield-check"></i>
+                                <!-- <i class="bi bi-shield-check"></i> -->
+                                 <img src="./assets/img/icons/sofa.png" alt="Advanced
+Technology" style="width: 40px; height: 40px;">
                             </div>
 
                             <div class="index_first_section_feature_text">
@@ -1147,8 +1153,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="index_fourth_section_item">
 
                     <div class="index_fourth_section_icon">
-                        <i class="bi bi-gem"></i>
-                    </div>
+                        <!-- <i class="bi bi-gem"></i> -->
+<img src="./assets/img/icons/robotics.png" alt="" style="width: 60px; height: 60px; filter: brightness(0) invert(1);">                    </div>
 
                     <div class="index_fourth_section_content">
 
@@ -1176,7 +1182,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="index_fourth_section_item">
 
                     <div class="index_fourth_section_icon">
-                        <i class="bi bi-people"></i>
+                        <img src="./assets/img/icons/personalized.png" alt="" style="width: 60px; height: 60px; filter: brightness(0) invert(1);">                    
+
+                        <!-- <i class="bi bi-people"></i> -->
+                         
                     </div>
 
                     <div class="index_fourth_section_content">
@@ -1206,6 +1215,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     <div class="index_fourth_section_icon">
                         <i class="bi bi-shield-check"></i>
+
+
                     </div>
 
                     <div class="index_fourth_section_content">
@@ -1234,7 +1245,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="index_fourth_section_item">
 
                     <div class="index_fourth_section_icon">
-                        <i class="bi bi-heart"></i>
+
+
+                                                                    <img src="./assets/img/icons/growth.png" alt="" style="width: 60px; height: 60px; filter: brightness(0) invert(1);">                    
+
+                        <!-- <i class="bi bi-heart"></i> -->
                     </div>
 
                     <div class="index_fourth_section_content">
