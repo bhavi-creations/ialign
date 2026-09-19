@@ -136,12 +136,12 @@
                         </a>
                     </li>
 
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link navabr-link"
                            href="smile-gallery.php">
                             Smile Gallery
                         </a>
-                    </li>
+                    </li> -->
 
                     <li class="nav-item">
                         <a class="nav-link navabr-link"

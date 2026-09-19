@@ -3991,7 +3991,7 @@
 
 
     .index_third_section_description {
-        font-size: 14px;
+        font-size: 15px;
     }
 
 
@@ -6912,7 +6912,7 @@
     .about_first_section_description {
         margin-top: 22px;
 
-        font-size: 13px;
+        font-size: 15px;
     }
 
 
@@ -7538,7 +7538,7 @@
 
 
     .about_second_section_description {
-        font-size: 11px;
+        font-size: 15px;
 
         line-height: 1.5;
     }
@@ -7555,7 +7555,7 @@
 
 
     .about_second_section_feature_text {
-        font-size: 10px;
+        font-size: 14px;
     }
 
 }
@@ -8340,7 +8340,7 @@
 
 
     .about_third_section_description {
-        font-size: 11px;
+        font-size: 15px;
     }
 
 
@@ -9042,12 +9042,12 @@
 
 
     .about_fourth_section_value h3 {
-        font-size: 11px;
+        font-size: 14px;
     }
 
 
     .about_fourth_section_value p {
-        font-size: 9px;
+        font-size: 13px;
     }
 
 }
