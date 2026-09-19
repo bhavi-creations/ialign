@@ -248,12 +248,12 @@
 
                         <div class="index_sixth_section_user">
 
-                            <div class="index_sixth_section_avatar">
+                            <!-- <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/rohit.jpg"
                                      alt="Rohit S.">
 
-                            </div>
+                            </div> -->
 
 
                             <div class="index_sixth_section_user_info">
@@ -291,12 +291,12 @@
 
                         <div class="index_sixth_section_user">
 
-                            <div class="index_sixth_section_avatar">
+                            <!-- <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/ananya.jpg"
                                      alt="Ananya R.">
 
-                            </div>
+                            </div> -->
 
 
                             <div class="index_sixth_section_user_info">
@@ -334,12 +334,12 @@
 
                         <div class="index_sixth_section_user">
 
-                            <div class="index_sixth_section_avatar">
+                            <!-- <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/karthik.jpg"
                                      alt="Karthik M.">
 
-                            </div>
+                            </div> -->
 
 
                             <div class="index_sixth_section_user_info">
@@ -377,12 +377,12 @@
 
                         <div class="index_sixth_section_user">
 
-                            <div class="index_sixth_section_avatar">
+                            <!-- <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/patient-4.jpg"
                                      alt="Patient">
 
-                            </div>
+                            </div> -->
 
 
                             <div class="index_sixth_section_user_info">
