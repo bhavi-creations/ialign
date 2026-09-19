@@ -168,17 +168,12 @@
 
 <section class="treatment_second_section">
 
-    <div class="container treatment_second_section_container">
+    <div class="container-fluid treatment_second_section_container">
 
-
-        <!-- =====================================================
-             HEADER
-        ====================================================== -->
+        <!-- HEADER -->
         <div class="treatment_second_section_header">
 
-
             <div class="treatment_second_section_heading_wrap">
-
                 <div class="treatment_second_section_eyebrow">
                     OUR TREATMENTS
                 </div>
@@ -187,21 +182,18 @@
                     Complete Care Under One Roof
                 </h2>
 
+                <span class="treatment_second_section_title_line"></span>
             </div>
-
 
             <div class="treatment_second_section_header_text">
                 Expert care. Modern technology.<br>
                 A healthier, happier you.
             </div>
 
-
         </div>
 
 
-        <!-- =====================================================
-             TREATMENTS GRID
-        ====================================================== -->
+        <!-- GRID -->
         <div class="treatment_second_section_grid">
 
 
@@ -210,32 +202,34 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/Wisdom-teeth-removal-hd-img.png"
                          alt="Wisdom Teeth Removal">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-shield-check"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Wisdom Teeth Removal
-                    </h3>
+                    <h3>Wisdom Teeth Removal</h3>
 
                     <p>
                         Safe and comfortable removal by experienced specialists.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 02 -->
@@ -243,32 +237,34 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/orthodontic-braces-4k-hd.png"
                          alt="Braces">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-distribute-horizontal"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Braces
-                    </h3>
+                    <h3>Braces</h3>
 
                     <p>
                         Straighten your smile with advanced orthodontic solutions.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 03 -->
@@ -276,32 +272,34 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/invisalign-aligner-4k.png"
                          alt="Invisalign and Aligners">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-badge-3d"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Invisalign &amp; Aligners
-                    </h3>
+                    <h3>Invisalign &amp; Aligners</h3>
 
                     <p>
                         A discreet way to achieve a confident smile.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 04 -->
@@ -309,32 +307,35 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/Dental-implants-teeth-img.png"
                          alt="Dental Implants">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-nut"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Dental Implants
-                    </h3>
+                    <h3>Dental Implants</h3>
 
                     <p>
-                        Replace missing teeth with long-lasting, natural-looking results.
+                        Replace missing teeth with long-lasting,
+                        natural-looking results.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 05 -->
@@ -342,32 +343,34 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/Root-canal-rectangle-img.png"
                          alt="Root Canal Treatment">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-heart-pulse"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Root Canal Treatment
-                    </h3>
+                    <h3>Root Canal Treatment</h3>
 
                     <p>
                         Relieve pain and save your natural teeth.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 06 -->
@@ -375,33 +378,36 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/GBT-teeth-cleaning-img.png"
                          alt="Advanced Teeth Cleaning GBT">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-droplet-half"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
                     <h3>
-                        Advanced Teeth<br>
-                        Cleaning (GBT)
+                        Advanced Teeth Cleaning (GBT)
                     </h3>
 
                     <p>
                         A deeper, gentler clean for healthier gums.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 07 -->
@@ -409,32 +415,34 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/Smile-designing.png"
                          alt="Smile Designing">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-emoji-smile"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Smile Designing
-                    </h3>
+                    <h3>Smile Designing</h3>
 
                     <p>
                         Enhance your smile with personalized cosmetic solutions.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 08 -->
@@ -442,32 +450,34 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/Dental-veneers-img.png"
                          alt="Veneers">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-gem"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Veneers
-                    </h3>
+                    <h3>Veneers</h3>
 
                     <p>
                         Transform your smile with natural-looking veneers.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 09 -->
@@ -475,32 +485,34 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/Laser-gum-treatment-img.png"
                          alt="Laser Gum Treatment">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-lightning-charge"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        Laser Gum Treatment
-                    </h3>
+                    <h3>Laser Gum Treatment</h3>
 
                     <p>
                         Effective care for bleeding gums and gum health.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
-
 
 
             <!-- 10 -->
@@ -508,31 +520,33 @@
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
-
                     <img src="assets/img/treatments/joint-pain-treatment.png"
                          alt="TMJ Joint Pain Treatment">
-
                 </div>
 
+                <div class="treatment_second_section_card_icon">
+                    <i class="bi bi-activity"></i>
+                </div>
 
                 <div class="treatment_second_section_card_content">
 
-                    <h3>
-                        TMJ Joint Pain<br>
-                        Treatment
-                    </h3>
+                    <h3>TMJ Joint Pain Treatment</h3>
 
                     <p>
                         Find relief from jaw pain and improve function.
                     </p>
 
+                    <div class="treatment_second_section_card_footer">
+                        <span class="treatment_second_section_learn">
+                            Learn More
+                        </span>
 
-                    <span class="treatment_second_section_arrow">
-                        <i class="bi bi-arrow-right"></i>
-                    </span>
+                        <span class="treatment_second_section_arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </div>
 
                 </div>
-
             </a>
 
 
