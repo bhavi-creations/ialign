@@ -85,7 +85,7 @@
 
                             <div class="index_first_section_feature_text">
                                 Personalised<br>
-                                Treatment Plans
+                                Treatment
                             </div>
 
                         </div>
@@ -107,7 +107,7 @@
 
 
                         <!-- 04 -->
-                        <div class="index_first_section_feature">
+                        <!-- <div class="index_first_section_feature">
 
                             <div class="index_first_section_feature_icon">
                                 <i class="bi bi-award"></i>
@@ -118,7 +118,7 @@
                                 Excellence
                             </div>
 
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -1292,14 +1292,14 @@ document.addEventListener("DOMContentLoaded", function () {
             </div>
 
 
-            <a href="smile-gallery.php"
+            <!-- <a href="smile-gallery.php"
                class="index_fifth_section_view_more">
 
                 <span>View More Cases</span>
 
                 <i class="bi bi-arrow-right"></i>
 
-            </a>
+            </a> -->
 
         </div>
 
