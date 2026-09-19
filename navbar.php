@@ -17,53 +17,62 @@
 <header class="navabr">
 
     <!-- ================= TOP BAR ================= -->
-    <div class="navabr-topbar">
-        <div class="navabr-topbar-inner">
+<div class="navabr-topbar">
 
-            <!-- Address -->
-            <div class="navabr-address">
-                <i class="bi bi-geo-alt-fill"></i>
+    <!-- DESKTOP VIEW ONLY -->
+    <div class="navabr-topbar-inner d-none d-lg-flex">
+        <!-- Address -->
+        <div class="navabr-address">
+            <i class="bi bi-geo-alt-fill"></i>
+            <span>
+                #486, Ground Floor, 12th Main Road, Near BSNL Telephone Exchange,
+                Koramangala 4th Block, Bangalore 560 034.
+            </span>
+        </div>
 
-                <span>
-                    #486, Ground Floor, 12th Main Road, Near BSNL Telephone Exchange,
-                    Koramangala 4th Block, Bangalore 560 034.
-                </span>
+        <!-- Right Contact -->
+        <div class="navabr-top-right">
+            <a href="tel:+919902686388" class="navabr-phone">
+                <i class="bi bi-telephone-fill"></i>
+                <span>+91 990 268 6388</span>
+            </a>
+            <span class="navabr-divider">|</span>
+            <a href="tel:+918041114100" class="navabr-phone">
+                <i class="bi bi-telephone-fill"></i>
+                <span>+91 080-41114100</span>
+            </a>
+            <div class="navabr-socials">
+                <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+                <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+                <a href="#" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
             </div>
-
-
-            <!-- Right Contact -->
-            <div class="navabr-top-right">
-
-                <a href="tel:+919902686388" class="navabr-phone">
-                    <i class="bi bi-telephone-fill"></i>
-                    <span>+91 990 268 6388</span>
-                </a>
-
-                <span class="navabr-divider">|</span>
-
-                <a href="tel:+918041114100" class="navabr-phone">
-                    <i class="bi bi-telephone-fill"></i>
-                    <span>+91 080-41114100</span>
-                </a>
-
-                <div class="navabr-socials">
-                    <a href="#" aria-label="Instagram">
-                        <i class="bi bi-instagram"></i>
-                    </a>
-
-                    <a href="#" aria-label="Facebook">
-                        <i class="bi bi-facebook"></i>
-                    </a>
-
-                    <a href="#" aria-label="YouTube">
-                        <i class="bi bi-youtube"></i>
-                    </a>
-                </div>
-
-            </div>
-
         </div>
     </div>
+
+    <!-- MOBILE VIEW ONLY (Marquee) -->
+    <div class="marquee-section d-block d-lg-none">
+        <marquee behavior="scroll" direction="left" scrollamount="5" class="top-info-marquee">
+            <span class="marquee-item">
+                <i class="bi bi-geo-alt-fill"></i> #486, Ground Floor, 12th Main Road, Near BSNL Telephone Exchange, Koramangala 4th Block, Bangalore 560 034.
+            </span>
+            <span class="marquee-divider">|</span>
+            <span class="marquee-item">
+                <a href="tel:+919902686388"><i class="bi bi-telephone-fill"></i> +91 990 268 6388</a>
+            </span>
+            <span class="marquee-divider">|</span>
+            <span class="marquee-item">
+                <a href="tel:+918041114100"><i class="bi bi-telephone-fill"></i> +91 080-41114100</a>
+            </span>
+            <span class="marquee-divider">|</span>
+            <span class="marquee-item marquee-socials">
+                <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+                <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+                <a href="#" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
+            </span>
+        </marquee>
+    </div>
+
+</div>
 
 
     <!-- ================= MAIN NAVBAR ================= -->

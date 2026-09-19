@@ -28387,3 +28387,43 @@ input::-webkit-calendar-picker-indicator {
     }
 
 }
+
+
+
+
+/* Mobile Marquee Fixes */
+.marquee-section {
+    width: 100%;
+    overflow: hidden;
+    padding: 6px 0;
+}
+
+.top-info-marquee {
+    display: block;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.marquee-item {
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 13px;
+    padding: 0 10px;
+}
+
+.marquee-item a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.marquee-divider {
+    display: inline-block;
+    padding: 0 5px;
+    opacity: 0.6;
+}
+
+.marquee-socials a {
+    display: inline-block;
+    margin: 0 5px;
+    font-size: 14px;
+}
