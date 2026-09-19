@@ -54,7 +54,7 @@
                             <div class="treatment_first_section_feature_icon">
 
                                 <!-- Tooth SVG -->
-                                <svg viewBox="0 0 64 64"
+                                <!-- <svg viewBox="0 0 64 64"
                                      xmlns="http://www.w3.org/2000/svg">
 
                                     <path d="M17.2 6.4C11 8.8 8.2 15.4 9.2 22.1c.8 5.3 3.8 8.9 5.7 13.7 2.1 5.1 2 11.2 3.3 16.5.6 2.5 1.7 5.7 4.7 5.5 3.3-.2 4.5-5.4 5.4-8.1.9-2.9 1.7-7.3 5.7-7.3s4.8 4.4 5.7 7.3c.9 2.7 2.1 7.9 5.4 8.1 3 .2 4.1-3 4.7-5.5 1.3-5.3 1.2-11.4 3.3-16.5 1.9-4.8 4.9-8.4 5.7-13.7 1-6.7-1.8-13.3-8-15.7-5.1-2-9.9.2-14.8 1.4-1.4.4-2.8.5-4 .5s-2.6-.1-4-.5C27.1 6.6 22.3 4.4 17.2 6.4Z"
@@ -63,7 +63,8 @@
                                           stroke-width="3.2"
                                           stroke-linecap="round"
                                           stroke-linejoin="round"/>
-                                </svg>
+                                </svg> -->
+                                 <img src="./assets/img/icons/robotics.png" alt="" style="width: 50px; height: 50px;">
 
                             </div>
 
@@ -83,8 +84,9 @@
                         <div class="treatment_first_section_feature">
 
                             <div class="treatment_first_section_feature_icon">
+                                <img src="./assets/img/icons/clean.png" alt="" style="width: 50px; height: 50px;">
 
-                                <i class="bi bi-people"></i>
+                                <!-- <i class="bi bi-people"></i> -->
 
                             </div>
 
@@ -105,7 +107,9 @@
 
                             <div class="treatment_first_section_feature_icon">
 
-                                <i class="bi bi-shield-check"></i>
+                            <img src="./assets/img/icons/care.png" alt="" style="width: 50px; height: 50px;">
+
+                                <!-- <i class="bi bi-shield-check"></i> -->
 
                             </div>
 

@@ -240,7 +240,8 @@
                         <div class="about_second_section_feature">
 
                             <div class="about_second_section_feature_icon">
-                                <i class="bi bi-buildings"></i>
+                                <img src="./assets/img/icons/modern-house.png" alt="" style="width: 40px; height: 40px;">
+                                <!-- <i class="bi bi-buildings"></i> -->
                             </div>
 
                             <div class="about_second_section_feature_text">
@@ -254,7 +255,10 @@
                         <div class="about_second_section_feature">
 
                             <div class="about_second_section_feature_icon">
-                                <i class="bi bi-shield-check"></i>
+
+                                                            <img src="./assets/img/icons/safe.png" alt="" style="width: 40px; height: 40px;">
+
+                                <!-- <i class="bi bi-shield-check"></i> -->
                             </div>
 
                             <div class="about_second_section_feature_text">
@@ -268,7 +272,9 @@
                         <div class="about_second_section_feature">
 
                             <div class="about_second_section_feature_icon">
-                                <i class="bi bi-lamp"></i>
+                                                                                            <img src="./assets/img/icons/good-heart.png" alt="" style="width: 40px; height: 40px;">
+
+                                <!-- <i class="bi bi-lamp"></i> -->
                             </div>
 
                             <div class="about_second_section_feature_text">
@@ -514,7 +520,9 @@
 
                             <div class="about_fourth_section_icon_circle">
 
-                                <i class="bi bi-heart"></i>
+                                <!-- <i class="bi bi-heart"></i> -->
+                         <img src="./assets/img/icons/trust.png" alt="" style="width: 40px; height: 40px;">
+
 
                             </div>
 
@@ -535,7 +543,8 @@
 
                             <div class="about_fourth_section_icon_circle">
 
-                                <i class="bi bi-people"></i>
+                                <!-- <i class="bi bi-people"></i> -->
+                                 <img src="./assets/img/icons/care.png" alt="" style="width: 40px; height: 40px;">
 
                             </div>
 
@@ -556,7 +565,8 @@
 
                             <div class="about_fourth_section_icon_circle">
 
-                                <i class="bi bi-award"></i>
+                                <!-- <i class="bi bi-award"></i> -->
+                                 <img src="./assets/img/icons/experienced.png" alt="" style="width: 40px; height: 40px;">
 
                             </div>
 
@@ -577,7 +587,8 @@
 
                             <div class="about_fourth_section_icon_circle">
 
-                                <i class="bi bi-leaf"></i>
+                                <!-- <i class="bi bi-leaf"></i> -->
+                                 <img src="./assets/img/icons/good-heart.png" alt="" style="width: 40px; height: 40px;">
 
                             </div>
 
