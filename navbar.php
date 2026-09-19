@@ -42,9 +42,11 @@
                 <span>+91 080-41114100</span>
             </a>
             <div class="navabr-socials">
-                <a href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
+                <a href="https://www.instagram.com/ialignsignaturedentalcare/" target="_blank" aria-label="Instagram"><img src="./assets/img/icons/instagram.png" style="width: 30px; height:30px;" alt=""></a>
+                <a href="https://www.facebook.com/IalignSignatureDentalCare/" target="_blank" aria-label="Facebook"><img src="./assets/img/icons/facebook.png" style="width: 30px; height:30px;" alt=""></a>
+                <a href="https://www.youtube.com/@IALiGNSignaturedentalcare" target="_blank" aria-label="YouTube"><img src="./assets/img/icons/youtube.png" style="width: 30px; height:30px;" alt=""></a>
+                <a href="https://in.pinterest.com/ialigns/" target="_blank" aria-label="pintrest"><img src="./assets/img/icons/social.png" style="width: 30px; height:30px;" alt=""></a>
+                <a href="https://www.linkedin.com/in/ialign-signature-dental-care-6a5a40434/" target="_blank" aria-label="linked in"><img src="./assets/img/icons/linkedin.png" style="width: 30px; height:30px;" alt=""></a>
             </div>
         </div>
     </div>
