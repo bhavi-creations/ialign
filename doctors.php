@@ -182,7 +182,8 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-heart-pulse"></i>
+                                        <!-- <i class="bi bi-heart-pulse"></i> -->
+                                        <img src="./assets/img/icons/tooth-extraction.png" alt="" style="width: 20px ; height :20px;">
                                     </span>
 
                                     <span>
@@ -195,7 +196,8 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-eyedropper"></i>
+                                        <!-- <i class="bi bi-eyedropper"></i> -->
+                                         <img src="./assets/img/icons/dental_implants1.png" alt="" style="width: 20px ; height :20px;">
                                     </span>
 
                                     <span>
@@ -208,7 +210,9 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-bandaid"></i>
+                                        <!-- <i class="bi bi-bandaid"></i> -->
+                                        <img src="./assets/img/icons/rheumatology.png" alt="" style="width: 20px ; height :20px;">
+
                                     </span>
 
                                     <span>
@@ -238,7 +242,9 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-activity"></i>
+                                        <!-- <i class="bi bi-activity"></i> -->
+                                        <img src="./assets/img/icons/jaw-surgery.png" alt="" style="width: 20px ; height :20px;">
+
                                     </span>
 
                                     <span>
@@ -431,7 +437,8 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-link-45deg"></i>
+                                        <!-- <i class="bi bi-link-45deg"></i> -->
+                                        <img src="./assets/img/icons/braces.png" alt="braces" style="width: 20px ; height :20px;">
                                     </span>
 
                                     <span>
@@ -444,7 +451,8 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-align-center"></i>
+                                        <!-- <i class="bi bi-align-center"></i> -->
+                                        <img src="./assets/img/icons/aligners-icon.png" alt="braces" style="width: 20px ; height :20px;">
                                     </span>
 
                                     <span>
@@ -470,7 +478,8 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-stars"></i>
+                                        <!-- <i class="bi bi-stars"></i> -->
+                                        <img src="./assets/img/icons/jaw-surgery.png" alt="braces" style="width: 20px ; height :20px;">
                                     </span>
 
                                     <span>
@@ -500,7 +509,8 @@
                                 <div class="doctor_second_section_expertise_item">
 
                                     <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-heart"></i>
+                                        <!-- <i class="bi bi-heart"></i> -->
+                                        <img src="./assets/img/icons/Smile-Makeover.png" alt="braces" style="width: 20px ; height :20px;">
                                     </span>
 
                                     <span>
