@@ -207,8 +207,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <img src="./assets/img/icons/tooth-extraction.png" alt="" style="width: 30px ; height :30px;">
-                    <!-- <i class="bi bi-shield-check"></i> -->
+                    <i class="bi bi-shield-check"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -243,9 +242,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-distribute-horizontal"></i> -->
-                                         <img src="./assets/img/icons/braces.png" alt="braces" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-distribute-horizontal"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -280,9 +277,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-badge-3d"></i> -->
-                                         <img src="./assets/img/icons/aligners-icon.png" alt="" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-badge-3d"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -317,9 +312,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-nut"></i> -->
-                                         <img src="./assets/img/icons/dental_implants1.png" alt="" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-nut"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -355,9 +348,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-heart-pulse"></i> -->
-                                         <img src="./assets/img/icons/root-canal.png" alt="" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-heart-pulse"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -392,9 +383,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-droplet-half"></i> -->
-                                         <img src="./assets/img/icons/teeth_whitening.png" alt="" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-droplet-half"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -431,9 +420,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-emoji-smile"></i> -->
-                                         <img src="./assets/img/icons/Smile-Makeover.png" alt="" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-emoji-smile"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -468,9 +455,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-gem"></i> -->
-                                         <img src="./assets/img/icons/veener.png" alt="" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-gem"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -505,9 +490,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-lightning-charge"></i> -->
-                                         <img src="./assets/img/icons/clean.png" alt="" style="width: 30px ; height :30px;">
-
+                    <i class="bi bi-lightning-charge"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">
@@ -542,11 +525,7 @@
                 </div>
 
                 <div class="treatment_second_section_card_icon">
-                    <!-- <i class="bi bi-activity"></i> -->
-                                         <img src="./assets/img/icons/rheumatology.png" alt="" style="width: 30px ; height :30px;">
-
-
-                    
+                    <i class="bi bi-activity"></i>
                 </div>
 
                 <div class="treatment_second_section_card_content">

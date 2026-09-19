@@ -1621,7 +1621,7 @@
         align-items: center;
         border: 0 !important;
         color: #171717 !important;
-        font-size: clamp(14.5px, 0.95vw, 16px) !important;
+        font-size: 16px !important;
         line-height: 1.2 !important;
         white-space: nowrap;
     }
@@ -2560,7 +2560,7 @@
 
     .index_first_section_btn {
         height: 62px;
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .index_first_section_btn_primary {
@@ -3936,7 +3936,7 @@
 
 
     .index_third_section_description {
-        font-size: 16px;
+        font-size: 18px;
     }
 
 
@@ -4866,7 +4866,7 @@
 
     color: #4b5754;
 
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 500;
 }
 
@@ -5142,7 +5142,7 @@
 
     color: #58625f;
 
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 500;
 }
 
@@ -5310,7 +5310,7 @@
 
 
     .index_sixth_section_review {
-        font-size: 16px;
+        font-size: 18px;
     }
 
 }
@@ -5880,7 +5880,7 @@
 
     color: #353934;
 
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
 
     line-height: 1.55;
@@ -5998,8 +5998,8 @@
 .index_eight_section_menu a {
     color: #343a36;
 
-    font-size: 13px;
-    font-weight: 500;
+    font-size: 16px;
+    font-weight: 550;
 
     text-decoration: none;
 
@@ -6054,7 +6054,7 @@
 
 
     .index_seven_section_content p {
-        font-size: 12px;
+        font-size: 15px;
     }
 
 
@@ -6062,7 +6062,7 @@
         width: 195px;
         height: 47px;
 
-        font-size: 13px;
+        font-size: 15px;
     }
 
 
@@ -6853,7 +6853,7 @@
     .about_first_section_description {
         max-width: 510px;
 
-        font-size: 15px;
+        font-size: 20px;
     }
 
 
@@ -6873,7 +6873,7 @@
 
 
     .about_first_section_feature_text {
-        font-size: 12px;
+        font-size: 16px;
     }
 
 
@@ -7469,7 +7469,7 @@
 .about_second_section_feature_text {
     color: #374440;
 
-    font-size: 11px;
+    font-size: 16px;
     font-weight: 500;
 
     line-height: 1.3;
@@ -7499,7 +7499,7 @@
 
 
     .about_second_section_description {
-        font-size: 12px;
+        font-size: 16px;
     }
 
 }
@@ -7905,7 +7905,7 @@
 
     color: #46514d;
 
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 500;
 
     line-height: 1.45;
@@ -8022,7 +8022,7 @@
 
     color: #414a46;
 
-    font-size: 9px;
+    font-size: 14px;
     font-weight: 500;
 
     line-height: 1.35;
@@ -8055,7 +8055,7 @@
 
     text-decoration: none;
 
-    font-size: 10px;
+    font-size: 14px;
     font-weight: 500;
 
     transition:
@@ -8187,7 +8187,7 @@
 
     text-decoration: none;
 
-    font-size: 10px;
+    font-size: 14px;
     font-weight: 600;
 
     transition:
@@ -8947,7 +8947,7 @@
 
     color: #55615d;
 
-    font-size: 10px;
+    font-size: 14px;
     font-weight: 500;
 
     line-height: 1.3;
@@ -10078,7 +10078,7 @@
 
     color: #243a33;
 
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
 
     line-height: 1.2;
@@ -10103,7 +10103,7 @@
 .footer_links_grid a {
     color: #48534f;
 
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 500;
 
     line-height: 1.35;
@@ -10173,7 +10173,7 @@
 
     color: #45504c;
 
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 500;
 
     line-height: 1.6;
@@ -10195,7 +10195,7 @@
 
     color: #424d48;
 
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 500;
 
     line-height: 1.4;
@@ -10260,7 +10260,7 @@
 
     color: #4c5b56;
 
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 500;
 
     line-height: 1.55;
@@ -10302,7 +10302,7 @@
 
     color: rgba(255,255,255,0.88);
 
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
 
     line-height: 1.4;
@@ -10317,7 +10317,7 @@
 
     color: rgba(255,255,255,0.82);
 
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
 }
 
