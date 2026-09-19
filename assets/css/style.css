@@ -2602,7 +2602,7 @@
     }
 
     .index_first_section_btn {
-        padding: 0 20px;
+        padding: 0 27px;
     }
 
     .index_first_section_btn_primary {
@@ -2610,7 +2610,7 @@
     }
 
     .index_first_section_btn_secondary {
-        min-width: 160px;
+        min-width: 205px;
     }
 
     .index_first_section_features {
@@ -28747,10 +28747,4 @@ input::-webkit-calendar-picker-indicator {
     display: inline-block;
     margin: 0 5px;
     font-size: 14px;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-.navabr .navabr-appointment {
-    margin-left: 201px;
-}
 }

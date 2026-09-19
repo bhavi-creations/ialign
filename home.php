@@ -107,7 +107,7 @@
 
 
                         <!-- 04 -->
-                        <!-- <div class="index_first_section_feature">
+                        <div class="index_first_section_feature">
 
                             <div class="index_first_section_feature_icon">
                                 <i class="bi bi-award"></i>
@@ -118,7 +118,7 @@
                                 Excellence
                             </div>
 
-                        </div> -->
+                        </div>
 
                     </div>
 
