@@ -224,7 +224,7 @@
         </div>
     </section>
 
-    <section class="invisalign_forth_section">
+    <!-- <section class="invisalign_forth_section">
         <div class="container-fluid invisalign_forth_section_container">
             <div class="row g-0 invisalign_forth_section_row">
                 <div class="col-lg-8 invisalign_forth_section_left">
@@ -302,7 +302,94 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
+
+
+    <section class="rootcanal_fourth_section_wrapper">
+    <div class="container">
+        <div class="rootcanal_fourth_section_process_card">
+
+            <!-- SECTION HEADER -->
+            <div class="rootcanal_fourth_section_header">
+                <h2 class="rootcanal_fourth_section_title">
+                    THE DENTAL BRACES TREATMENT PROCESS
+                </h2>
+                <div class="rootcanal_fourth_section_divider">
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                    <div class="rootcanal_fourth_section_divider_dot"></div>
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                </div>
+            </div>
+
+            <!-- 5 STEPS FLOW -->
+            <div class="rootcanal_fourth_section_steps_flow">
+
+                <!-- STEP 1 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="Orthodontic Consultation">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Consultation &amp; Evaluation</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We examine your teeth, bite, and jaw alignment to understand your orthodontic needs.
+                    </p>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Digital Scans and Treatment Planning">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Scans &amp; Treatment Planning</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Digital scans, photographs, and X-rays are used to create a personalized braces treatment plan.
+                    </p>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Braces Placement">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Braces Placement</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Brackets and wires are carefully placed on your teeth to begin moving them into proper alignment.
+                    </p>
+                </div>
+
+                <!-- STEP 4 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Regular Adjustments">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Regular Adjustments</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Periodic visits allow us to adjust the braces and guide your teeth gradually into the desired position.
+                    </p>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="Braces Removal and Retainers">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Braces Removal &amp; Retainers</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Once alignment is complete, the braces are removed and retainers help maintain your new smile.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
     <section class="invisalign_fifth_section">
         <div class="container-fluid invisalign_fifth_section_container">

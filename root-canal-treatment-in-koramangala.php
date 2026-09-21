@@ -224,7 +224,7 @@
         </div>
     </section>
 
-    <section class="invisalign_forth_section">
+    <!-- <section class="invisalign_forth_section">
         <div class="container-fluid invisalign_forth_section_container">
             <div class="row g-0 invisalign_forth_section_row">
                 <div class="col-lg-8 invisalign_forth_section_left">
@@ -302,7 +302,93 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
+
+    <section class="rootcanal_fourth_section_wrapper">
+    <div class="container">
+        <div class="rootcanal_fourth_section_process_card">
+
+            <!-- SECTION HEADER -->
+            <div class="rootcanal_fourth_section_header">
+                <h2 class="rootcanal_fourth_section_title">
+                    THE ROOT CANAL TREATMENT PROCESS
+                </h2>
+                <div class="rootcanal_fourth_section_divider">
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                    <div class="rootcanal_fourth_section_divider_dot"></div>
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                </div>
+            </div>
+
+            <!-- 5 STEPS FLOW -->
+            <div class="rootcanal_fourth_section_steps_flow">
+
+                <!-- STEP 1 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="Examination and Diagnosis">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Examination &amp; Diagnosis</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We examine the affected tooth and use X-rays to assess the infection and plan your treatment.
+                    </p>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Local Anesthesia and Access">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Anesthesia &amp; Access</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Local anesthesia is given for comfort, and a small opening is created to access the infected pulp.
+                    </p>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Cleaning and Disinfection">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Cleaning &amp; Disinfection</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        The infected pulp is carefully removed, and the root canals are thoroughly cleaned and disinfected.
+                    </p>
+                </div>
+
+                <!-- STEP 4 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Root Canal Filling">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Canal Filling &amp; Sealing</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        The cleaned canals are filled and securely sealed to prevent bacteria from entering again.
+                    </p>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="Tooth Restoration">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Tooth Restoration</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        A filling or custom crown is placed to restore the tooth's strength, function, and natural appearance.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
     <section class="invisalign_fifth_section">
         <div class="container-fluid invisalign_fifth_section_container">

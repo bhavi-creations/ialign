@@ -500,14 +500,14 @@
      INVISALIGN FORTH SECTION
 ========================================================= -->
 
-<section class="invisalign_forth_section">
+<!-- <section class="invisalign_forth_section">
 
     <div class="container-fluid invisalign_forth_section_container">
 
         <div class="row g-0 invisalign_forth_section_row">
 
 
-            <!-- ================= LEFT JOURNEY ================= -->
+            ================= LEFT JOURNEY =================
             <div class="col-lg-8 invisalign_forth_section_left">
 
                 <div class="invisalign_forth_section_content">
@@ -521,11 +521,11 @@
                     </h2>
 
 
-                    <!-- JOURNEY STEPS -->
+                    JOURNEY STEPS
                     <div class="invisalign_forth_section_steps">
 
 
-                        <!-- STEP 01 -->
+                        STEP 01
                         <div class="invisalign_forth_section_step">
 
                             <div class="invisalign_forth_section_step_top">
@@ -552,7 +552,7 @@
                         </div>
 
 
-                        <!-- STEP 02 -->
+                        STEP 02
                         <div class="invisalign_forth_section_step">
 
                             <div class="invisalign_forth_section_step_top">
@@ -579,7 +579,7 @@
                         </div>
 
 
-                        <!-- STEP 03 -->
+                        STEP 03
                         <div class="invisalign_forth_section_step">
 
                             <div class="invisalign_forth_section_step_top">
@@ -606,7 +606,7 @@
                         </div>
 
 
-                        <!-- STEP 04 -->
+                        STEP 04
                         <div class="invisalign_forth_section_step">
 
                             <div class="invisalign_forth_section_step_top">
@@ -640,7 +640,7 @@
             </div>
 
 
-            <!-- ================= RIGHT IMAGE ================= -->
+            ================= RIGHT IMAGE =================
             <div class="col-lg-4 invisalign_forth_section_right">
 
                 <div class="invisalign_forth_section_image_wrapper">
@@ -672,8 +672,95 @@
 
     </div>
 
-</section>
+</section> -->
 
+
+
+
+
+<section class="rootcanal_fourth_section_wrapper">
+    <div class="container">
+        <div class="rootcanal_fourth_section_process_card">
+
+            <!-- SECTION HEADER -->
+            <div class="rootcanal_fourth_section_header">
+                <h2 class="rootcanal_fourth_section_title">
+                    THE INVISALIGN ALIGNERS TREATMENT PROCESS
+                </h2>
+                <div class="rootcanal_fourth_section_divider">
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                    <div class="rootcanal_fourth_section_divider_dot"></div>
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                </div>
+            </div>
+
+            <!-- 5 STEPS FLOW -->
+            <div class="rootcanal_fourth_section_steps_flow">
+
+                <!-- STEP 1 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="Invisalign Consultation and Evaluation">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Consultation &amp; Evaluation</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We assess your teeth, bite, and smile goals to determine if clear aligners are right for you.
+                    </p>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Digital Scan and Treatment Planning">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Digital Scan &amp; Planning</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        A precise digital scan is taken to create a customized treatment plan and preview your expected smile.
+                    </p>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Custom Aligners">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Custom Aligners</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        A series of clear, custom-made aligners is created to gradually move your teeth into alignment.
+                    </p>
+                </div>
+
+                <!-- STEP 4 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Progress Monitoring">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Progress Monitoring</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Regular check-ups help us monitor your progress and ensure your teeth are moving as planned.
+                    </p>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="Final Smile and Retainers">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Final Smile &amp; Retainers</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Once treatment is complete, retainers help maintain your newly aligned and confident smile.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <!-- =========================================================

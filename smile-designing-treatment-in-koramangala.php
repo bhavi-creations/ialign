@@ -224,7 +224,7 @@
         </div>
     </section>
 
-    <section class="invisalign_forth_section">
+    <!-- <section class="invisalign_forth_section">
         <div class="container-fluid invisalign_forth_section_container">
             <div class="row g-0 invisalign_forth_section_row">
                 <div class="col-lg-8 invisalign_forth_section_left">
@@ -302,7 +302,93 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
+
+    <section class="rootcanal_fourth_section_wrapper">
+    <div class="container">
+        <div class="rootcanal_fourth_section_process_card">
+
+            <!-- SECTION HEADER -->
+            <div class="rootcanal_fourth_section_header">
+                <h2 class="rootcanal_fourth_section_title">
+                    THE SMILE DESIGNING TREATMENT PROCESS
+                </h2>
+                <div class="rootcanal_fourth_section_divider">
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                    <div class="rootcanal_fourth_section_divider_dot"></div>
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                </div>
+            </div>
+
+            <!-- 5 STEPS FLOW -->
+            <div class="rootcanal_fourth_section_steps_flow">
+
+                <!-- STEP 1 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="Smile Consultation and Evaluation">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Smile Consultation &amp; Evaluation</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We evaluate your teeth, gums, facial features, and smile goals to understand the changes you desire.
+                    </p>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Digital Smile Analysis">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Digital Smile Analysis</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Digital photographs and scans are used to analyze tooth shape, alignment, proportions, and smile aesthetics.
+                    </p>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Customized Smile Planning">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Customized Smile Planning</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        A personalized treatment plan is created to improve the shape, color, alignment, and overall balance of your smile.
+                    </p>
+                </div>
+
+                <!-- STEP 4 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Smile Enhancement Treatment">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Smile Enhancement Treatment</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Recommended treatments such as whitening, veneers, bonding, or alignment are performed based on your smile plan.
+                    </p>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="Final Smile and Maintenance">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Final Smile &amp; Maintenance</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We review the final result and provide guidance to help maintain your healthy, natural-looking smile.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
     <section class="invisalign_fifth_section">
         <div class="container-fluid invisalign_fifth_section_container">

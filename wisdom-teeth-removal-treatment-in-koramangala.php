@@ -22,7 +22,7 @@
                             WISDOM TEETH REMOVAL                        </div>
 
                         <h1 class="invisalign_first_section_title">
-                            Relief for<br>Troublesome Wisdom Teeth                        </h1>
+                            Relief for Troublesome Wisdom Teeth                        </h1>
 
                         <p class="invisalign_first_section_description">
                             Careful assessment and planned removal of impacted or problematic wisdom teeth, with guidance at every stage of recovery.                        </p>
@@ -224,7 +224,7 @@
         </div>
     </section>
 
-    <section class="invisalign_forth_section">
+    <!-- <section class="invisalign_forth_section">
         <div class="container-fluid invisalign_forth_section_container">
             <div class="row g-0 invisalign_forth_section_row">
                 <div class="col-lg-8 invisalign_forth_section_left">
@@ -302,7 +302,93 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
+
+    <section class="rootcanal_fourth_section_wrapper">
+    <div class="container">
+        <div class="rootcanal_fourth_section_process_card">
+
+            <!-- SECTION HEADER -->
+            <div class="rootcanal_fourth_section_header">
+                <h2 class="rootcanal_fourth_section_title">
+                    THE WISDOM TEETH REMOVAL PROCESS
+                </h2>
+                <div class="rootcanal_fourth_section_divider">
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                    <div class="rootcanal_fourth_section_divider_dot"></div>
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                </div>
+            </div>
+
+            <!-- 5 STEPS FLOW -->
+            <div class="rootcanal_fourth_section_steps_flow">
+
+                <!-- STEP 1 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="Consultation and Evaluation">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Consultation &amp; Evaluation</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We examine your wisdom teeth and take X-rays to assess their position and plan the removal.
+                    </p>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Local Anesthesia">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Anesthesia &amp; Preparation</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Local anesthesia is given to keep you comfortable while the treatment area is carefully prepared.
+                    </p>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Wisdom Tooth Removal">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Wisdom Tooth Removal</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        The wisdom tooth is gently removed using the most suitable technique based on its position.
+                    </p>
+                </div>
+
+                <!-- STEP 4 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Cleaning and Suturing">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Cleaning &amp; Suturing</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        The area is cleaned thoroughly and stitches may be placed when needed to support proper healing.
+                    </p>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="Recovery and Aftercare">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Recovery &amp; Aftercare</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Aftercare instructions are provided to manage discomfort, protect the area, and support smooth healing.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
     <section class="invisalign_fifth_section">
         <div class="container-fluid invisalign_fifth_section_container">

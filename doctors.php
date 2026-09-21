@@ -113,7 +113,7 @@
 
                     <div class="doctor_second_section_image_box">
 
-                        <img src="assets/img/doctor2.png"
+                        <img src="assets/img/doctor3.png"
                              alt="Dr. Sridhar K R"
                              class="doctor_second_section_image">
 

@@ -29,7 +29,7 @@
 
                     <!-- Heading -->
                     <h1 class="treatment_first_section_title">
-                        Comprehensive<br>
+                        Comprehensive
                         Dental Care<br>
                         <span>for Every Smile</span>
                     </h1>

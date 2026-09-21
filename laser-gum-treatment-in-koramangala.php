@@ -224,7 +224,7 @@
         </div>
     </section>
 
-    <section class="invisalign_forth_section">
+    <!-- <section class="invisalign_forth_section">
         <div class="container-fluid invisalign_forth_section_container">
             <div class="row g-0 invisalign_forth_section_row">
                 <div class="col-lg-8 invisalign_forth_section_left">
@@ -302,7 +302,93 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
+
+    <section class="rootcanal_fourth_section_wrapper">
+    <div class="container">
+        <div class="rootcanal_fourth_section_process_card">
+
+            <!-- SECTION HEADER -->
+            <div class="rootcanal_fourth_section_header">
+                <h2 class="rootcanal_fourth_section_title">
+                    THE LASER GUM TREATMENT PROCESS
+                </h2>
+                <div class="rootcanal_fourth_section_divider">
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                    <div class="rootcanal_fourth_section_divider_dot"></div>
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                </div>
+            </div>
+
+            <!-- 5 STEPS FLOW -->
+            <div class="rootcanal_fourth_section_steps_flow">
+
+                <!-- STEP 1 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="Gum Examination and Assessment">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Gum Examination &amp; Assessment</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We examine your gums and assess inflammation, bleeding, infection, and periodontal pocket depth.
+                    </p>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Treatment Planning">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Treatment Planning</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        A personalized laser gum treatment plan is created based on your gum condition and treatment needs.
+                    </p>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Laser Gum Treatment">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Laser Gum Treatment</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Advanced dental laser technology is used to target infected or unhealthy gum tissue with precision.
+                    </p>
+                </div>
+
+                <!-- STEP 4 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Deep Cleaning and Disinfection">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Cleaning &amp; Disinfection</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Plaque, tartar, and bacteria around the gums are carefully removed to create a cleaner healing environment.
+                    </p>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="Healing and Follow Up">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Healing &amp; Follow-Up</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We monitor your gum healing and provide aftercare guidance to help maintain healthier gums.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
     <section class="invisalign_fifth_section">
         <div class="container-fluid invisalign_fifth_section_container">

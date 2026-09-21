@@ -13039,7 +13039,7 @@
 @media (max-width: 420px) {
 
     .treatment_first_section_title {
-        font-size: 41px;
+        font-size: 39px;
     }
 
 
@@ -13866,7 +13866,7 @@
 
 
     .treatment_second_section_eyebrow {
-        font-size: 9px;
+        font-size: 12px;
 
         letter-spacing: 4px;
     }
@@ -13885,7 +13885,7 @@
 
 
     .treatment_second_section_header_text {
-        font-size: 12px;
+        font-size: 15px;
     }
 
 
@@ -13941,7 +13941,7 @@
     .treatment_second_section_card_content p {
         max-width: 320px;
 
-        font-size: 13px;
+        font-size: 15px;
         line-height: 1.5;
     }
 
@@ -13973,7 +13973,7 @@
 @media (max-width: 420px) {
 
     .treatment_second_section_title {
-        font-size: 28px;
+        font-size: 22px;
     }
 
 
@@ -14762,7 +14762,7 @@
     .treatment_third_section_eyebrow {
         margin-bottom: 14px;
 
-        font-size: 9px;
+        font-size: 12px;
 
         letter-spacing: 4px;
     }
@@ -14891,7 +14891,7 @@
 
 
     .treatment_third_section_title {
-        font-size: 34px;
+        font-size: 30px;
     }
 
 
@@ -16652,7 +16652,7 @@
     z-index: 5;
 
     right: 25px;
-    bottom: 27px;
+    bottom: 110px;
 
     color: rgba(255, 255, 255, 0.94);
 
@@ -17422,7 +17422,7 @@
 
 
     .doctor_second_section_name {
-        font-size: 44px;
+        font-size: 42px;
     }
 
 
@@ -18127,7 +18127,8 @@
 
     align-items: center;
 
-    color: rgba(43, 70, 63, 0.78);
+    /* color: rgba(43, 70, 63, 0.78); */
+    color: white;
 
     font-family: "Caveat", cursive;
 
@@ -24931,7 +24932,7 @@
 
 
     .invisalign_first_section_title {
-        font-size: 78px;
+        font-size: 56px;
     }
 
 
@@ -24976,7 +24977,7 @@
 
 
     .invisalign_first_section_title {
-        font-size: 59px;
+        font-size: 50px;
     }
 
 
@@ -25075,7 +25076,7 @@
 
 
     .invisalign_first_section_title {
-        font-size: 49px;
+        font-size: 38px;
     }
 
 
@@ -27373,6 +27374,8 @@
 
     box-shadow:
         0 5px 20px rgba(37, 60, 53, 0.035);
+
+        border: 2px solid #215d51;
 }
 
 
@@ -31132,4 +31135,159 @@
     letter-spacing: 2px;
     margin-right: 60px;
   }
+}
+
+
+
+/* Section Wrapper */
+.rootcanal_fourth_section_wrapper {
+    padding: 60px 0;
+    background-color: #ffffff;
+}
+
+.rootcanal_fourth_section_process_card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px 10px;
+}
+
+/* Header Styling */
+.rootcanal_fourth_section_header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.rootcanal_fourth_section_title {
+    font-size: 26px;
+    font-weight: 700;
+    color: #103f37;
+    margin-bottom: 15px;
+    letter-spacing: 0.5px;
+}
+
+.rootcanal_fourth_section_divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.rootcanal_fourth_section_divider_line {
+    width: 40px;
+    height: 2px;
+    background-color: #d97706;
+}
+
+.rootcanal_fourth_section_divider_dot {
+    width: 8px;
+    height: 8px;
+    background-color: #d97706;
+    transform: rotate(45deg);
+}
+
+/* Steps Grid Layout (Image Model) */
+.rootcanal_fourth_section_steps_flow {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: stretch;
+}
+
+/* Individual Vertical Cards (Matched to reference image design) */
+.rootcanal_fourth_section_step_item {
+    flex: 1;
+    position: relative;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 35px 15px 25px 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+    transition: all 0.3s ease-in-out;
+    margin-top: 15px; /* Badge top space */
+}
+
+/* Card Hover State */
+.rootcanal_fourth_section_step_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(16, 63, 55, 0.1);
+    border-color: #103f37;
+}
+
+/* Top Center Number Badge */
+.rootcanal_fourth_section_badge {
+    position: absolute;
+    top: -16px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #103f37;
+    color: #ffffff;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    font-size: 13px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #ffffff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+/* Icon Container */
+.rootcanal_fourth_section_icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rootcanal_fourth_section_icon img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* Title & Content */
+.rootcanal_fourth_section_step_title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #103f37;
+    margin-bottom: 12px;
+    line-height: 1.3;
+}
+
+.rootcanal_fourth_section_step_desc {
+    font-size: 13px;
+    color: #4a5568;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* Responsive Alignment */
+@media (max-width: 991px) {
+    .rootcanal_fourth_section_steps_flow {
+        flex-wrap: wrap;
+    }
+    .rootcanal_fourth_section_step_item {
+        flex: 0 0 calc(33.333% - 20px); /* 3 cards in row for Tablets */
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .rootcanal_fourth_section_step_item {
+        flex: 0 0 calc(50% - 15px); /* 2 cards in row for Mobile landscape */
+    }
+}
+
+@media (max-width: 575px) {
+    .rootcanal_fourth_section_step_item {
+        flex: 0 0 100%; /* 1 card per row for Small Mobile */
+    }
 }

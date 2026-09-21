@@ -311,304 +311,87 @@
 =========================================================== -->
 
 <section class="rootcanal_fourth_section_wrapper">
-
     <div class="container">
-
         <div class="rootcanal_fourth_section_process_card">
 
-
-            <!-- ==================================================
-                 SECTION HEADER
-            =================================================== -->
+            <!-- SECTION HEADER -->
             <div class="rootcanal_fourth_section_header">
-
                 <h2 class="rootcanal_fourth_section_title">
                     THE DENTAL IMPLANTS TREATMENT PROCESS
                 </h2>
-
-
                 <div class="rootcanal_fourth_section_divider">
-
                     <div class="rootcanal_fourth_section_divider_line"></div>
-
                     <div class="rootcanal_fourth_section_divider_dot"></div>
-
                     <div class="rootcanal_fourth_section_divider_line"></div>
-
                 </div>
-
             </div>
 
-
-
-            <!-- ==================================================
-                 5 STEPS
-            =================================================== -->
+            <!-- 5 STEPS FLOW -->
             <div class="rootcanal_fourth_section_steps_flow">
 
-
-                <!-- ================= STEP 1 ================= -->
+                <!-- STEP 1 -->
                 <div class="rootcanal_fourth_section_step_item">
-
-                    <div class="rootcanal_fourth_section_circle_wrap">
-
-                        <span class="rootcanal_fourth_section_badge">
-                            1
-                        </span>
-
-                        <div class="rootcanal_fourth_section_icon">
-
-                            <img
-                                src="./assets/img/icons/dental-examination.png"
-                                alt="Consultation and Evaluation"
-                            >
-
-                        </div>
-
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="Consultation and Evaluation">
                     </div>
-
-
-                    <h3 class="rootcanal_fourth_section_step_title">
-                        Consultation &amp; Evaluation
-                    </h3>
-
-
-                    <div class="rootcanal_fourth_section_small_line"></div>
-
-
+                    <h3 class="rootcanal_fourth_section_step_title">Consultation &amp; Evaluation</h3>
                     <p class="rootcanal_fourth_section_step_desc">
-
-                        We examine your oral
-                        health and take 3D scans
-                        to plan your treatment.
-
+                        We examine your oral health and take 3D scans to plan your treatment.
                     </p>
-
                 </div>
 
-
-
-                <!-- Connector -->
-                <div class="rootcanal_fourth_section_arrow">
-
-                    <span class="process-dotted-line"></span>
-
-                    <span class="process-dot"></span>
-
-                    <span class="process-dotted-line"></span>
-
-                </div>
-
-
-
-                <!-- ================= STEP 2 ================= -->
+                <!-- STEP 2 -->
                 <div class="rootcanal_fourth_section_step_item">
-
-                    <div class="rootcanal_fourth_section_circle_wrap">
-
-                        <span class="rootcanal_fourth_section_badge">
-                            2
-                        </span>
-
-                        <div class="rootcanal_fourth_section_icon">
-
-                            <img
-                                src="./assets/img/icons/implant-step-3.png"
-                                alt="Implant Placement"
-                            >
-
-                        </div>
-
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Implant Placement">
                     </div>
-
-
-                    <h3 class="rootcanal_fourth_section_step_title">
-                        Implant Placement
-                    </h3>
-
-
-                    <div class="rootcanal_fourth_section_small_line"></div>
-
-
+                    <h3 class="rootcanal_fourth_section_step_title">Implant Placement</h3>
                     <p class="rootcanal_fourth_section_step_desc">
-
-                        The titanium implant is
-                        placed into the jawbone
-                        under local anesthesia.
-
+                        The titanium implant is placed into the jawbone under local anesthesia.
                     </p>
-
                 </div>
 
-
-
-                <!-- Connector -->
-                <div class="rootcanal_fourth_section_arrow">
-
-                    <span class="process-dotted-line"></span>
-
-                    <span class="process-dot"></span>
-
-                    <span class="process-dotted-line"></span>
-
-                </div>
-
-
-
-                <!-- ================= STEP 3 ================= -->
+                <!-- STEP 3 -->
                 <div class="rootcanal_fourth_section_step_item">
-
-                    <div class="rootcanal_fourth_section_circle_wrap">
-
-                        <span class="rootcanal_fourth_section_badge">
-                            3
-                        </span>
-
-                        <div class="rootcanal_fourth_section_icon">
-
-                            <img
-                                src="./assets/img/icons/implant-step-4.png"
-                                alt="Healing and Osseointegration"
-                            >
-
-                        </div>
-
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Healing and Osseointegration">
                     </div>
-
-
-                    <h3 class="rootcanal_fourth_section_step_title">
-                        Healing &amp; Osseointegration
-                    </h3>
-
-
-                    <div class="rootcanal_fourth_section_small_line"></div>
-
-
+                    <h3 class="rootcanal_fourth_section_step_title">Healing &amp; Osseointegration</h3>
                     <p class="rootcanal_fourth_section_step_desc">
-
-                        The implant fuses with the
-                        bone over a few months to
-                        become strong.
-
+                        The implant fuses with the bone over a few months to become strong.
                     </p>
-
                 </div>
 
-
-
-                <!-- Connector -->
-                <div class="rootcanal_fourth_section_arrow">
-
-                    <span class="process-dotted-line"></span>
-
-                    <span class="process-dot"></span>
-
-                    <span class="process-dotted-line"></span>
-
-                </div>
-
-
-
-                <!-- ================= STEP 4 ================= -->
+                <!-- STEP 4 -->
                 <div class="rootcanal_fourth_section_step_item">
-
-                    <div class="rootcanal_fourth_section_circle_wrap">
-
-                        <span class="rootcanal_fourth_section_badge">
-                            4
-                        </span>
-
-                        <div class="rootcanal_fourth_section_icon">
-
-                            <img
-                                src="./assets/img/icons/implant-step-5.png"
-                                alt="Abutment Placement"
-                            >
-
-                        </div>
-
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Abutment Placement">
                     </div>
-
-
-                    <h3 class="rootcanal_fourth_section_step_title">
-                        Abutment Placement
-                    </h3>
-
-
-                    <div class="rootcanal_fourth_section_small_line"></div>
-
-
+                    <h3 class="rootcanal_fourth_section_step_title">Abutment Placement</h3>
                     <p class="rootcanal_fourth_section_step_desc">
-
-                        A connector is placed on
-                        the implant to hold the
-                        artificial tooth.
-
+                        A connector is placed on the implant to hold the artificial tooth.
                     </p>
-
                 </div>
 
-
-
-                <!-- Connector -->
-                <div class="rootcanal_fourth_section_arrow">
-
-                    <span class="process-dotted-line"></span>
-
-                    <span class="process-dot"></span>
-
-                    <span class="process-dotted-line"></span>
-
-                </div>
-
-
-
-                <!-- ================= STEP 5 ================= -->
+                <!-- STEP 5 -->
                 <div class="rootcanal_fourth_section_step_item">
-
-                    <div class="rootcanal_fourth_section_circle_wrap">
-
-                        <span class="rootcanal_fourth_section_badge">
-                            5
-                        </span>
-
-                        <div class="rootcanal_fourth_section_icon">
-
-                            <img
-                                src="./assets/img/icons/implant-step-6.png"
-                                alt="Crown Placement"
-                            >
-
-                        </div>
-
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="Crown Placement">
                     </div>
-
-
-                    <h3 class="rootcanal_fourth_section_step_title">
-                        Crown Placement
-                    </h3>
-
-
-                    <div class="rootcanal_fourth_section_small_line"></div>
-
-
+                    <h3 class="rootcanal_fourth_section_step_title">Crown Placement</h3>
                     <p class="rootcanal_fourth_section_step_desc">
-
-                        A custom-made crown is
-                        attached, giving you a
-                        natural, beautiful smile.
-
+                        A custom-made crown is attached, giving you a natural, beautiful smile.
                     </p>
-
                 </div>
-
 
             </div>
-
         </div>
-
     </div>
-
 </section>
 
     <section class="invisalign_fifth_section">

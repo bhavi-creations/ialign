@@ -224,7 +224,7 @@
         </div>
     </section>
 
-    <section class="invisalign_forth_section">
+    <!-- <section class="invisalign_forth_section">
         <div class="container-fluid invisalign_forth_section_container">
             <div class="row g-0 invisalign_forth_section_row">
                 <div class="col-lg-8 invisalign_forth_section_left">
@@ -302,7 +302,92 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
+    <section class="rootcanal_fourth_section_wrapper">
+    <div class="container">
+        <div class="rootcanal_fourth_section_process_card">
+
+            <!-- SECTION HEADER -->
+            <div class="rootcanal_fourth_section_header">
+                <h2 class="rootcanal_fourth_section_title">
+                    THE TMJ JOINT PAIN TREATMENT PROCESS
+                </h2>
+                <div class="rootcanal_fourth_section_divider">
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                    <div class="rootcanal_fourth_section_divider_dot"></div>
+                    <div class="rootcanal_fourth_section_divider_line"></div>
+                </div>
+            </div>
+
+            <!-- 5 STEPS FLOW -->
+            <div class="rootcanal_fourth_section_steps_flow">
+
+                <!-- STEP 1 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">01</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/dental-examination.png" alt="TMJ Consultation and Evaluation">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Consultation &amp; Evaluation</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We assess your jaw movement, bite, joint sounds, pain, and related symptoms to understand the cause of discomfort.
+                    </p>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">02</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="TMJ Diagnosis and Imaging">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Diagnosis &amp; Imaging</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Diagnostic tests and imaging may be used to evaluate the jaw joint, bite, muscles, and surrounding structures.
+                    </p>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">03</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Personalized TMJ Treatment Planning">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Personalized Treatment Plan</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        A customized treatment plan is created based on your symptoms, joint condition, bite, and daily habits.
+                    </p>
+                </div>
+
+                <!-- STEP 4 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">04</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="TMJ Pain Management">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Pain Management &amp; Therapy</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        Treatment may include splints, bite correction, exercises, lifestyle guidance, or other suitable therapies.
+                    </p>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="rootcanal_fourth_section_step_item">
+                    <span class="rootcanal_fourth_section_badge">05</span>
+                    <div class="rootcanal_fourth_section_icon">
+                        <img src="./assets/img/icons/implant-step-6.png" alt="TMJ Follow Up and Maintenance">
+                    </div>
+                    <h3 class="rootcanal_fourth_section_step_title">Follow-Up &amp; Maintenance</h3>
+                    <p class="rootcanal_fourth_section_step_desc">
+                        We monitor your jaw function and symptoms and adjust the treatment plan to support long-term comfort.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
     <section class="invisalign_fifth_section">
         <div class="container-fluid invisalign_fifth_section_container">
