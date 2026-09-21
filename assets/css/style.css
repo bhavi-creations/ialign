@@ -7678,9 +7678,10 @@
 
 
     .about_first_section_eyebrow {
-        font-size: 13px;
+        font-size: 15px;
 
         letter-spacing: 6px;
+        text-align: center;
     }
 
 
@@ -7874,9 +7875,10 @@
     .about_first_section_eyebrow {
         margin-bottom: 10px;
 
-        font-size: 10px;
+        font-size: 14px;
 
         letter-spacing: 4px;
+        text-align: center;
     }
 
 
@@ -7963,7 +7965,7 @@
 @media (max-width: 420px) {
 
     .about_first_section_title {
-        font-size: 38px;
+        font-size: 32px;
     }
 
 
@@ -8615,7 +8617,7 @@
 
 
     .about_second_section_title {
-        font-size: 31px;
+        font-size: 28px;
     }
 
 
@@ -9450,7 +9452,7 @@
 
     color: #5a7c73;
 
-    font-size: 9px;
+    font-size: 10px;
     font-weight: 600;
 
     line-height: 1.8;
@@ -9702,9 +9704,9 @@
 
 
     .about_third_section_trust_line p {
-        font-size: 7px;
+        font-size: 9px;
 
-        letter-spacing: 3px;
+        letter-spacing: 2px;
     }
 
 
@@ -9747,6 +9749,7 @@
         width: 150px;
 
         font-size: 31px;
+        padding-right: 60px;
     }
 
 
@@ -9760,7 +9763,7 @@
         width: 165px;
         height: 44px;
 
-        font-size: 12px;
+        /* font-size: 12px; */
     }
 
 }
@@ -31117,4 +31120,16 @@
     .navabr .navabr-appointment {
                 margin-left: 196px;
     }
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .about_third_section_all_doctors {
+    display: none !important;
+  } 
+  
+  .about_third_section_right_bottom p{
+    letter-spacing: 2px;
+    margin-right: 60px;
+  }
 }
