@@ -1518,28 +1518,86 @@ document.addEventListener("DOMContentLoaded", function () {
 ========================================================= -->
 <section class="index_sixth_section">
 
+    <!-- Decorative Botanical Images -->
+    <img src="assets/img/reviews/review-leaf-left.png"
+         class="index_sixth_section_leaf_left"
+         alt="">
+
+    <img src="assets/img/reviews/review-leaf-right.png"
+         class="index_sixth_section_leaf_right"
+         alt="">
+
+
+    <!-- Left Handwriting -->
+    <div class="index_sixth_section_handwriting_left">
+        <span>Healthy</span>
+        <span>Smiles</span>
+        <span>Brighter</span>
+        <span>Tomorrows</span>
+    </div>
+
+
+    <!-- Right Top Handwriting -->
+    <div class="index_sixth_section_handwriting_top">
+        <span>Trusted</span>
+        <span>Dental Care</span>
+        <span>Happier Lives</span>
+
+        <i class="bi bi-arrow-return-left"></i>
+    </div>
+
+
+    <!-- Right Bottom Handwriting -->
+    <div class="index_sixth_section_handwriting_bottom">
+        <span>Smiles</span>
+        <span>Create</span>
+        <span>Stories</span>
+
+        <i class="bi bi-arrow-return-left"></i>
+    </div>
+
+
     <div class="container index_sixth_section_container">
 
 
-        <!-- HEADING -->
+        <!-- =====================================================
+             HEADER
+        ====================================================== -->
         <div class="index_sixth_section_header">
+
+            <div class="index_sixth_section_eyebrow">
+
+                <span></span>
+
+                <p>
+                    PATIENT TESTIMONIALS
+                </p>
+
+                <span></span>
+
+            </div>
+
 
             <h2>
                 What Our Patients Say
             </h2>
 
-            <p>
+
+            <p class="index_sixth_section_subtitle">
                 Real experiences. Genuine smiles.
             </p>
 
         </div>
 
 
-        <!-- REVIEWS -->
+
+        <!-- =====================================================
+             SLIDER
+        ====================================================== -->
         <div class="index_sixth_section_slider_wrapper">
 
 
-            <!-- LEFT -->
+            <!-- LEFT ARROW -->
             <button class="index_sixth_section_arrow index_sixth_section_prev"
                     type="button"
                     aria-label="Previous reviews">
@@ -1549,30 +1607,49 @@ document.addEventListener("DOMContentLoaded", function () {
             </button>
 
 
+
             <!-- VIEWPORT -->
             <div class="index_sixth_section_slider">
 
                 <div class="index_sixth_section_track">
 
 
-                    <!-- REVIEW 01 -->
+                    <!-- =================================================
+                         REVIEW 01
+                    ================================================== -->
                     <div class="index_sixth_section_card">
 
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+
+                            <div class="index_sixth_section_category">
+                                Professional Care
+                            </div>
+
+                        </div>
+
+
                         <p class="index_sixth_section_review">
-                            “The doctors are very professional and
-                            made me feel comfortable throughout
-                            my treatment. Highly recommend!”
+                            “The doctors are very professional and made me feel
+                            comfortable throughout my treatment. Highly recommend!”
                         </p>
+
+
+                        <div class="index_sixth_section_small_line"></div>
 
 
                         <div class="index_sixth_section_user">
 
-                            <!-- <div class="index_sixth_section_avatar">
+                            <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/rohit.jpg"
                                      alt="Rohit S.">
 
-                            </div> -->
+                            </div>
 
 
                             <div class="index_sixth_section_user_info">
@@ -1581,6 +1658,7 @@ document.addEventListener("DOMContentLoaded", function () {
                                     Rohit S.
                                 </h3>
 
+
                                 <div class="index_sixth_section_stars">
 
                                     <i class="bi bi-star-fill"></i>
@@ -1595,27 +1673,51 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         </div>
 
+
+                        <!-- Decorative Tooth -->
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
+
                     </div>
 
 
-                    <!-- REVIEW 02 -->
+
+                    <!-- =================================================
+                         REVIEW 02
+                    ================================================== -->
                     <div class="index_sixth_section_card">
+
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+
+                            <div class="index_sixth_section_category">
+                                Life Changing Results
+                            </div>
+
+                        </div>
+
 
                         <p class="index_sixth_section_review">
                             “My Invisalign journey here has been amazing.
-                            The team is supportive and the results
-                            are beyond my expectations!”
+                            The team is supportive and the results are beyond
+                            my expectations!”
                         </p>
+
+
+                        <div class="index_sixth_section_small_line"></div>
 
 
                         <div class="index_sixth_section_user">
 
-                            <!-- <div class="index_sixth_section_avatar">
+                            <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/ananya.jpg"
                                      alt="Ananya R.">
 
-                            </div> -->
+                            </div>
 
 
                             <div class="index_sixth_section_user_info">
@@ -1624,6 +1726,7 @@ document.addEventListener("DOMContentLoaded", function () {
                                     Ananya R.
                                 </h3>
 
+
                                 <div class="index_sixth_section_stars">
 
                                     <i class="bi bi-star-fill"></i>
@@ -1638,27 +1741,49 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         </div>
 
+
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
+
                     </div>
 
 
-                    <!-- REVIEW 03 -->
+
+                    <!-- =================================================
+                         REVIEW 03
+                    ================================================== -->
                     <div class="index_sixth_section_card">
 
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+
+                            <div class="index_sixth_section_category">
+                                Best Dental Clinic
+                            </div>
+
+                        </div>
+
+
                         <p class="index_sixth_section_review">
-                            “Excellent care, modern equipment and
-                            a friendly environment. Truly the best
-                            dental clinic in Koramangala!”
+                            “Excellent care, modern equipment and a friendly
+                            environment. Truly the best dental clinic in Koramangala!”
                         </p>
+
+
+                        <div class="index_sixth_section_small_line"></div>
 
 
                         <div class="index_sixth_section_user">
 
-                            <!-- <div class="index_sixth_section_avatar">
+                            <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/karthik.jpg"
                                      alt="Karthik M.">
 
-                            </div> -->
+                            </div>
 
 
                             <div class="index_sixth_section_user_info">
@@ -1667,6 +1792,7 @@ document.addEventListener("DOMContentLoaded", function () {
                                     Karthik M.
                                 </h3>
 
+
                                 <div class="index_sixth_section_stars">
 
                                     <i class="bi bi-star-fill"></i>
@@ -1681,27 +1807,50 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         </div>
 
+
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
+
                     </div>
 
 
-                    <!-- REVIEW 04 -->
+
+                    <!-- =================================================
+                         REVIEW 04
+                    ================================================== -->
                     <div class="index_sixth_section_card">
+
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+
+                            <div class="index_sixth_section_category">
+                                Comfortable Experience
+                            </div>
+
+                        </div>
+
 
                         <p class="index_sixth_section_review">
                             “The whole experience was smooth and comfortable.
-                            Everything was explained clearly and the
-                            treatment was handled with great care.”
+                            Everything was explained clearly and the treatment
+                            was handled with great care.”
                         </p>
+
+
+                        <div class="index_sixth_section_small_line"></div>
 
 
                         <div class="index_sixth_section_user">
 
-                            <!-- <div class="index_sixth_section_avatar">
+                            <div class="index_sixth_section_avatar">
 
                                 <img src="assets/img/reviews/patient-4.jpg"
-                                     alt="Patient">
+                                     alt="Patient Review">
 
-                            </div> -->
+                            </div>
 
 
                             <div class="index_sixth_section_user_info">
@@ -1710,6 +1859,7 @@ document.addEventListener("DOMContentLoaded", function () {
                                     Patient Review
                                 </h3>
 
+
                                 <div class="index_sixth_section_stars">
 
                                     <i class="bi bi-star-fill"></i>
@@ -1723,6 +1873,9 @@ document.addEventListener("DOMContentLoaded", function () {
                             </div>
 
                         </div>
+
+
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
 
                     </div>
 
@@ -1732,7 +1885,8 @@ document.addEventListener("DOMContentLoaded", function () {
             </div>
 
 
-            <!-- RIGHT -->
+
+            <!-- RIGHT ARROW -->
             <button class="index_sixth_section_arrow index_sixth_section_next"
                     type="button"
                     aria-label="Next reviews">
@@ -1743,6 +1897,77 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
         </div>
+
+
+
+        <!-- =====================================================
+             DOTS
+        ====================================================== -->
+        <div class="index_sixth_section_dots">
+
+            <button class="index_sixth_section_dot active"
+                    type="button"
+                    aria-label="Slide 1"></button>
+
+            <button class="index_sixth_section_dot"
+                    type="button"
+                    aria-label="Slide 2"></button>
+
+            <button class="index_sixth_section_dot"
+                    type="button"
+                    aria-label="Slide 3"></button>
+
+        </div>
+
+
+
+        <!-- =====================================================
+             TRUST BAR
+        ====================================================== -->
+        <div class="index_sixth_section_trust_bar">
+
+
+            <div class="index_sixth_section_trust_item">
+
+                <i class="bi bi-shield-check"></i>
+
+                <span>
+                    Trusted by 3500+ Patients
+                </span>
+
+            </div>
+
+
+            <div class="index_sixth_section_trust_divider"></div>
+
+
+            <div class="index_sixth_section_trust_item">
+
+                <i class="bi bi-people"></i>
+
+                <span>
+                    Experienced Dental Team
+                </span>
+
+            </div>
+
+
+            <div class="index_sixth_section_trust_divider"></div>
+
+
+            <div class="index_sixth_section_trust_item">
+
+                <i class="bi bi-heart"></i>
+
+                <span>
+                    Comfortable &amp; Caring Environment
+                </span>
+
+            </div>
+
+
+        </div>
+
 
     </div>
 

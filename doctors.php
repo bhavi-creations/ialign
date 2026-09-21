@@ -101,252 +101,417 @@
         <!-- =====================================================
              DOCTOR 01
         ====================================================== -->
+        <div class="doctor_second_section_profile">
 
-        <div class="row g-0 doctor_second_section_row">
+            <div class="row g-4 doctor_second_section_row align-items-stretch">
 
 
-            <!-- IMAGE -->
-            <div class="col-xl-4 col-lg-4 doctor_second_section_image_col">
+                <!-- =================================================
+                     IMAGE
+                ================================================== -->
+                <div class="col-xl-4 col-lg-4">
 
-                <div class="doctor_second_section_image_box">
+                    <div class="doctor_second_section_image_box">
 
-                    <img src="assets/img/doctor2.png"
-                         alt="Dr. Sridhar K R"
-                         class="doctor_second_section_image">
+                        <img src="assets/img/doctor2.png"
+                             alt="Dr. Sridhar K R"
+                             class="doctor_second_section_image">
 
 
-                    <!-- handwritten -->
-                    <!-- <div class="doctor_second_section_image_quote">
-                        <span>Precision</span>
-                        <span>Experience</span>
-                        <span>Better Outcomes</span>
-                    </div> -->
+                        <!-- TOP BADGE -->
+                        <div class="doctor_second_section_top_badge">
 
+                            <span class="doctor_second_section_top_badge_icon">
+                                <i class="bi bi-person-badge"></i>
+                            </span>
 
-                    <!-- specialization -->
-                    <div class="doctor_second_section_speciality">
+                            <span>
+                                Experienced<br>
+                                Specialist
+                            </span>
 
-                        <span class="doctor_second_section_speciality_icon">
-                            <i class="bi bi-heart-pulse"></i>
-                        </span>
+                        </div>
 
-                        <span>
-                            Oral &amp; Maxillofacial<br>
-                            Surgery Specialist
-                        </span>
 
-                    </div>
+                        <!-- BOTTOM SPECIALITY -->
+                        <div class="doctor_second_section_speciality">
 
-                </div>
+                            <span class="doctor_second_section_speciality_icon">
+                                <i class="bi bi-heart-pulse"></i>
+                            </span>
 
-            </div>
+                            <span>
+                                Oral &amp; Maxillofacial<br>
+                                Surgery Specialist
+                            </span>
 
+                        </div>
 
-            <!-- DETAILS -->
-            <div class="col-xl-5 col-lg-5 doctor_second_section_details_col">
 
-                <div class="doctor_second_section_details">
-
-                    <h2 class="doctor_second_section_name">
-                        DR. SRIDHAR K R
-                    </h2>
-
-                    <div class="doctor_second_section_qualification">
-                        MDS (Oral and Maxillofacial Surgeon)
-                    </div>
-
-                    <div class="doctor_second_section_title_line"></div>
-
-
-                    <p class="doctor_second_section_description">
-                        Dr. Sridhar K R is a highly skilled Oral and Maxillofacial Surgeon
-                        with extensive experience in managing complex dental and facial
-                        conditions. His expertise combines advanced surgical techniques
-                        with a focus on patient safety, comfort and long-term results.
-                    </p>
-
-
-                    <!-- EXPERTISE -->
-                    <div class="doctor_second_section_expertise">
-
-                        <h3>
-                            Areas of Expertise
-                        </h3>
-
-
-                        <div class="row g-0 doctor_second_section_expertise_grid">
-
-
-                            <div class="col-md-6">
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-heart-pulse"></i> -->
-                                        <img src="./assets/img/icons/tooth-extraction.png" alt="" style="width: 20px ; height :20px;">
-                                    </span>
-
-                                    <span>
-                                        Wisdom Teeth Removal
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-eyedropper"></i> -->
-                                         <img src="./assets/img/icons/dental_implants1.png" alt="" style="width: 20px ; height :20px;">
-                                    </span>
-
-                                    <span>
-                                        Dental Implants
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-bandaid"></i> -->
-                                        <img src="./assets/img/icons/rheumatology.png" alt="" style="width: 20px ; height :20px;">
-
-                                    </span>
-
-                                    <span>
-                                        Bone Grafting
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-person-wheelchair"></i>
-                                    </span>
-
-                                    <span>
-                                        Facial Trauma Management
-                                    </span>
-
-                                </div>
-
-                            </div>
-
-
-                            <div class="col-md-6 doctor_second_section_expertise_right">
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-activity"></i> -->
-                                        <img src="./assets/img/icons/jaw-surgery.png" alt="" style="width: 20px ; height :20px;">
-
-                                    </span>
-
-                                    <span>
-                                        Corrective Jaw Surgery
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-shield-check"></i>
-                                    </span>
-
-                                    <span>
-                                        Oral Pathology
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-clock-history"></i>
-                                    </span>
-
-                                    <span>
-                                        Cysts &amp; Tumor Management
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-shield"></i>
-                                    </span>
-
-                                    <span>
-                                        Complex Extractions
-                                    </span>
-
-                                </div>
-
-                            </div>
-
-
+                        <!-- SIGNATURE -->
+                        <div class="doctor_second_section_signature">
+                            Dr. Sridhar K R
                         </div>
 
                     </div>
 
                 </div>
 
-            </div>
 
 
-            <!-- QUOTE -->
-            <div class="col-xl-3 col-lg-3 doctor_second_section_quote_col">
+                <!-- =================================================
+                     CENTER DETAILS
+                ================================================== -->
+                <div class="col-xl-5 col-lg-5">
 
-                <div class="doctor_second_section_right">
+                    <div class="doctor_second_section_details">
 
-                    <div class="doctor_second_section_quote_card">
 
-                        <div class="doctor_second_section_quote_mark">
-                            “
+                        <!-- TOP TAGLINE -->
+                        <div class="doctor_second_section_eyebrow">
+
+                            <span>
+                                EXPERTISE
+                            </span>
+
+                            <i></i>
+
+                            <span>
+                                PRECISION
+                            </span>
+
+                            <i></i>
+
+                            <span>
+                                BETTER LIVES
+                            </span>
+
+                            <div class="doctor_second_section_eyebrow_line"></div>
+
                         </div>
 
-                        <p>
-                            “ My approach is simple —
-                            combining precision with care
-                            to help every patient achieve
-                            better oral health and
-                            quality of life. ”
+
+                        <!-- NAME -->
+                        <h2 class="doctor_second_section_name">
+                            DR. SRIDHAR K R
+                        </h2>
+
+
+                        <!-- QUALIFICATION -->
+                        <div class="doctor_second_section_qualification">
+                            MDS (Oral and Maxillofacial Surgeon)
+                        </div>
+
+
+                        <div class="doctor_second_section_title_line"></div>
+
+
+                        <!-- DESCRIPTION -->
+                        <p class="doctor_second_section_description">
+
+                            Dr. Sridhar K R is a highly skillful Oral and
+                            Maxillofacial Surgeon with extensive experience in
+                            managing complex dental and facial conditions. His
+                            expertise combines advanced surgical techniques with
+                            a focus on patient safety, comfort and long-term results.
+
                         </p>
 
-                        <div class="doctor_second_section_quote_author">
-                            DR. SRIDHAR K R
+
+
+                        <!-- =================================================
+                             EXPERTISE
+                        ================================================== -->
+                        <div class="doctor_second_section_expertise">
+
+                            <div class="doctor_second_section_expertise_heading">
+
+                                <h3>
+                                    Areas of Expertise
+                                </h3>
+
+                                <span></span>
+
+                            </div>
+
+
+                            <div class="row g-2 doctor_second_section_expertise_grid">
+
+
+                                <!-- 01 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/tooth-extraction.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Wisdom Tooth Removal
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <!-- 02 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/jaw-surgery.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Corrective Jaw Surgery
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <!-- 03 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/dental_implants1.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Dental Implants
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <!-- 04 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-microscope"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Oral Pathology
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <!-- 05 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/rheumatology.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Bone Grafting
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <!-- 06 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-diagram-3"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Cysts &amp; Tumor Management
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <!-- 07 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-person-wheelchair"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Facial Trauma Management
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <!-- 08 -->
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-shield-check"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Complex Extractions
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
                         </div>
 
                     </div>
 
+                </div>
 
-                    <a href="appointment.php"
-                       class="doctor_second_section_appointment">
 
-                        <i class="bi bi-calendar3"></i>
 
-                        <span>
-                            Book an Appointment
-                        </span>
+                <!-- =================================================
+                     RIGHT QUOTE
+                ================================================== -->
+                <div class="col-xl-3 col-lg-3">
 
-                        <i class="bi bi-arrow-right"></i>
+                    <div class="doctor_second_section_right">
 
-                    </a>
+
+                        <!-- QUOTE CARD -->
+                        <div class="doctor_second_section_quote_card">
+
+
+                            <div class="doctor_second_section_quote_header">
+
+                                <div class="doctor_second_section_quote_mark">
+                                    “
+                                </div>
+
+
+                                <div class="doctor_second_section_quote_tag">
+
+                                    <span>HEALTHIER</span>
+                                    <span>SMILES</span>
+                                    <span>BRIGHTER</span>
+                                    <span>TOMORROWS</span>
+
+                                </div>
+
+                            </div>
+
+
+                            <p>
+
+                                “My approach is simple — combining precision
+                                with care to help every patient achieve better
+                                oral health and quality of life.”
+
+                            </p>
+
+
+                            <div class="doctor_second_section_quote_line"></div>
+
+
+                            <div class="doctor_second_section_quote_author">
+                                DR. SRIDHAR K R
+                            </div>
+
+                        </div>
+
+
+                        <!-- APPOINTMENT -->
+                        <a href="appointment.php"
+                           class="doctor_second_section_appointment">
+
+                            <span class="doctor_second_section_appointment_calendar">
+
+                                <i class="bi bi-calendar3"></i>
+
+                            </span>
+
+                            <span class="doctor_second_section_appointment_text">
+                                Book an Appointment
+                            </span>
+
+                            <span class="doctor_second_section_appointment_arrow">
+
+                                <i class="bi bi-arrow-right"></i>
+
+                            </span>
+
+                        </a>
+
+
+                        <div class="doctor_second_section_bottom_caption">
+
+                            <span></span>
+
+                            <p>
+                                EXPERT CARE &nbsp; • &nbsp; HEALTHY TOMORROWS
+                            </p>
+
+                            <span></span>
+
+                        </div>
+
+
+                    </div>
 
                 </div>
 
-            </div>
 
+            </div>
 
         </div>
 
@@ -355,251 +520,388 @@
         <!-- =====================================================
              DOCTOR 02
         ====================================================== -->
+        <div class="doctor_second_section_profile doctor_second_section_profile_second">
 
-        <div class="row g-0 doctor_second_section_row doctor_second_section_row_second">
-
-
-            <!-- IMAGE -->
-            <div class="col-xl-4 col-lg-4 doctor_second_section_image_col">
-
-                <div class="doctor_second_section_image_box">
-
-                    <img src="assets/img/doctor1.png"
-                         alt="Dr. P Aparna"
-                         class="doctor_second_section_image">
+            <div class="row g-4 doctor_second_section_row align-items-stretch">
 
 
-                    <div class="doctor_second_section_image_quote">
-                        <span>Confident</span>
-                        <span>Smiles</span>
-                        <span>Brighter</span>
-                        <span>Futures</span>
+                <!-- IMAGE -->
+                <div class="col-xl-4 col-lg-4">
 
-                        <i class="bi bi-heart"></i>
+                    <div class="doctor_second_section_image_box">
+
+                        <img src="assets/img/doctor1.png"
+                             alt="Dr. P Aparna"
+                             class="doctor_second_section_image">
+
+
+                        <div class="doctor_second_section_top_badge">
+
+                            <span class="doctor_second_section_top_badge_icon">
+                                <i class="bi bi-stars"></i>
+                            </span>
+
+                            <span>
+                                Experienced<br>
+                                Orthodontist
+                            </span>
+
+                        </div>
+
+
+                        <div class="doctor_second_section_speciality">
+
+                            <span class="doctor_second_section_speciality_icon">
+                                <i class="bi bi-stars"></i>
+                            </span>
+
+                            <span>
+                                Orthodontist
+                            </span>
+
+                        </div>
+
+
+                        <div class="doctor_second_section_signature">
+                            Dr. P Aparna
+                        </div>
+
                     </div>
 
+                </div>
 
-                    <div class="doctor_second_section_speciality">
 
-                        <span class="doctor_second_section_speciality_icon">
-                            <i class="bi bi-stars"></i>
-                        </span>
 
-                        <span>
+                <!-- DETAILS -->
+                <div class="col-xl-5 col-lg-5">
+
+                    <div class="doctor_second_section_details">
+
+
+                        <div class="doctor_second_section_eyebrow">
+
+                            <span>EXPERTISE</span>
+
+                            <i></i>
+
+                            <span>PRECISION</span>
+
+                            <i></i>
+
+                            <span>CONFIDENT SMILES</span>
+
+                            <div class="doctor_second_section_eyebrow_line"></div>
+
+                        </div>
+
+
+                        <h2 class="doctor_second_section_name">
+                            DR. P APARNA
+                        </h2>
+
+
+                        <div class="doctor_second_section_qualification">
+
+                            MDS, M(ORTH) RCPS(Glasgow), UK<br>
                             Orthodontist
-                        </span>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- DETAILS -->
-            <div class="col-xl-5 col-lg-5 doctor_second_section_details_col">
-
-                <div class="doctor_second_section_details">
-
-                    <h2 class="doctor_second_section_name">
-                        DR. P APARNA
-                    </h2>
-
-                    <div class="doctor_second_section_qualification">
-                        MDS, M(ORTH) RCPS(Glasgow), UK<br>
-                        Orthodontist
-                    </div>
-
-                    <div class="doctor_second_section_title_line"></div>
-
-
-                    <p class="doctor_second_section_description">
-                        Dr. P Aparna is a specialist Orthodontist with international
-                        training and extensive experience in creating beautiful,
-                        functional smiles. She is dedicated to providing personalized
-                        orthodontic solutions for patients of all ages, using the latest
-                        technology and evidence-based approaches.
-                    </p>
-
-
-                    <div class="doctor_second_section_expertise">
-
-                        <h3>
-                            Areas of Expertise
-                        </h3>
-
-
-                        <div class="row g-0 doctor_second_section_expertise_grid">
-
-
-                            <div class="col-md-6">
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-link-45deg"></i> -->
-                                        <img src="./assets/img/icons/braces.png" alt="braces" style="width: 20px ; height :20px;">
-                                    </span>
-
-                                    <span>
-                                        Braces (Metal &amp; Ceramic)
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-align-center"></i> -->
-                                        <img src="./assets/img/icons/aligners-icon.png" alt="braces" style="width: 20px ; height :20px;">
-                                    </span>
-
-                                    <span>
-                                        Invisalign &amp; Clear Aligners
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-people"></i>
-                                    </span>
-
-                                    <span>
-                                        Early Orthodontic Treatment
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-stars"></i> -->
-                                        <img src="./assets/img/icons/jaw-surgery.png" alt="braces" style="width: 20px ; height :20px;">
-                                    </span>
-
-                                    <span>
-                                        Corrective Jaw Alignment
-                                    </span>
-
-                                </div>
-
-                            </div>
-
-
-                            <div class="col-md-6 doctor_second_section_expertise_right">
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-person-check"></i>
-                                    </span>
-
-                                    <span>
-                                        Adult Orthodontics
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <!-- <i class="bi bi-heart"></i> -->
-                                        <img src="./assets/img/icons/Smile-Makeover.png" alt="braces" style="width: 20px ; height :20px;">
-                                    </span>
-
-                                    <span>
-                                        Smile Aesthetics
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-droplet"></i>
-                                    </span>
-
-                                    <span>
-                                        Interceptive Orthodontics
-                                    </span>
-
-                                </div>
-
-
-                                <div class="doctor_second_section_expertise_item">
-
-                                    <span class="doctor_second_section_expertise_icon">
-                                        <i class="bi bi-shield-check"></i>
-                                    </span>
-
-                                    <span>
-                                        Retention &amp; Long-term Care
-                                    </span>
-
-                                </div>
-
-                            </div>
-
 
                         </div>
 
-                    </div>
 
-                </div>
-
-            </div>
+                        <div class="doctor_second_section_title_line"></div>
 
 
-            <!-- QUOTE -->
-            <div class="col-xl-3 col-lg-3 doctor_second_section_quote_col">
+                        <p class="doctor_second_section_description">
 
-                <div class="doctor_second_section_right">
+                            Dr. P Aparna is a specialist Orthodontist with
+                            international training and extensive experience in
+                            creating beautiful, functional smiles. She is dedicated
+                            to providing personalized orthodontic solutions for
+                            patients of all ages, using the latest technology and
+                            evidence-based approaches.
 
-                    <div class="doctor_second_section_quote_card">
-
-                        <div class="doctor_second_section_quote_mark">
-                            “
-                        </div>
-
-                        <p>
-                            “ Every smile is unique.
-                            My goal is to create
-                            personalized treatment
-                            plans that bring out the
-                            best version of your smile. ”
                         </p>
 
-                        <div class="doctor_second_section_quote_author">
-                            DR. P APARNA
+
+
+                        <div class="doctor_second_section_expertise">
+
+                            <div class="doctor_second_section_expertise_heading">
+
+                                <h3>
+                                    Areas of Expertise
+                                </h3>
+
+                                <span></span>
+
+                            </div>
+
+
+                            <div class="row g-2 doctor_second_section_expertise_grid">
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/braces.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Braces (Metal &amp; Ceramic)
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-person-check"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Adult Orthodontics
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/aligners-icon.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Invisalign &amp; Clear Aligners
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/Smile-Makeover.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Smile Aesthetics
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-people"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Early Orthodontic Treatment
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-droplet"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Interceptive Orthodontics
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+
+                                            <img src="./assets/img/icons/jaw-surgery.png"
+                                                 alt="">
+
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Corrective Jaw Alignment
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-6">
+
+                                    <div class="doctor_second_section_expertise_item">
+
+                                        <span class="doctor_second_section_expertise_icon">
+                                            <i class="bi bi-shield-check"></i>
+                                        </span>
+
+                                        <span class="doctor_second_section_expertise_text">
+                                            Retention &amp; Long-term Care
+                                        </span>
+
+                                        <!-- <i class="bi bi-chevron-right"></i> -->
+
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
                         </div>
 
                     </div>
 
+                </div>
 
-                    <a href="appointment.php"
-                       class="doctor_second_section_appointment">
 
-                        <i class="bi bi-calendar3"></i>
 
-                        <span>
-                            Book an Appointment
-                        </span>
+                <!-- RIGHT -->
+                <div class="col-xl-3 col-lg-3">
 
-                        <i class="bi bi-arrow-right"></i>
+                    <div class="doctor_second_section_right">
 
-                    </a>
+
+                        <div class="doctor_second_section_quote_card">
+
+
+                            <div class="doctor_second_section_quote_header">
+
+                                <div class="doctor_second_section_quote_mark">
+                                    “
+                                </div>
+
+
+                                <div class="doctor_second_section_quote_tag">
+
+                                    <span>CONFIDENT</span>
+                                    <span>SMILES</span>
+                                    <span>BRIGHTER</span>
+                                    <span>FUTURES</span>
+
+                                </div>
+
+                            </div>
+
+
+                            <p>
+
+                                “Every smile is unique. My goal is to create
+                                personalized treatment plans that bring out
+                                the best version of your smile.”
+
+                            </p>
+
+
+                            <div class="doctor_second_section_quote_line"></div>
+
+
+                            <div class="doctor_second_section_quote_author">
+                                DR. P APARNA
+                            </div>
+
+                        </div>
+
+
+                        <a href="appointment.php"
+                           class="doctor_second_section_appointment">
+
+                            <span class="doctor_second_section_appointment_calendar">
+
+                                <i class="bi bi-calendar3"></i>
+
+                            </span>
+
+                            <span class="doctor_second_section_appointment_text">
+                                Book an Appointment
+                            </span>
+
+                            <span class="doctor_second_section_appointment_arrow">
+
+                                <i class="bi bi-arrow-right"></i>
+
+                            </span>
+
+                        </a>
+
+
+                        <div class="doctor_second_section_bottom_caption">
+
+                            <span></span>
+
+                            <p>
+                                PERSONALIZED CARE &nbsp; • &nbsp; BETTER SMILES
+                            </p>
+
+                            <span></span>
+
+                        </div>
+
+
+                    </div>
 
                 </div>
 
-            </div>
 
+            </div>
 
         </div>
 

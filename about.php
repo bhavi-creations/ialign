@@ -303,9 +303,12 @@
 
 <section class="about_third_section">
 
-    <!-- bottom-left decorative plants -->
-    <div class="about_third_section_plant about_third_section_plant_one"></div>
-    <div class="about_third_section_plant about_third_section_plant_two"></div>
+    <!-- Decorative background -->
+    <div class="about_third_section_curve about_third_section_curve_top"></div>
+    <div class="about_third_section_curve about_third_section_curve_bottom"></div>
+
+    <div class="about_third_section_leaf about_third_section_leaf_left"></div>
+    <div class="about_third_section_leaf about_third_section_leaf_right"></div>
 
     <div class="container-fluid about_third_section_container">
 
@@ -318,13 +321,17 @@
             <div class="about_third_section_left">
 
                 <div class="about_third_section_eyebrow">
-                    MEET OUR DOCTORS
+                    <span></span>
+
+                    <p>MEET OUR DOCTORS</p>
                 </div>
+
 
                 <h2 class="about_third_section_title">
                     Experts Behind<br>
                     Your Healthy Smile
                 </h2>
+
 
                 <p class="about_third_section_description">
                     Our experienced specialists are committed to providing
@@ -332,7 +339,19 @@
                     and beautiful smiles.
                 </p>
 
+
+                <div class="about_third_section_trust_line">
+
+                    <span></span>
+
+                    <p>
+                        TRUST &nbsp; • &nbsp; EXPERTISE &nbsp; • &nbsp; BRIGHTER SMILES
+                    </p>
+
+                </div>
+
             </div>
+
 
 
             <!-- =================================================
@@ -345,7 +364,12 @@
                     <img src="assets/img/about_doctor_2.png"
                          alt="Dr. Sridhar K R">
 
+                    <div class="about_third_section_image_curve"></div>
+
+                    <div class="about_third_section_image_leaf"></div>
+
                 </div>
+
 
                 <div class="about_third_section_doctor_info">
 
@@ -356,6 +380,10 @@
                     <p>
                         MDS (Oral and Maxillofacial Surgeon)
                     </p>
+
+
+                    <div class="about_third_section_gold_line"></div>
+
 
                     <a href="doctor-sridhar.php"
                        class="about_third_section_profile_btn">
@@ -371,6 +399,7 @@
             </div>
 
 
+
             <!-- =================================================
                  DOCTOR 02
             ================================================== -->
@@ -381,7 +410,12 @@
                     <img src="assets/img/about_doctor_1.png"
                          alt="Dr. P Aparna">
 
+                    <div class="about_third_section_image_curve"></div>
+
+                    <div class="about_third_section_image_leaf"></div>
+
                 </div>
+
 
                 <div class="about_third_section_doctor_info">
 
@@ -393,6 +427,10 @@
                         MDS, M(ORTH) RCPS(Glasgow), UK<br>
                         Orthodontist
                     </p>
+
+
+                    <div class="about_third_section_gold_line"></div>
+
 
                     <a href="doctor-aparna.php"
                        class="about_third_section_profile_btn">
@@ -408,11 +446,14 @@
             </div>
 
 
+
             <!-- =================================================
                  RIGHT SIDE
             ================================================== -->
             <div class="about_third_section_right">
 
+
+                <!-- Hand Writing -->
                 <div class="about_third_section_quote">
 
                     <span>Same</span>
@@ -420,21 +461,52 @@
                     <span>Better</span>
 
                     <div class="about_third_section_quote_last">
+
                         <span>Smiles</span>
+
                         <i class="bi bi-heart"></i>
+
                     </div>
 
                 </div>
 
 
+                <!-- Tooth Outline -->
+                <div class="about_third_section_tooth_outline">
+
+                    <div class="about_third_section_tooth_leaf"></div>
+
+                    <span class="about_third_section_tooth_shine">
+                        ✦
+                    </span>
+
+                </div>
+
+
+                <!-- Our Doctors -->
                 <a href="doctors.php"
                    class="about_third_section_all_doctors">
 
-                    <span>Our Doctors</span>
+                    <span>
+                        Our Doctors
+                    </span>
 
                     <i class="bi bi-arrow-right"></i>
 
                 </a>
+
+
+                <!-- Bottom message -->
+                <div class="about_third_section_right_bottom">
+
+                    <span></span>
+
+                    <p>
+                        HEALTHIER SMILES<br>
+                        BRIGHTER TOMORROWS
+                    </p>
+
+                </div>
 
             </div>
 
@@ -444,7 +516,6 @@
     </div>
 
 </section>
-
 
 
 
