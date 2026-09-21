@@ -2096,7 +2096,7 @@
 
     font-family: "Playfair Display", serif;
 
-    font-size: 55px;
+    font-size: 54px;
     /* font-size: 60px; */
 
     font-weight: 600;
@@ -2118,11 +2118,11 @@
     font-style: italic;
     font-weight: 500;
 
-    font-size: 45px;
+    font-size: 36px;
 
     line-height: 1.1;
 
-    letter-spacing: -1.5px;
+    letter-spacing: -1.2px;
 }
 
 
@@ -2583,7 +2583,7 @@
 
     .index_first_section_eyebrow {
         font-size: 12px;
-        letter-spacing: 5px;
+        letter-spacing: 4px;
     }
 
     .index_first_section_description {
@@ -2708,7 +2708,7 @@
     .index_first_section_eyebrow {
         margin-bottom: 15px;
 
-        font-size: 10px;
+        font-size: 16px;
 
         letter-spacing: 3px;
     }
@@ -2819,11 +2819,11 @@
 @media (max-width: 420px) {
 
     .index_first_section_title {
-        font-size: 42px;
+        font-size: 35px;
     }
 
     .index_first_section_subtitle {
-        font-size: 31px;
+        font-size: 25px;
     }
 
     .index_first_section_feature {
@@ -3357,12 +3357,12 @@
 
 
     .index_second_section_title {
-        font-size: 30px;
+        font-size: 28px;
     }
 
 
     .index_second_section_subtitle {
-        font-size: 13px;
+        font-size: 15px;
     }
 
 
@@ -3934,7 +3934,7 @@
 
 
     .index_third_section_title {
-        font-size: 32px;
+        font-size: 31px;
         /* font-size: 35px; */
     }
 
@@ -4105,7 +4105,7 @@
 
 
     .index_third_section_eyebrow {
-        font-size: 10px;
+        font-size: 12px;
 
         letter-spacing: 4px;
     }
@@ -5918,7 +5918,7 @@
 
 
     .index_sixth_section_trust_item {
-        font-size: 10px;
+        font-size: 13px;
     }
 
 
@@ -6089,7 +6089,7 @@
         padding:
             8px 18px;
 
-        font-size: 12px;
+        font-size: 13px;
 
         border-bottom:
             1px solid rgba(100, 110, 104, 0.10);
@@ -6308,7 +6308,7 @@
 
     .index_fifth_section_heading p,
     .index_sixth_section_header p {
-        font-size: 13px;
+        font-size: 12px;
     }
 
 
@@ -9692,7 +9692,7 @@
 
 
     .about_third_section_title {
-        font-size: 45px;
+        font-size: 34px;
     }
 
 
@@ -31108,5 +31108,13 @@
 
         font-size:
             12px !important;
+    }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navabr .navabr-appointment {
+                margin-left: 196px;
     }
 }

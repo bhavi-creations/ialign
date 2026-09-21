@@ -385,7 +385,7 @@
                     <div class="about_third_section_gold_line"></div>
 
 
-                    <a href="doctor-sridhar.php"
+                    <a href="doctors.php"
                        class="about_third_section_profile_btn">
 
                         <span>View Profile</span>
@@ -432,7 +432,7 @@
                     <div class="about_third_section_gold_line"></div>
 
 
-                    <a href="doctor-aparna.php"
+                    <a href="doctors.php"
                        class="about_third_section_profile_btn">
 
                         <span>View Profile</span>
