@@ -2102,7 +2102,7 @@
 
     font-family: "Playfair Display", serif;
 
-    font-size: clamp(60px, 5vw, 97px);
+    font-size: 60px;
 
     font-weight: 600;
 
@@ -2123,7 +2123,7 @@
     font-style: italic;
     font-weight: 500;
 
-    font-size: clamp(45px, 3.75vw, 72px);
+    font-size: 45px;
 
     line-height: 1.1;
 
@@ -2537,7 +2537,7 @@
     }
 
     .index_first_section_eyebrow {
-        font-size: 15px;
+        font-size: 13px;
         letter-spacing: 6px;
     }
 
@@ -28759,5 +28759,983 @@ input::-webkit-calendar-picker-indicator {
         display: grid !important;
         grid-template-columns: repeat(2, 1fr) !important; /* 2 cards per row */
         gap: 20px 15px !important; /* Row and column gap adjustment */
+    }
+}
+
+
+
+
+/* ==========================================================
+   ROOTCANAL FOURTH SECTION
+========================================================== */
+
+.rootcanal_fourth_section_wrapper {
+
+    padding:
+        20px 0 70px !important;
+
+    background:
+        #ffffff !important;
+
+    font-family:
+        'Poppins',
+        sans-serif !important;
+}
+
+
+.rootcanal_fourth_section_wrapper .container {
+
+    max-width:
+        1450px;
+}
+
+
+/* ==========================================================
+   PROCESS MAIN CARD
+========================================================== */
+
+.rootcanal_fourth_section_process_card {
+
+    position:
+        relative;
+
+    overflow:
+        hidden;
+
+    padding:
+        30px 35px 45px;
+
+    border:
+        1px solid #003b32;
+
+    border-radius:
+        18px;
+
+    background:
+        #ffffff;
+
+    box-shadow:
+        0 10px 28px rgba(0, 67, 59, .06);
+}
+
+
+/* Green Bottom Premium Stroke */
+
+.rootcanal_fourth_section_process_card::after {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    left:
+        0;
+
+    right:
+        0;
+
+    bottom:
+        0;
+
+    height:
+        9px;
+
+    background:
+        #005148;
+
+    border-radius:
+        0 0 17px 17px;
+}
+
+
+/* ==========================================================
+   HEADER
+========================================================== */
+
+.rootcanal_fourth_section_header {
+
+    text-align:
+        center !important;
+
+    margin-bottom:
+        36px !important;
+}
+
+
+.rootcanal_fourth_section_title {
+
+    margin:
+        0 0 12px !important;
+
+    color:
+        #07534d !important;
+    /* color:
+        #07534d !important; */
+
+
+    font-family:
+        'Playfair Display',
+        Georgia,
+        serif !important;
+
+    font-size:
+        29px !important;
+
+    font-weight:
+        700 !important;
+
+    letter-spacing:
+        .3px !important;
+
+    text-transform:
+        uppercase !important;
+}
+
+
+/* ==========================================================
+   HEADER DIVIDER
+========================================================== */
+
+.rootcanal_fourth_section_divider {
+
+    width:
+        150px;
+
+    display:
+        inline-flex !important;
+
+    align-items:
+        center !important;
+
+    justify-content:
+        center !important;
+}
+
+
+.rootcanal_fourth_section_divider_line {
+
+    flex:
+        1;
+
+    width:
+        auto !important;
+
+    height:
+        1px !important;
+
+    background:
+        var(--implant-gold, #df9827) !important;
+}
+
+
+.rootcanal_fourth_section_divider_dot {
+
+    width:
+        8px !important;
+
+    height:
+        8px !important;
+
+    margin:
+        0 8px;
+
+    border-radius:
+        0 !important;
+
+    background:
+        #df9827 !important;
+
+    transform:
+        rotate(45deg);
+}
+
+
+/* ==========================================================
+   PROCESS FLOW
+========================================================== */
+
+.rootcanal_fourth_section_steps_flow {
+
+    display:
+        flex !important;
+
+    align-items:
+        flex-start !important;
+
+    justify-content:
+        space-between !important;
+
+    width:
+        100% !important;
+
+    position:
+        relative !important;
+}
+
+
+/* ==========================================================
+   STEP ITEM
+========================================================== */
+
+.rootcanal_fourth_section_step_item {
+
+    flex:
+        1 1 0 !important;
+
+    min-width:
+        0;
+
+    display:
+        flex !important;
+
+    flex-direction:
+        column !important;
+
+    align-items:
+        center !important;
+
+    text-align:
+        center !important;
+
+    padding:
+        0 7px !important;
+}
+
+
+/* ==========================================================
+   STEP CIRCLE
+========================================================== */
+
+.rootcanal_fourth_section_circle_wrap {
+
+    position:
+        relative !important;
+
+    width:
+        122px !important;
+
+    height:
+        122px !important;
+
+    display:
+        flex !important;
+
+    align-items:
+        center !important;
+
+    justify-content:
+        center !important;
+
+    margin-bottom:
+        20px !important;
+
+    border:
+        1px solid #d6e4e1 !important;
+
+    border-radius:
+        50% !important;
+
+    background:
+
+        radial-gradient(circle,
+            #f7faf9,
+            #edf5f3) !important;
+
+    transition:
+        .3s ease !important;
+}
+
+
+.rootcanal_fourth_section_step_item:hover .rootcanal_fourth_section_circle_wrap {
+
+    transform:
+        translateY(-4px) !important;
+
+    border-color:
+        #87b7b0 !important;
+
+    box-shadow:
+        0 8px 22px rgba(0, 75, 67, .08) !important;
+}
+
+
+/* ==========================================================
+   NUMBER BADGE
+========================================================== */
+
+.rootcanal_fourth_section_badge {
+
+    position:
+        absolute !important;
+
+    z-index:
+        5;
+
+    top:
+        -15px !important;
+
+    left:
+        50% !important;
+
+    transform:
+        translateX(-50%) !important;
+
+    width:
+        31px !important;
+
+    height:
+        31px !important;
+
+    display:
+        flex !important;
+
+    align-items:
+        center !important;
+
+    justify-content:
+        center !important;
+
+    border-radius:
+        50% !important;
+
+    background:
+        #005249 !important;
+
+    color:
+        #ffffff !important;
+
+    font-size:
+        14px !important;
+
+    font-weight:
+        700 !important;
+
+    box-shadow:
+        none !important;
+}
+
+
+/* ==========================================================
+   ICON IMAGE
+========================================================== */
+
+.rootcanal_fourth_section_icon {
+
+    width:
+        75px !important;
+
+    height:
+        75px !important;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+}
+
+
+.rootcanal_fourth_section_icon img {
+
+    width:
+        68px !important;
+
+    height:
+        68px !important;
+
+    object-fit:
+        contain;
+
+    filter:
+        saturate(.8);
+}
+
+
+/* ==========================================================
+   CONNECTOR
+========================================================== */
+
+.rootcanal_fourth_section_arrow {
+
+    width:
+        110px;
+
+    flex:
+        0 0 110px !important;
+
+    display:
+        flex !important;
+
+    align-items:
+        center !important;
+
+    justify-content:
+        center !important;
+
+    gap:
+        8px;
+
+    padding-top:
+        57px !important;
+
+    color:
+        #07554e !important;
+}
+
+
+.rootcanal_fourth_section_arrow .process-dotted-line {
+
+    flex:
+        1;
+
+    height:
+        2px;
+
+    background-image:
+        linear-gradient(to right,
+            #0b655d 35%,
+            transparent 35%);
+
+    background-size:
+        7px 2px;
+
+    background-repeat:
+        repeat-x;
+}
+
+
+.rootcanal_fourth_section_arrow .process-dot {
+
+    width:
+        9px;
+
+    height:
+        9px;
+
+    flex:
+        0 0 9px;
+
+    border-radius:
+        50%;
+
+    background:
+        #07574f;
+}
+
+
+/* ==========================================================
+   STEP TITLE
+========================================================== */
+
+.rootcanal_fourth_section_step_title {
+
+    min-height:
+        38px;
+
+    margin:
+        0 0 3px !important;
+
+    color:
+        #074f49 !important;
+
+    font-family:
+        'Poppins',
+        sans-serif !important;
+
+    font-size:
+        13px !important;
+
+    font-weight:
+        700 !important;
+
+    line-height:
+        1.35 !important;
+}
+
+
+/* Small Gold Line Under Each Title */
+
+.rootcanal_fourth_section_small_line {
+
+    width:
+        28px;
+
+    height:
+        1.5px;
+
+    margin:
+        0 auto 8px;
+
+    background:
+        #df9827;
+}
+
+
+/* ==========================================================
+   DESCRIPTION
+========================================================== */
+
+.rootcanal_fourth_section_step_desc {
+
+    max-width:
+        180px !important;
+
+    margin:
+        0 !important;
+
+    color:
+        #394d55 !important;
+
+    font-size:
+        11.5px !important;
+
+    font-weight:
+        400 !important;
+
+    line-height:
+        1.6 !important;
+}
+
+
+/* ==========================================================
+   LAPTOP
+========================================================== */
+
+@media (max-width: 1199.98px) {
+
+    .rootcanal_third_section_heading {
+
+        font-size:
+            39px !important;
+    }
+
+
+    .rootcanal_third_section_quote_card {
+
+        min-height:
+            290px;
+
+        padding:
+            35px 240px 35px 35px !important;
+    }
+
+
+    .rootcanal_third_section_quote_text {
+
+        font-size:
+            16px !important;
+    }
+
+
+    .rootcanal_third_section_implant_visual {
+
+        width:
+            215px;
+
+        height:
+            250px;
+
+        right:
+            30px;
+    }
+
+
+    .rootcanal_third_section_implant_img {
+
+        width:
+            160px;
+    }
+
+
+    .rootcanal_fourth_section_circle_wrap {
+
+        width:
+            100px !important;
+
+        height:
+            100px !important;
+    }
+
+
+    .rootcanal_fourth_section_icon {
+
+        width:
+            60px !important;
+
+        height:
+            60px !important;
+    }
+
+
+    .rootcanal_fourth_section_icon img {
+
+        width:
+            55px !important;
+
+        height:
+            55px !important;
+    }
+
+
+    .rootcanal_fourth_section_arrow {
+
+        width:
+            60px;
+
+        flex-basis:
+            60px !important;
+
+        padding-top:
+            46px !important;
+    }
+
+
+    .rootcanal_fourth_section_step_title {
+
+        font-size:
+            11px !important;
+    }
+
+
+    .rootcanal_fourth_section_step_desc {
+
+        font-size:
+            10px !important;
+    }
+}
+
+
+/* ==========================================================
+   TABLET
+========================================================== */
+
+@media (max-width: 991.98px) {
+
+    .rootcanal_third_section_wrapper {
+
+        padding:
+            45px 0 25px !important;
+    }
+
+
+    .rootcanal_third_section_left {
+
+        padding-right:
+            15px !important;
+
+        margin-bottom:
+            15px !important;
+    }
+
+
+    .rootcanal_third_section_heading {
+
+        font-size:
+            43px !important;
+    }
+
+
+    .rootcanal_third_section_desc {
+
+        max-width:
+            700px;
+
+        font-size:
+            14px !important;
+    }
+
+
+    .rootcanal_third_section_quote_card {
+
+        min-height:
+            300px;
+
+        padding:
+            40px 290px 40px 40px !important;
+    }
+
+
+    .rootcanal_third_section_implant_visual {
+
+        right:
+            45px;
+
+        width:
+            230px;
+    }
+
+
+    /* Process changes to grid */
+
+    .rootcanal_fourth_section_process_card {
+
+        padding:
+            30px 20px 40px;
+    }
+
+
+    .rootcanal_fourth_section_steps_flow {
+
+        display:
+            grid !important;
+
+        grid-template-columns:
+            repeat(3, 1fr);
+
+        gap:
+            35px 18px;
+    }
+
+
+    .rootcanal_fourth_section_arrow {
+
+        display:
+            none !important;
+    }
+
+
+    .rootcanal_fourth_section_step_item {
+
+        max-width:
+            none !important;
+    }
+
+
+    .rootcanal_fourth_section_step_desc {
+
+        max-width:
+            210px !important;
+    }
+}
+
+
+/* ==========================================================
+   MOBILE
+========================================================== */
+
+@media (max-width: 767.98px) {
+
+    .rootcanal_third_section_heading {
+
+        font-size:
+            35px !important;
+    }
+
+
+    .rootcanal_third_section_small_title {
+
+        font-size:
+            12px;
+    }
+
+
+    .rootcanal_third_section_quote_card {
+
+        min-height:
+            390px;
+
+        padding:
+            30px 22px 200px !important;
+
+        border-radius:
+            18px !important;
+    }
+
+
+    .rootcanal_third_section_quote_icon {
+
+        left:
+            22px;
+
+        top:
+            25px;
+
+        font-size:
+            34px !important;
+    }
+
+
+    .rootcanal_third_section_quote_text {
+
+        margin-top:
+            42px !important;
+
+        max-width:
+            100% !important;
+
+        font-size:
+            15px !important;
+    }
+
+
+    .rootcanal_third_section_implant_visual {
+
+        width:
+            230px;
+
+        height:
+            190px;
+
+        right:
+            50%;
+
+        top:
+            auto;
+
+        bottom:
+            5px;
+
+        transform:
+            translateX(50%);
+    }
+
+
+    .rootcanal_third_section_implant_circle {
+
+        width:
+            150px;
+
+        height:
+            150px;
+    }
+
+
+    .rootcanal_third_section_implant_img {
+
+        width:
+            130px;
+
+        max-height:
+            190px;
+    }
+
+
+    .rootcanal_fourth_section_title {
+
+        font-size:
+            22px !important;
+    }
+
+
+    .rootcanal_fourth_section_steps_flow {
+
+        grid-template-columns:
+            repeat(2, 1fr) !important;
+    }
+}
+
+
+/* ==========================================================
+   SMALL MOBILE
+========================================================== */
+
+@media (max-width: 575.98px) {
+
+    .rootcanal_third_section_wrapper {
+
+        padding-top:
+            35px !important;
+    }
+
+
+    .rootcanal_third_section_heading {
+
+        font-size:
+            30px !important;
+    }
+
+
+    .rootcanal_third_section_desc {
+
+        font-size:
+            13px !important;
+    }
+
+
+    .rootcanal_fourth_section_wrapper {
+
+        padding:
+            15px 0 50px !important;
+    }
+
+
+    .rootcanal_fourth_section_process_card {
+
+        padding:
+            27px 15px 38px;
+    }
+
+
+    .rootcanal_fourth_section_title {
+
+        font-size:
+            19px !important;
+
+        line-height:
+            1.35 !important;
+    }
+
+
+    .rootcanal_fourth_section_steps_flow {
+
+        grid-template-columns:
+            1fr !important;
+
+        gap:
+            35px;
+    }
+
+
+    .rootcanal_fourth_section_circle_wrap {
+
+        width:
+            110px !important;
+
+        height:
+            110px !important;
+    }
+
+
+    .rootcanal_fourth_section_icon {
+
+        width:
+            65px !important;
+
+        height:
+            65px !important;
+    }
+
+
+    .rootcanal_fourth_section_icon img {
+
+        width:
+            60px !important;
+
+        height:
+            60px !important;
+    }
+
+
+    .rootcanal_fourth_section_step_title {
+
+        min-height:
+            0;
+
+        font-size:
+            13px !important;
+    }
+
+
+    .rootcanal_fourth_section_step_desc {
+
+        max-width:
+            270px !important;
+
+        font-size:
+            12px !important;
     }
 }

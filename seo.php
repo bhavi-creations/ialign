@@ -1,8 +1,8 @@
 <?php
 // Page-specific metadata shared by the site header.
 $pageMetadata = [
-    'home.php' => ['Dental Clinic in Koramangala, Bangalore | IALIGN', 'Visit IALIGN Signature Dental Care in Koramangala, Bangalore for personalised dental care, aligners, implants and smile treatments. Book a consultation.'],
-    'about.php' => ['About Our Dental Clinic in Koramangala | IALIGN', 'Get to know IALIGN Signature Dental Care in Koramangala, Bangalore. Explore our approach to personalised dentistry, patient comfort and healthy smiles.'],
+    'home.php' => ['Dental Clinic in Koramangala, Bangalore | IALIGNIALIGN Signature Dental Care', 'Visit IALIGN Signature Dental Care Signature Dental Care in Koramangala, Bangalore for personalised dental care, aligners, implants and smile treatments. Book a consultation.'],
+    'about.php' => ['About Our Dental Clinic in Koramangala | IALIGN Signature Dental Care', 'Get to know IALIGN Signature Dental Care in Koramangala, Bangalore. Explore our approach to personalised dentistry, patient comfort and healthy smiles.'],
     'doctors.php' => ['Meet Our Dentists in Koramangala, Bangalore | IALIGN', 'Meet the dental team at IALIGN Signature Dental Care in Koramangala, Bangalore. Learn about our dentists and book a consultation for your dental needs.'],
     'contact.php' => ['Contact Our Dental Clinic in Koramangala | IALIGN', 'Contact IALIGN Signature Dental Care in Koramangala 4th Block, Bangalore. Find our clinic address, phone numbers and directions to plan your visit.'],
     'appointment.php' => ['Book a Dental Appointment in Koramangala | IALIGN', 'Book a dental appointment at IALIGN Signature Dental Care in Koramangala, Bangalore. Contact our team to arrange a consultation for your smile and oral health.'],

@@ -11,7 +11,9 @@
 
 <link rel="stylesheet" href="./assets/css/style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="title" content="IALiGN Signature Dental Care | Clear Aligners & Dental Care">
+<meta name="description" content="IALiGN Signature Dental Care offers clear aligners, teeth straightening and personalized dental care for a healthier, more confident smile.">
+<meta name="keywords" content="Invisalign aligners in Koramangala, clear aligners in Koramangala, root canal treatment in Koramangala, dental implants in Koramangala, teeth cleaning in Koramangala, best dental clinic in Koramangala, best dentist in Koramangala, pediatric dentist in Koramangala, best dental hospital in Koramangala, paedodontist in Koramangala, wisdom tooth removal in Koramangala">
 
 
 
