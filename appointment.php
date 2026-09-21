@@ -21,7 +21,7 @@
                     <!-- Breadcrumb -->
                     <nav class="appointment_first_section_breadcrumb">
 
-                        <a href="index.php">
+                        <a href="home.php">
                             Home
                         </a>
 
@@ -626,3 +626,5 @@
 
 
 <?php include 'footer.php'; ?>
+</body>
+</html>

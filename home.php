@@ -220,7 +220,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 01 - WISDOM TEETH -->
-                <a href="wisdom-teeth-removal.php"
+                <a href="wisdom-teeth-removal-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -239,7 +239,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 02 - BRACES -->
-                <a href="braces.php"
+                <a href="braces-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -257,7 +257,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 03 - INVISALIGN -->
-                <a href="invisalign-aligners.php"
+                <a href="invisalign-aligners-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -276,7 +276,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 04 - IMPLANTS -->
-                <a href="dental-implants.php"
+                <a href="dental-implants-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -295,7 +295,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 05 - ROOT CANAL -->
-                <a href="root-canal-treatment.php"
+                <a href="root-canal-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -314,7 +314,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 06 - GBT -->
-                <a href="advanced-teeth-cleaning.php"
+                <a href="advanced-teeth-cleaning-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -333,7 +333,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 07 - SMILE DESIGNING -->
-                <a href="smile-designing.php"
+                <a href="smile-designing-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -352,7 +352,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 08 - VENEERS -->
-                <a href="veneers.php"
+                <a href="veneers-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -370,7 +370,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 09 - TMJ JOINT PAIN -->
-                <!-- <a href="tmj-joint-pain-treatment.php"
+                <!-- <a href="tmj-joint-pain-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -389,7 +389,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 09 - LASER GUM -->
-                <a href="laser-gum-treatment.php"
+                <a href="laser-gum-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -408,7 +408,7 @@ Technology" style="width: 40px; height: 40px;">
 
 
                 <!-- 10 - TMJ -->
-                <a href="tmj-joint-pain-treatment.php"
+                <a href="tmj-joint-pain-treatment-in-koramangala.php"
                    class="index_second_section_card">
 
                     <div class="index_second_section_image_box">
@@ -2148,7 +2148,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <!-- LOGO -->
             <div class="index_seven_section_logo">
 
-                <a href="index.php" class="pb-2">
+                <a href="home.php" class="pb-2">
 
                    <img src="assets/img/logo_new.png"
                      alt="IALIGN Signature Dental Care" style="width:150px; height: 150px ">
@@ -2324,7 +2324,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <!-- FOOTER MENU -->
                 <div class="index_eight_section_menu">
 
-                    <a href="index.php">
+                    <a href="home.php">
                         Home
                     </a>
 
@@ -2366,3 +2366,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
+
+</body>
+</html>

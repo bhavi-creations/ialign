@@ -23,7 +23,7 @@
                 ========================================== -->
                 <div class="footer_brand">
 
-                    <a href="index.php"
+                    <a href="home.php"
                        class="footer_logo">
 
                         <img src="assets/img/logo_new.png"
@@ -56,7 +56,7 @@
 
                     <div class="footer_links_grid">
 
-                        <a href="index.php">
+                        <a href="home.php">
                             Home
                         </a>
 

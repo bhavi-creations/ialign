@@ -202,7 +202,7 @@
 
 
             <!-- 01 -->
-            <a href="wisdom-teeth-removal.php"
+            <a href="wisdom-teeth-removal-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -238,7 +238,7 @@
 
 
             <!-- 02 -->
-            <a href="braces.php"
+            <a href="braces-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -275,7 +275,7 @@
 
 
             <!-- 03 -->
-            <a href="invisalign-aligners.php"
+            <a href="invisalign-aligners-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -312,7 +312,7 @@
 
 
             <!-- 04 -->
-            <a href="dental-implants.php"
+            <a href="dental-implants-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -350,7 +350,7 @@
 
 
             <!-- 05 -->
-            <a href="root-canal-treatment.php"
+            <a href="root-canal-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -387,7 +387,7 @@
 
 
             <!-- 06 -->
-            <a href="advanced-teeth-cleaning.php"
+            <a href="advanced-teeth-cleaning-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -426,7 +426,7 @@
 
 
             <!-- 07 -->
-            <a href="smile-designing.php"
+            <a href="smile-designing-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -463,7 +463,7 @@
 
 
             <!-- 08 -->
-            <a href="veneers.php"
+            <a href="veneers-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -500,7 +500,7 @@
 
 
             <!-- 09 -->
-            <a href="laser-gum-treatment.php"
+            <a href="laser-gum-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -537,7 +537,7 @@
 
 
             <!-- 10 -->
-            <a href="tmj-joint-pain-treatment.php"
+            <a href="tmj-joint-pain-treatment-in-koramangala.php"
                class="treatment_second_section_card">
 
                 <div class="treatment_second_section_image">
@@ -626,7 +626,7 @@
                     </p>
 
 
-                    <a href="invisalign-aligners.php"
+                    <a href="invisalign-aligners-treatment-in-koramangala.php"
                        class="treatment_third_section_button">
 
                         <span>
@@ -943,3 +943,5 @@
 
 
 <?php include 'footer.php';?>
+</body>
+</html>

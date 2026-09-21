@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/seo.php'; ?>
 <!-- Bootstrap 5 -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -14,6 +15,8 @@
 
 
 
+</head>
+<body>
 <header class="navabr">
 
     <!-- ================= TOP BAR ================= -->
