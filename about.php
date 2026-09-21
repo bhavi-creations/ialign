@@ -29,7 +29,7 @@
 
                     <!-- main title -->
                     <h1 class="about_first_section_title">
-                        Driven by<br>
+                        Driven by
                         Expertise.<br>
                         Defined by Care.
                     </h1>
@@ -695,13 +695,7 @@
 
 
 <!-- Bootstrap Icons -->
-<link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
-
-
 <section class="about_fifth_section">
 
     <!-- LEFT DECORATIVE IMAGE -->

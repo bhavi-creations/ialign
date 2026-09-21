@@ -1,11 +1,5 @@
 <!-- Bootstrap Icons -->
-<link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
-
-
 <footer class="footer">
 
     <!-- =====================================================
@@ -275,5 +269,3 @@
     </div>
 
 </footer>
-
-
