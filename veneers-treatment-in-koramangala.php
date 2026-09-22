@@ -66,10 +66,10 @@
                                                     </div>
 
                         <div class="invisalign_first_section_actions">
-                            <a href="contact.php" class="invisalign_first_section_book">
+                            <!-- <a href="contact.php" class="invisalign_first_section_book">
                                 <span>Book a Consultation</span>
                                 <i class="bi bi-arrow-right" aria-hidden="true"></i>
-                            </a>
+                            </a> -->
 
                             <a href="contact.php" class="invisalign_first_section_video_btn">
                                 <span class="invisalign_first_section_play">

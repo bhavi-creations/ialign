@@ -7681,7 +7681,7 @@
         font-size: 15px;
 
         letter-spacing: 6px;
-        text-align: center;
+        /* text-align: center; */
     }
 
 
@@ -12353,7 +12353,7 @@
 
     font-family: "Playfair Display", serif;
 
-    font-size: clamp(58px, 5vw, 82px);
+    font-size: 50px;
     font-weight: 600;
 
     line-height: 0.92;
@@ -15709,7 +15709,7 @@
 
     font-family: "Playfair Display", serif;
 
-    font-size: 68px;
+    font-size: 52px;
     font-weight: 600;
 
     line-height: 1.03;
@@ -18777,7 +18777,7 @@
 
     font-family: "Playfair Display", serif;
 
-    font-size: 78px;
+    font-size: 65px;
     font-weight: 600;
 
     line-height: 0.96;
@@ -24335,7 +24335,7 @@
 
     font-family: "Playfair Display", serif;
 
-    font-size: 73px;
+    font-size: 49px;
     font-weight: 600;
 
     line-height: 1;

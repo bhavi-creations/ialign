@@ -22,7 +22,7 @@
                             GUIDED BIOFILM THERAPY                        </div>
 
                         <h1 class="invisalign_first_section_title">
-                            A Smarter Approach<br>to Professional Cleaning                        </h1>
+                            A Smarter Approach to Professional Cleaning                        </h1>
 
                         <p class="invisalign_first_section_description">
                             A systematic cleaning protocol that makes biofilm visible, targets deposits and supports better daily oral hygiene.                        </p>
@@ -65,10 +65,10 @@
                                                     </div>
 
                         <div class="invisalign_first_section_actions">
-                            <a href="contact.php" class="invisalign_first_section_book">
+                            <!-- <a href="contact.php" class="invisalign_first_section_book">
                                 <span>Book a Consultation</span>
                                 <i class="bi bi-arrow-right" aria-hidden="true"></i>
-                            </a>
+                            </a> -->
 
                             <a href="contact.php" class="invisalign_first_section_video_btn">
                                 <span class="invisalign_first_section_play">

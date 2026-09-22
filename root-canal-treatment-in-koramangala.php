@@ -71,7 +71,7 @@
                                 <i class="bi bi-arrow-right" aria-hidden="true"></i>
                             </a>
 
-                            <a href="contact.php" class="invisalign_first_section_video_btn">
+                            <!-- <a href="contact.php" class="invisalign_first_section_video_btn">
                                 <span class="invisalign_first_section_play">
                                     <i class="bi bi-chat-dots" aria-hidden="true"></i>
                                 </span>
@@ -79,7 +79,7 @@
                                     <strong>Ask a Question</strong>
                                     <small>Talk to us about tooth pain</small>
                                 </span>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>

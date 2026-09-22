@@ -25,7 +25,7 @@
 
 
                     <h1 class="doctor_first_section_title">
-                        Experts in Creating<br>
+                        Experts in Creating
                         Healthier, Happier Smiles
                     </h1>
 
