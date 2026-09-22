@@ -42,7 +42,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-wind" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-wind" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/cleaning-step-3.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Targeted</strong>
@@ -53,7 +54,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-brush" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-brush" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/personalized.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Personalised</strong>
@@ -342,7 +344,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Biofilm Disclosure">
+                        <img src="./assets/img/icons/clean.png" alt="Biofilm Disclosure">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Biofilm Disclosure</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -354,7 +356,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Airflow Cleaning">
+                        <img src="./assets/img/icons/cleaning-step-3.png" alt="Airflow Cleaning">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Airflow Cleaning</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -366,7 +368,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Tartar Removal">
+                        <img src="./assets/img/icons/teeth-cleaning-step-4.png" alt="Tartar Removal">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Tartar Removal</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -378,7 +380,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Final Check and Maintenance">
+                        <img src="./assets/img/icons/teeth-cleaning-step-5.png" alt="Final Check and Maintenance">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Final Check &amp; Maintenance</h3>
                     <p class="rootcanal_fourth_section_step_desc">

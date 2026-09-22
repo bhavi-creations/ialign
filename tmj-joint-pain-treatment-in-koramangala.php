@@ -42,7 +42,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-search" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-search" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/jaw-surgery.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Jaw Function</strong>
@@ -340,7 +341,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="TMJ Diagnosis and Imaging">
+                        <img src="./assets/img/icons/digital-scanning.png" alt="TMJ Diagnosis and Imaging">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Diagnosis &amp; Imaging</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -352,7 +353,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Personalized TMJ Treatment Planning">
+                        <img src="./assets/img/icons/treatment-planning.png" alt="Personalized TMJ Treatment Planning">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Personalized Treatment Plan</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -364,7 +365,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="TMJ Pain Management">
+                        <img src="./assets/img/icons/jaw-surgery.png" alt="TMJ Pain Management">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Pain Management &amp; Therapy</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -376,7 +377,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="TMJ Follow Up and Maintenance">
+                        <img src="./assets/img/icons/teeth-cleaning-step-5.png" alt="TMJ Follow Up and Maintenance">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Follow-Up &amp; Maintenance</h3>
                     <p class="rootcanal_fourth_section_step_desc">

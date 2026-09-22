@@ -62,7 +62,8 @@
                         <div class="invisalign_first_section_benefit">
 
                             <div class="invisalign_first_section_benefit_icon">
-                                <i class="bi bi-eye-slash"></i>
+                                <!-- <i class="bi bi-eye-slash"></i> -->
+                        <img src="./assets/img/icons/aligners-icon.png" alt="" style="height:60px; width:60px">
                             </div>
 
                             <div class="invisalign_first_section_benefit_text">
@@ -80,7 +81,8 @@
                         <div class="invisalign_first_section_benefit">
 
                             <div class="invisalign_first_section_benefit_icon">
-                                <i class="bi bi-heart"></i>
+                                <!-- <i class="bi bi-heart"></i> -->
+                        <img src="./assets/img/icons/aligners-fitting.png" alt="" style="height:60px; width:60px">
                             </div>
 
                             <div class="invisalign_first_section_benefit_text">
@@ -98,7 +100,8 @@
                         <div class="invisalign_first_section_benefit">
 
                             <div class="invisalign_first_section_benefit_icon">
-                                <i class="bi bi-calendar3"></i>
+                                <!-- <i class="bi bi-calendar3"></i> -->
+                        <img src="./assets/img/icons/treatment-planning.png" alt="" style="height:60px; width:60px">
                             </div>
 
                             <div class="invisalign_first_section_benefit_text">
@@ -132,7 +135,7 @@
 
 
                         <!-- VIDEO -->
-                        <button type="button"
+                        <!-- <button type="button"
                                 class="invisalign_first_section_video_btn">
 
                             <span class="invisalign_first_section_play">
@@ -152,7 +155,7 @@
 
                             </span>
 
-                        </button>
+                        </button> -->
 
 
                     </div>
@@ -713,7 +716,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Digital Scan and Treatment Planning">
+                        <img src="./assets/img/icons/aligners-step-2.png" alt="Digital Scan and Treatment Planning">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Digital Scan &amp; Planning</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -725,7 +728,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Custom Aligners">
+                        <img src="./assets/img/icons/aligners-fitting.png" alt="Custom Aligners">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Custom Aligners</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -737,7 +740,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Progress Monitoring">
+                        <img src="./assets/img/icons/digital-scanning.png" alt="Progress Monitoring">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Progress Monitoring</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -749,7 +752,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Final Smile and Retainers">
+                        <img src="./assets/img/icons/smiling-teeth.png" alt="Final Smile and Retainers">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Final Smile &amp; Retainers</h3>
                     <p class="rootcanal_fourth_section_step_desc">

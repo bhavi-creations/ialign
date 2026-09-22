@@ -31,7 +31,8 @@
                                                             
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-search" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-search" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/dental-examination.png" alt="Consultation and Evaluation" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Detailed</strong>
@@ -53,7 +54,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-heart-pulse" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-heart-pulse" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/personalized.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Supportive</strong>
@@ -341,7 +343,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Local Anesthesia">
+                        <img src="./assets/img/icons/widom-teeth-step-2.png" alt="Local Anesthesia">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Anesthesia &amp; Preparation</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -353,7 +355,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Wisdom Tooth Removal">
+                        <img src="./assets/img/icons/widom-teeth-step-3.png" alt="Wisdom Tooth Removal">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Wisdom Tooth Removal</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -365,7 +367,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Cleaning and Suturing">
+                        <img src="./assets/img/icons/widom-teeth-step-4.png" alt="Cleaning and Suturing">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Cleaning &amp; Suturing</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -377,7 +379,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Recovery and Aftercare">
+                        <img src="./assets/img/icons/widom-teeth-step-5.png" alt="Recovery and Aftercare">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Recovery &amp; Aftercare</h3>
                     <p class="rootcanal_fourth_section_step_desc">

@@ -31,7 +31,8 @@
                                                             
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-bounding-box-circles" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-bounding-box-circles" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/braces.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Precise</strong>
@@ -42,7 +43,9 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-person-check" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-person-check" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/treatment-planning.png" alt="" style="height:60px; width:60px">
+
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Tailored</strong>
@@ -342,7 +345,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Digital Scans and Treatment Planning">
+                        <img src="./assets/img/icons/digital-scanning.png" alt="Digital Scans and Treatment Planning">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Scans &amp; Treatment Planning</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -354,7 +357,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Braces Placement">
+                        <img src="./assets/img/icons/dental-braces-01.jpg" alt="Braces Placement">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Braces Placement</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -366,7 +369,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Regular Adjustments">
+                        <img src="./assets/img/icons/braces.png" alt="Regular Adjustments">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Regular Adjustments</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -378,7 +381,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Braces Removal and Retainers">
+                        <img src="./assets/img/icons/smiling-teeth.png" alt="Braces Removal and Retainers">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Braces Removal &amp; Retainers</h3>
                     <p class="rootcanal_fourth_section_step_desc">

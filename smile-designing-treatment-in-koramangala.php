@@ -22,7 +22,7 @@
                             SMILE DESIGNING                        </div>
 
                         <h1 class="invisalign_first_section_title">
-                            Designed for Your Face,<br>Created for Your Smile                        </h1>
+                            Designed for Your Face, for Your Smile                        </h1>
 
                         <p class="invisalign_first_section_description">
                             A personalised cosmetic treatment plan that considers your teeth, gums, facial features, bite and individual goals.                        </p>
@@ -31,7 +31,8 @@
                                                             
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-camera" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-camera" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/smiling-teeth.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Detailed</strong>
@@ -53,7 +54,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-person-heart" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-person-heart" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/Veneers-step-3.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Personalised</strong>
@@ -341,7 +343,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Digital Smile Analysis">
+                        <img src="./assets/img/icons/digital-scanning.png" alt="Digital Smile Analysis">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Digital Smile Analysis</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -353,7 +355,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Customized Smile Planning">
+                        <img src="./assets/img/icons/Healthy-teeth (1).png" alt="Customized Smile Planning">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Customized Smile Planning</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -365,7 +367,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Smile Enhancement Treatment">
+                        <img src="./assets/img/icons/Natural-looking-smile1201.png" alt="Smile Enhancement Treatment">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Smile Enhancement Treatment</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -377,7 +379,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Final Smile and Maintenance">
+                        <img src="./assets/img/icons/smiling-teeth.png" alt="Final Smile and Maintenance">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Final Smile &amp; Maintenance</h3>
                     <p class="rootcanal_fourth_section_step_desc">

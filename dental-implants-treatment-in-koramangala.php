@@ -31,7 +31,8 @@
                                                             
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-badge-3d" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-badge-3d" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/digital-scanning.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Digital</strong>
@@ -42,7 +43,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-diagram-3" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-diagram-3" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/treatment-planning.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Integrated</strong>
@@ -53,7 +55,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-shield-check" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-shield-check" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/teeth-cleaning-step-5.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Long-Term</strong>
@@ -345,7 +348,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Implant Placement">
+                        <img src="./assets/img/icons/implant-step-2.png" alt="Implant Placement">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Implant Placement</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -357,7 +360,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Healing and Osseointegration">
+                        <img src="./assets/img/icons/implant-step-3.png" alt="Healing and Osseointegration">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Healing &amp; Osseointegration</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -369,7 +372,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Abutment Placement">
+                        <img src="./assets/img/icons/implant-step-4.png" alt="Abutment Placement">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Abutment Placement</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -381,7 +384,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Crown Placement">
+                        <img src="./assets/img/icons/implant-step-5.png" alt="Crown Placement">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Crown Placement</h3>
                     <p class="rootcanal_fourth_section_step_desc">

@@ -1516,9 +1516,9 @@ document.addEventListener("DOMContentLoaded", function () {
      INDEX SIXTH SECTION
      PATIENT REVIEWS
 ========================================================= -->
-<section class="index_sixth_section">
+<!-- <section class="index_sixth_section">
 
-    <!-- Decorative Botanical Images -->
+    Decorative Botanical Images
     <img src="assets/img/reviews/review-leaf-left.png"
          class="index_sixth_section_leaf_left"
          alt="">
@@ -1528,7 +1528,7 @@ document.addEventListener("DOMContentLoaded", function () {
          alt="">
 
 
-    <!-- Left Handwriting -->
+    Left Handwriting
     <div class="index_sixth_section_handwriting_left">
         <span>Healthy</span>
         <span>Smiles</span>
@@ -1537,7 +1537,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </div>
 
 
-    <!-- Right Top Handwriting -->
+    Right Top Handwriting
     <div class="index_sixth_section_handwriting_top">
         <span>Trusted</span>
         <span>Dental Care</span>
@@ -1547,7 +1547,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </div>
 
 
-    <!-- Right Bottom Handwriting -->
+    Right Bottom Handwriting
     <div class="index_sixth_section_handwriting_bottom">
         <span>Smiles</span>
         <span>Create</span>
@@ -1560,9 +1560,9 @@ document.addEventListener("DOMContentLoaded", function () {
     <div class="container-fluid index_sixth_section_container">
 
 
-        <!-- =====================================================
+        =====================================================
              HEADER
-        ====================================================== -->
+        ======================================================
         <div class="index_sixth_section_header">
 
             <div class="index_sixth_section_eyebrow">
@@ -1591,13 +1591,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-        <!-- =====================================================
+        =====================================================
              SLIDER
-        ====================================================== -->
+        ======================================================
         <div class="index_sixth_section_slider_wrapper">
 
 
-            <!-- LEFT ARROW -->
+            LEFT ARROW
             <button class="index_sixth_section_arrow index_sixth_section_prev"
                     type="button"
                     aria-label="Previous reviews">
@@ -1608,15 +1608,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-            <!-- VIEWPORT -->
+            VIEWPORT
             <div class="index_sixth_section_slider">
 
                 <div class="index_sixth_section_track">
 
 
-                    <!-- =================================================
+                    =================================================
                          REVIEW 01
-                    ================================================== -->
+                    ==================================================
                     <div class="index_sixth_section_card">
 
                         <div class="index_sixth_section_card_top">
@@ -1674,16 +1674,16 @@ document.addEventListener("DOMContentLoaded", function () {
                         </div>
 
 
-                        <!-- Decorative Tooth -->
+                        Decorative Tooth
                         <i class="bi bi-heart index_sixth_section_card_watermark"></i>
 
                     </div>
 
 
 
-                    <!-- =================================================
+                    =================================================
                          REVIEW 02
-                    ================================================== -->
+                    ==================================================
                     <div class="index_sixth_section_card">
 
                         <div class="index_sixth_section_card_top">
@@ -1748,9 +1748,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-                    <!-- =================================================
+                    =================================================
                          REVIEW 03
-                    ================================================== -->
+                    ==================================================
                     <div class="index_sixth_section_card">
 
                         <div class="index_sixth_section_card_top">
@@ -1814,9 +1814,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-                    <!-- =================================================
+                    =================================================
                          REVIEW 04
-                    ================================================== -->
+                    ==================================================
                     <div class="index_sixth_section_card">
 
                         <div class="index_sixth_section_card_top">
@@ -1886,7 +1886,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-            <!-- RIGHT ARROW -->
+            RIGHT ARROW
             <button class="index_sixth_section_arrow index_sixth_section_next"
                     type="button"
                     aria-label="Next reviews">
@@ -1900,9 +1900,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-        <!-- =====================================================
+        =====================================================
              DOTS
-        ====================================================== -->
+        ======================================================
         <div class="index_sixth_section_dots">
 
             <button class="index_sixth_section_dot active"
@@ -1921,9 +1921,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-        <!-- =====================================================
+        =====================================================
              TRUST BAR
-        ====================================================== -->
+        ======================================================
         <div class="index_sixth_section_trust_bar">
 
 
@@ -1971,6 +1971,429 @@ document.addEventListener("DOMContentLoaded", function () {
 
     </div>
 
+</section> -->
+
+
+<!-- =========================================================
+     INDEX SIXTH SECTION
+     PATIENT REVIEWS
+========================================================= -->
+<section class="index_sixth_section">
+
+    <!-- Decorative Botanical Images -->
+    <img src="assets/img/reviews/review-leaf-left.png"
+         class="index_sixth_section_leaf_left"
+         alt="">
+
+    <img src="assets/img/reviews/review-leaf-right.png"
+         class="index_sixth_section_leaf_right"
+         alt="">
+
+    <!-- Left Handwriting -->
+    <div class="index_sixth_section_handwriting_left">
+        <span>Healthy</span>
+        <span>Smiles</span>
+        <span>Brighter</span>
+        <span>Tomorrows</span>
+    </div>
+
+
+    <!-- Right Top Handwriting -->
+    <div class="index_sixth_section_handwriting_top">
+        <span>Trusted</span>
+        <span>Dental Care</span>
+        <span>Happier Lives</span>
+
+        <i class="bi bi-arrow-return-left"></i>
+    </div>
+
+
+    <!-- Right Bottom Handwriting -->
+    <div class="index_sixth_section_handwriting_bottom">
+        <span>Smiles</span>
+        <span>Create</span>
+        <span>Stories</span>
+
+        <i class="bi bi-arrow-return-left"></i>
+    </div>
+
+    <div class="container-fluid index_sixth_section_container">
+
+
+        <!-- =====================================================
+             HEADER
+        ====================================================== -->
+        <div class="index_sixth_section_header">
+
+            <div class="index_sixth_section_eyebrow">
+
+                <span></span>
+
+                <p>
+                    PATIENT TESTIMONIALS
+                </p>
+
+                <span></span>
+
+            </div>
+
+
+            <h2>
+                What Our Patients Say
+            </h2>
+
+
+            <p class="index_sixth_section_subtitle">
+                Real experiences. Genuine smiles.
+            </p>
+
+        </div>
+
+        <!-- =====================================================
+             SLIDER
+        ====================================================== -->
+        <div class="index_sixth_section_slider_wrapper">
+
+
+            <!-- LEFT ARROW -->
+            <button class="index_sixth_section_arrow index_sixth_section_prev"
+                    type="button"
+                    aria-label="Previous reviews">
+
+                <i class="bi bi-chevron-left"></i>
+
+            </button>
+
+
+
+            <!-- VIEWPORT -->
+            <div class="index_sixth_section_slider">
+
+                <div class="index_sixth_section_track">
+
+
+                    <!-- =================================================
+                         REVIEW 01
+                    ================================================== -->
+                    <div class="index_sixth_section_card">
+
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+
+                            <div class="index_sixth_section_category">
+                                Professional Care
+                            </div>
+
+                        </div>
+
+
+                        <p class="index_sixth_section_review">
+                            “The doctors are very professional and made me feel
+                            comfortable throughout my treatment. Highly recommend!”
+                        </p>
+
+
+                        <div class="index_sixth_section_small_line"></div>
+
+
+                        <div class="index_sixth_section_user">
+
+                            <div class="index_sixth_section_avatar" style="background-color: #007bff; color: #ffffff; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;">
+                                R
+                            </div>
+
+
+                            <div class="index_sixth_section_user_info">
+
+                                <h3>
+                                    Rohit S.
+                                </h3>
+
+
+                                <div class="index_sixth_section_stars">
+
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                        <!-- Decorative Tooth -->
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
+
+                    </div>
+
+
+
+                    <!-- =================================================
+                         REVIEW 02
+                    ================================================== -->
+                    <div class="index_sixth_section_card">
+
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+
+                            <div class="index_sixth_section_category">
+                                Life Changing Results
+                            </div>
+
+                        </div>
+
+
+                        <p class="index_sixth_section_review">
+                            “My Invisalign journey here has been amazing.
+                            The team is supportive and the results are beyond
+                            my expectations!”
+                        </p>
+
+
+                        <div class="index_sixth_section_small_line"></div>
+
+
+                        <div class="index_sixth_section_user">
+
+                            <div class="index_sixth_section_avatar" style="background-color: #e83e8c; color: #ffffff; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;">
+                                A
+                            </div>
+
+
+                            <div class="index_sixth_section_user_info">
+
+                                <h3>
+                                    Ananya R.
+                                </h3>
+
+
+                                <div class="index_sixth_section_stars">
+
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
+
+                    </div>
+
+
+
+                    <!-- =================================================
+                         REVIEW 03
+                    ================================================== -->
+                    <div class="index_sixth_section_card">
+
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+
+                            <div class="index_sixth_section_category">
+                                Best Dental Clinic
+                            </div>
+
+                        </div>
+
+
+                        <p class="index_sixth_section_review">
+                            “Excellent care, modern equipment and a friendly
+                            environment. Truly the best dental clinic in Koramangala!”
+                        </p>
+
+
+                        <div class="index_sixth_section_small_line"></div>
+
+
+                        <div class="index_sixth_section_user">
+
+                            <div class="index_sixth_section_avatar" style="background-color: #28a745; color: #ffffff; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;">
+                                K
+                            </div>
+
+
+                            <div class="index_sixth_section_user_info">
+
+                                <h3>
+                                    Karthik M.
+                                </h3>
+
+
+                                <div class="index_sixth_section_stars">
+
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
+
+                    </div>
+
+                    <!-- =================================================
+                         REVIEW 04
+                    ================================================== -->
+                    <div class="index_sixth_section_card">
+
+                        <div class="index_sixth_section_card_top">
+
+                            <div class="index_sixth_section_quote_icon">
+                                “
+                            </div>
+
+                            <div class="index_sixth_section_category">
+                                Comfortable Experience
+                            </div>
+
+                        </div>
+
+                        <p class="index_sixth_section_review">
+                            “The whole experience was smooth and comfortable.
+                            Everything was explained clearly and the treatment
+                            was handled with great care.”
+                        </p>
+
+                        <div class="index_sixth_section_small_line"></div>
+
+                        <div class="index_sixth_section_user">
+
+                            <div class="index_sixth_section_avatar" style="background-color: #fd7e14; color: #ffffff; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;">
+                                P
+                            </div>
+
+                            <div class="index_sixth_section_user_info">
+
+                                <h3>
+                                    Patient Review
+                                </h3>
+
+                                <div class="index_sixth_section_stars">
+
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <i class="bi bi-heart index_sixth_section_card_watermark"></i>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+
+            <!-- RIGHT ARROW -->
+            <button class="index_sixth_section_arrow index_sixth_section_next"
+                    type="button"
+                    aria-label="Next reviews">
+
+                <i class="bi bi-chevron-right"></i>
+
+            </button>
+
+        </div>
+
+        <!-- =====================================================
+             DOTS
+        ====================================================== -->
+        <div class="index_sixth_section_dots">
+
+            <button class="index_sixth_section_dot active"
+                    type="button"
+                    aria-label="Slide 1"></button>
+
+            <button class="index_sixth_section_dot"
+                    type="button"
+                    aria-label="Slide 2"></button>
+
+            <button class="index_sixth_section_dot"
+                    type="button"
+                    aria-label="Slide 3"></button>
+
+        </div>
+
+        <!-- =====================================================
+             TRUST BAR
+        ====================================================== -->
+        <div class="index_sixth_section_trust_bar">
+
+            <div class="index_sixth_section_trust_item">
+
+                <i class="bi bi-shield-check"></i>
+
+                <span>
+                    Trusted by 3500+ Patients
+                </span>
+
+            </div>
+
+
+            <div class="index_sixth_section_trust_divider"></div>
+
+            <div class="index_sixth_section_trust_item">
+
+                <i class="bi bi-people"></i>
+
+                <span>
+                    Experienced Dental Team
+                </span>
+
+            </div>
+
+
+            <div class="index_sixth_section_trust_divider"></div>
+
+
+            <div class="index_sixth_section_trust_item">
+
+                <i class="bi bi-heart"></i>
+
+                <span>
+                    Comfortable &amp; Caring Environment
+                </span>
+
+            </div>
+        </div>
+    </div>
 </section>
 
 

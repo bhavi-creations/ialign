@@ -31,7 +31,8 @@
                                                             
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-search" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-search" aria-hidden="true"></i> -->
+                                        <img src="./assets/img/icons/gum-assesment.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Thorough</strong>
@@ -42,7 +43,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-bullseye" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-bullseye" aria-hidden="true"></i> -->
+                                        <img src="./assets/img/icons/clean.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Indication-Led</strong>
@@ -341,7 +343,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Treatment Planning">
+                        <img src="./assets/img/icons/treatment-planning.png" alt="Treatment Planning">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Treatment Planning</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -353,7 +355,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Laser Gum Treatment">
+                        <img src="./assets/img/icons/clean.png" alt="Laser Gum Treatment">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Laser Gum Treatment</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -365,7 +367,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Deep Cleaning and Disinfection">
+                        <img src="./assets/img/icons/cleaning-step-3.png" alt="Deep Cleaning and Disinfection">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Cleaning &amp; Disinfection</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -377,7 +379,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Healing and Follow Up">
+                        <img src="./assets/img/icons/digital-scanning.png" alt="Healing and Follow Up">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Healing &amp; Follow-Up</h3>
                     <p class="rootcanal_fourth_section_step_desc">

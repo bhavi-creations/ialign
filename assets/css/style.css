@@ -24750,7 +24750,8 @@
 
     align-items: center;
 
-    color: rgba(48, 74, 67, 0.79);
+    /* color: rgba(48, 74, 67, 0.79); */
+    color: white;
 
     font-family: "Caveat", cursive;
 
@@ -24977,7 +24978,7 @@
 
 
     .invisalign_first_section_title {
-        font-size: 50px;
+        font-size: 44px;
     }
 
 
@@ -25493,6 +25494,8 @@
     min-height: 320px;
 
     align-items: center;
+
+    margin: 30px 0px;
 }
 
 
@@ -30529,6 +30532,8 @@
 
     filter:
         saturate(.8);
+
+    margin-top: 25px;    
 }
 
 
@@ -31290,4 +31295,49 @@
     .rootcanal_fourth_section_step_item {
         flex: 0 0 100%; /* 1 card per row for Small Mobile */
     }
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+  /* మెయిన్ బటన్ కంటైనర్ */
+  .doctor_second_section_appointment {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    padding: 6px 10px !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    gap: 8px !important; /* ఐకాన్స్ మరియు టెక్స్ట్ మధ్య గ్యాప్ */
+  }
+
+  /* క్యాలెండర్ ఐకాన్ కంటైనర్ */
+  .doctor_second_section_appointment_calendar {
+    width: 36px !important;
+    height: 36px !important;
+    min-width: 36px !important;
+    font-size: 16px !important;
+    flex-shrink: 0 !important;
+  }
+
+  /* టెక్స్ట్ (Book an Appointment) */
+  .doctor_second_section_appointment_text {
+    font-size: 13px !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+    white-space: normal !important; /* అవసరమైతే టెక్స్ట్ 2 లైన్లుగా మారుతుంది */
+  }
+
+  /* యారో ఐకాన్ కంటైనర్ */
+  .doctor_second_section_appointment_arrow {
+    width: 36px !important;
+    height: 36px !important;
+    min-width: 36px !important;
+    font-size: 16px !important;
+    flex-shrink: 0 !important; /* యారో నలిగిపోకుండా/బయటకు వెళ్లకుండా ఉంచుతుంది */
+  }
+
 }

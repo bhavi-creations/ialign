@@ -31,7 +31,8 @@
                                                             
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-palette" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-palette" aria-hidden="true"></i> -->
+                                        <img src="./assets/img/icons/Veneers-step-4.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Custom</strong>
@@ -42,7 +43,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-gem" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-gem" aria-hidden="true"></i> -->
+                                        <img src="./assets/img/icons/veener.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Refined</strong>
@@ -53,7 +55,8 @@
                                 
                                 <div class="invisalign_first_section_benefit">
                                     <div class="invisalign_first_section_benefit_icon">
-                                        <i class="bi bi-person-check" aria-hidden="true"></i>
+                                        <!-- <i class="bi bi-person-check" aria-hidden="true"></i> -->
+                                        <img src="./assets/img/icons/dental-examination.png" alt="" style="height:60px; width:60px">
                                     </div>
                                     <div class="invisalign_first_section_benefit_text">
                                         <strong>Careful</strong>
@@ -341,7 +344,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">02</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-3.png" alt="Smile Design and Planning">
+                        <img src="./assets/img/icons/Veneers-step-2.png" alt="Smile Design and Planning">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Smile Design &amp; Planning</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -353,7 +356,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">03</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-4.png" alt="Tooth Preparation">
+                        <img src="./assets/img/icons/Veneers-step-3.png" alt="Tooth Preparation">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Tooth Preparation</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -365,7 +368,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">04</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-5.png" alt="Custom Veneer Fabrication">
+                        <img src="./assets/img/icons/Veneers-step-4.png" alt="Custom Veneer Fabrication">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Custom Veneer Fabrication</h3>
                     <p class="rootcanal_fourth_section_step_desc">
@@ -377,7 +380,7 @@
                 <div class="rootcanal_fourth_section_step_item">
                     <span class="rootcanal_fourth_section_badge">05</span>
                     <div class="rootcanal_fourth_section_icon">
-                        <img src="./assets/img/icons/implant-step-6.png" alt="Veneer Placement and Final Smile">
+                        <img src="./assets/img/icons/veener.png" alt="Veneer Placement and Final Smile">
                     </div>
                     <h3 class="rootcanal_fourth_section_step_title">Veneer Placement &amp; Final Smile</h3>
                     <p class="rootcanal_fourth_section_step_desc">
