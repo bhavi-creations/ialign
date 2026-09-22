@@ -2385,7 +2385,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
             <div class="index_sixth_section_trust_item">
 
-                <i class="bi bi-heart"></i>
+                <!-- <i class="bi bi-heart"></i> -->
+                        <img src="./assets/img/icons/safe.png" alt="" style="width: 30px; height: 30px;">
 
                 <span>
                     Comfortable &amp; Caring Environment

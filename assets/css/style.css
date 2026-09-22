@@ -2099,7 +2099,7 @@
     font-size: 54px;
     /* font-size: 60px; */
 
-    font-weight: 600;
+    font-weight: 500;
 
     line-height: 0.98;
 
@@ -7437,7 +7437,7 @@
 
     font-weight: 600;
 
-    line-height: 1;
+    line-height: 1.25;
 
     letter-spacing: -2px;
 }
@@ -8755,7 +8755,7 @@
 
     font-family: "Playfair Display", serif;
 
-    font-size: 50px;
+    font-size: 46px;
     /* font-size: 59px; */
     font-weight: 600;
 
@@ -8811,7 +8811,7 @@
 
     color: #648079;
 
-    font-size: 8px;
+    font-size: 10px;
     font-weight: 600;
 
     letter-spacing: 5px;
@@ -18780,7 +18780,7 @@
     font-size: 65px;
     font-weight: 600;
 
-    line-height: 0.96;
+    /* line-height: 0.96; */
 
     letter-spacing: -2px;
 }
@@ -18876,7 +18876,7 @@
 .patient_stories_first_section_stat_content strong {
     color: #283833;
 
-    font-size: 27px;
+    font-size: 23px;
     font-weight: 700;
 
     line-height: 1.1;
@@ -18997,7 +18997,7 @@
 
     inset: 0;
 
-    object-fit: cover;
+    /* object-fit: cover; */
     object-position: center;
 }
 
@@ -19044,7 +19044,8 @@
     display: flex;
     flex-direction: column;
 
-    color: rgba(48, 72, 66, 0.78);
+    /* color: rgba(48, 72, 66, 0.78); */
+    color: white;
 
     font-family: "Caveat", cursive;
 
@@ -19458,8 +19459,8 @@
 
         font-size: 25px;
 
-        background:
-            rgba(247, 248, 245, 0.62);
+        /* background:
+            rgba(247, 248, 245, 0.62); */
 
         backdrop-filter: blur(3px);
 
@@ -23960,7 +23961,7 @@
 
     color: #69736f;
 
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
 
     line-height: 1.65;
@@ -24155,7 +24156,7 @@
         padding-left: 15px;
         padding-right: 42px;
 
-        font-size: 12px;
+        font-size: 13px;
     }
 
 
@@ -31213,6 +31214,7 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
     transition: all 0.3s ease-in-out;
     margin-top: 15px; /* Badge top space */
+    border: 1px solid #212529;
 }
 
 /* Card Hover State */
@@ -31288,12 +31290,14 @@
 @media (max-width: 767px) {
     .rootcanal_fourth_section_step_item {
         flex: 0 0 calc(50% - 15px); /* 2 cards in row for Mobile landscape */
+        border: 1px solid #212529;
     }
 }
 
 @media (max-width: 575px) {
     .rootcanal_fourth_section_step_item {
         flex: 0 0 100%; /* 1 card per row for Small Mobile */
+        border: 1px solid #212529;
     }
 }
 
@@ -31340,4 +31344,14 @@
     flex-shrink: 0 !important; /* యారో నలిగిపోకుండా/బయటకు వెళ్లకుండా ఉంచుతుంది */
   }
 
+}
+
+
+
+/* Mobile screens lo maatrame ee 2 blocks hide avuthayi */
+@media (max-width: 767px) {
+  .footer_quick_links,
+  .footer_contact {
+    display: none !important;
+  }
 }

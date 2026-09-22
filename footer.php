@@ -193,7 +193,7 @@
                              <img src="./assets/img/icons/facebook.png" style="width: 30px; height:30px;" alt="">
                         </a>
 
-                        <a href="https://www.youtube.com/@IALiGNSignaturedentalcar"
+                        <a href="https://www.youtube.com/@IALiGNSignaturedentalcare"
                            aria-label="YouTube">
                             <!-- <i class="bi bi-youtube"></i> -->
                              <img src="./assets/img/icons/youtube.png" style="width: 30px; height:30px;" alt="">

@@ -328,7 +328,7 @@
 
 
                 <h2 class="about_third_section_title">
-                    Experts Behind<br>
+                    Experts Behind
                     Your Healthy Smile
                 </h2>
 
@@ -361,7 +361,7 @@
 
                 <div class="about_third_section_doctor_image">
 
-                    <img src="assets/img/about_doctor_2.png"
+                    <img src="assets/img/doctor2.png"
                          alt="Dr. Sridhar K R">
 
                     <div class="about_third_section_image_curve"></div>
@@ -407,7 +407,7 @@
 
                 <div class="about_third_section_doctor_image">
 
-                    <img src="assets/img/about_doctor_1.png"
+                    <img src="assets/img/doctor1.png"
                          alt="Dr. P Aparna">
 
                     <div class="about_third_section_image_curve"></div>

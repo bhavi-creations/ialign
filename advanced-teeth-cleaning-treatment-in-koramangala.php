@@ -168,7 +168,8 @@
                     <div class="invisalign_third_section_benefits">
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-eye" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-eye" aria-hidden="true"></i> -->
+                        <img src="./assets/img/icons/safe.png" alt="" style="width: 30px; height: 30px;">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Visible Biofilm<br>Before Cleaning                                </div>

@@ -829,7 +829,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 <div class="patient_stories_third_section_video">
 
-                    <img src="assets/img/patient-stories/testimonial-video.jpg"
+                    <img src="assets/img/doctor-treatment.png"
                          alt="Patient Testimonial"
                          class="patient_stories_third_section_video_image">
 
@@ -844,19 +844,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
                     <!-- PLAY BUTTON -->
-                    <button type="button"
+                    <!-- <button type="button"
                             class="patient_stories_third_section_play"
                             aria-label="Play testimonial">
 
                         <i class="bi bi-play-fill"></i>
 
-                    </button>
+                    </button> -->
 
 
                     <!-- DURATION -->
-                    <div class="patient_stories_third_section_duration">
+                    <!-- <div class="patient_stories_third_section_duration">
                         02:15
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -873,7 +873,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     <!-- EYEBROW -->
                     <div class="patient_stories_third_section_eyebrow">
-                        VIDEO TESTIMONIALS
+                        TESTIMONIALS
                     </div>
 
 
@@ -939,7 +939,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     <!-- =========================================
                          ARROWS
                     ========================================== -->
-                    <div class="patient_stories_third_section_controls">
+                    <!-- <div class="patient_stories_third_section_controls">
 
                         <button type="button"
                                 class="patient_stories_third_section_control patient_stories_third_section_prev"
@@ -958,7 +958,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         </button>
 
-                    </div>
+                    </div> -->
 
 
                 </div>
