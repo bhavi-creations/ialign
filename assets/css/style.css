@@ -7584,7 +7584,7 @@
     width: 100%;
     height: 100%;
 
-    object-fit: cover;
+    /* object-fit: cover; */
 
     object-position: center center;
 
@@ -7688,7 +7688,7 @@
     .about_first_section_description {
         max-width: 510px;
 
-        font-size: 20px;
+        font-size: 21px;
     }
 
 
@@ -7708,7 +7708,7 @@
 
 
     .about_first_section_feature_text {
-        font-size: 16px;
+        font-size: 14px;
     }
 
 
@@ -7753,7 +7753,7 @@
 
 
     .about_first_section_features {
-        margin-top: 27px;
+        margin-top: 14px;
     }
 
 
@@ -8814,7 +8814,7 @@
     font-size: 10px;
     font-weight: 600;
 
-    letter-spacing: 5px;
+    letter-spacing: 3px;
 
     white-space: nowrap;
 }
@@ -9043,7 +9043,7 @@
 
     color: #284a43;
 
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 500;
 
     line-height: 1.45;
@@ -10494,7 +10494,7 @@
 
 
     .about_fourth_section_value p {
-        font-size: 13px;
+        font-size: 12px;
     }
 
 }
@@ -12207,7 +12207,7 @@
 
     .footer_bottom_inner p,
     .footer_bottom_right {
-        font-size: 11px;
+        font-size: 12px;
     }
 
 }
@@ -12356,7 +12356,7 @@
     font-size: 50px;
     font-weight: 600;
 
-    line-height: 0.92;
+    line-height: 1.2;
 
     letter-spacing: -2.5px;
 }
@@ -12595,11 +12595,11 @@
 
     width: 185px;
 
-    background:
+    /* background:
         linear-gradient(90deg,
             rgba(239, 243, 240, 0.92) 0%,
             rgba(226, 235, 231, 0.64) 48%,
-            rgba(226, 235, 231, 0) 100%);
+            rgba(226, 235, 231, 0) 100%); */
 
     pointer-events: none;
 }
@@ -12853,12 +12853,12 @@
 
 
     .treatment_first_section_title {
-        font-size: 62px;
+        font-size: 58px;
     }
 
 
     .treatment_first_section_description {
-        font-size: 17px;
+        font-size: 21px;
     }
 
 
@@ -13017,7 +13017,7 @@
 
         font-size: 27px;
 
-        background: rgba(243, 247, 244, 0.50);
+        /* background: rgba(243, 247, 244, 0.50); */
 
         backdrop-filter: blur(2px);
 
@@ -13829,7 +13829,7 @@
     .treatment_second_section_card_content p {
         max-width: 320px;
 
-        font-size: 13px;
+        font-size: 15px;
     }
 
 
@@ -14525,7 +14525,7 @@
     .treatment_third_section_eyebrow {
         font-size: 11px;
 
-        letter-spacing: 5px;
+        letter-spacing: 2px;
     }
 
 
@@ -14631,7 +14631,7 @@
 
 
     .treatment_third_section_title {
-        font-size: 50px;
+        font-size: 35px;
     }
 
 
@@ -15850,11 +15850,11 @@
 
     width: 180px;
 
-    background:
+    /* background:
         linear-gradient(90deg,
             rgba(243, 245, 242, 0.95) 0%,
             rgba(243, 245, 242, 0.68) 42%,
-            rgba(243, 245, 242, 0) 100%);
+            rgba(243, 245, 242, 0) 100%); */
 
     pointer-events: none;
 }
@@ -18925,8 +18925,8 @@
 
     border-radius: 50%;
 
-    background:
-        rgba(200, 212, 207, 0.58);
+    /* background:
+        rgba(200, 212, 207, 0.58); */
 
     transform: rotate(-12deg);
 
@@ -20558,7 +20558,7 @@
 
 
 .patient_stories_third_section_quote_start {
-    left: 27px;
+    left: 15px;
     top: 21px;
 }
 
@@ -22094,7 +22094,8 @@
 
     align-items: center;
 
-    color: rgba(46, 72, 65, 0.78);
+    /* color: rgba(46, 72, 65, 0.78); */
+    color: white;
 
     font-family: "Caveat", cursive;
 
@@ -22497,12 +22498,14 @@
 
         font-size: 25px;
 
-        background:
-            rgba(247, 248, 245, 0.62);
+        /* background:
+            rgba(247, 248, 245, 0.62); */
 
         backdrop-filter: blur(3px);
 
         border-radius: 12px;
+
+        color: white;
     }
 
 }
@@ -24633,8 +24636,8 @@
 
     border-radius: 50%;
 
-    background:
-        rgba(200, 212, 207, 0.56);
+    /* background:
+        rgba(200, 212, 207, 0.56); */
 
     transform: rotate(-12deg);
 }
@@ -25380,8 +25383,8 @@
 
         font-size: 24px;
 
-        background:
-            rgba(247, 248, 245, 0.58);
+        /* background:
+            rgba(247, 248, 245, 0.58); */
 
         backdrop-filter: blur(3px);
 
@@ -25407,8 +25410,8 @@
 
         font-size: 19px;
 
-        border-radius:
-            20px 0 0 0;
+        /* border-radius:
+            20px 0 0 0; */
     }
 
 
@@ -26055,8 +26058,10 @@
 
         font-size: 25px;
 
-        background:
-            rgba(247, 248, 245, 0.58);
+        /* background:
+            rgba(247, 248, 245, 0.58); */
+
+        color:white;    
 
         backdrop-filter: blur(3px);
 
@@ -27387,7 +27392,7 @@
     position: absolute;
 
     left: 24px;
-    top: 15px;
+    top: 5px;
 
     color: #174e43;
 
@@ -31354,4 +31359,515 @@
   .footer_contact {
     display: none !important;
   }
+}
+
+
+
+
+/* Mobile Screens (767px or less) lo gradient hide cheyadaniki */
+@media (max-width: 767.98px) {
+    .invisalign_first_section_image_wrapper::before {
+        display: none; /* Mobile view lo overlay remove avthundhi */
+    }
+}
+
+
+
+@media (max-width: 767.98px) {
+    .about_first_section_image_quote {
+        display: none !important;
+    }
+}
+
+
+
+/* Mobile devices lo matrame Image Rounded Corners (Border Radius) apply avvadaniki */
+@media (max-width: 767.98px) {
+    .about_first_section_image_wrapper {
+        border-radius: 16px !important; /* Rounded corners kosam (12px / 16px / 20px adjust cheskovachhu) */
+        overflow: hidden !important;    /* Image corners bayataki raakunda cut chesthundhi */
+    }
+
+    .about_first_section_image {
+        border-radius: 16px !important;
+    }
+}
+
+
+
+/* Mobile view (767px or less) lo Curve Design remove cheyadaniki */
+@media (max-width: 767.98px) {
+    .doctor_first_section_curve,
+    .doctor_first_section_curve::before,
+    .doctor_first_section_curve::after {
+        display: none !important;
+    }
+}
+
+
+
+/* Mobile view lo Handwriting Text chuttuu unna Box Styling remove cheyadaaniki */
+@media (max-width: 767.98px) {
+    .doctor_third_section_handwriting {
+        background: transparent !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        border: none !important;
+        box-shadow: none !important;
+        padding: 0 !important;
+    }
+}
+
+
+/* Mobile view (767px or less) lo Contact Section Curve Design remove cheyadaniki */
+@media (max-width: 767.98px) {
+    .contact_first_section_curve,
+    .contact_first_section_curve::before,
+    .contact_first_section_curve::after {
+        display: none !important;
+    }
+}
+
+
+
+
+/* 992px nundi 1200px Screen Size Layout Fix (Exact Reference Match) */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* 1. Send Message Button - Perfect Single Line Center Alignment */
+    .contact_second_section_submit,
+    button.contact_second_section_submit {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        flex-direction: row !important;
+        gap: 10px !important;
+        width: 100% !important;
+        height: 48px !important;
+        padding: 0 24px !important;
+        text-align: center !important;
+    }
+
+    .contact_second_section_submit span,
+    .contact_second_section_submit p,
+    .contact_second_section_submit i,
+    .contact_second_section_submit svg,
+    .contact_second_section_submit img {
+        display: inline-block !important;
+        margin: 0 !important;
+        position: static !important;
+        line-height: 1 !important;
+    }
+
+    /* 2. Connect With Us Card Container Expansion */
+    .contact_second_section_connect {
+        padding: 20px 18px !important;
+        min-height: auto !important;
+    }
+
+    /* 3. Connect Text Alignment */
+    .contact_second_section_connect_text {
+        font-size: 11px !important;
+        line-height: 1.4 !important;
+        margin-bottom: 15px !important;
+        text-align: left !important;
+    }
+
+    /* 4. Social Icons Row - Horizontal Left Alignment (Reference Image Match) */
+    .contact_second_section_socials {
+        margin-left: 0 !important;
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        gap: 12px !important;
+        width: 100% !important;
+        margin-bottom: 15px !important;
+    }
+
+    .contact_second_section_socials a {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        margin: 0 !important;
+    }
+
+    /* 5. Bottom Quote Box (Your smile matters...) Display Fix */
+    .contact_second_section_connect .quote_box,
+    .contact_second_section_connect_quote {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        margin-top: 10px !important;
+    }
+}
+
+
+
+/* Connect Card Clean Layout Fix (992px - 1200px) */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* 1. Main Card Container */
+    .contact_second_section_connect {
+        position: relative !important;
+        display: flex !important;
+        flex-direction: column !important;
+        padding: 20px !important;
+        min-height: auto !important;
+    }
+
+    /* 2. Overlapping Elements positioning Reset (Main Fix) */
+    .contact_second_section_connect * {
+        position: static !important; /* Forces elements to stack naturally instead of overlapping */
+        transform: none !important;
+    }
+
+    /* 3. Header Title (CONNECT WITH US) */
+    .contact_second_section_info_heading {
+        display: flex !important;
+        align-items: center !important;
+        gap: 10px !important;
+        margin-bottom: 12px !important;
+    }
+
+    /* 4. Description Text */
+    .contact_second_section_connect_text {
+        font-size: 12px !important;
+        line-height: 1.4 !important;
+        margin-bottom: 15px !important;
+        text-align: left !important;
+    }
+
+    /* 5. Social Icons Row */
+    .contact_second_section_socials {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        gap: 12px !important;
+        margin-left: 0 !important;
+        margin-bottom: 15px !important;
+        padding-bottom: 15px !important;
+        border-bottom: 1px solid #f0f0f0 !important; /* Bottom line divider like reference */
+    }
+
+    /* 6. Quote Section ("Your smile matters...") */
+    .contact_second_section_connect_quote,
+    .contact_second_section_connect .quote_wrapper {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        margin-top: 10px !important;
+        width: 100% !important;
+    }
+}
+
+
+
+/* Tablet Response Layout Fix (768px - 991px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .appointment_first_section_description {
+        max-width: 100% !important; /* Forces text to expand till title margins */
+        width: 100% !important;
+        font-size: 16px !important;
+        line-height: 1.5 !important;
+    }
+
+    /* HTML lo unna manual <br> line breaks ni CSS dwara ignore cheyadaaniki */
+    .appointment_first_section_description br {
+        display: none !important;
+    }
+}
+
+
+
+/* Tablet Response (768px - 991px) - Contact Section Title & Description Fix */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* 1. Container width expansion */
+    .contact_first_section_content,
+    .contact_first_section_left {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    /* 2. Title single line lo padadaniki font size adjustment */
+    .contact_first_section_title {
+        font-size: 42px !important; /* Screen space batti font size compress chesthundhi */
+        white-space: nowrap !important; /* Text niga single line lo unchuthundhi */
+        max-width: 100% !important;
+    }
+
+    /* 3. Description wide ga 1 or 2 lines lo stretch avvadaniki */
+    .contact_first_section_description {
+        max-width: 100% !important;
+        width: 100% !important;
+        font-size: 16px !important;
+        line-height: 1.5 !important;
+    }
+
+    /* Manual line breaks HTML lo unte ignore cheyadaaniki */
+    .contact_first_section_description br,
+    .contact_first_section_title br {
+        display: none !important;
+    }
+}
+
+
+
+
+/* Tablet Response (768px - 991px) Quote Container Height & Padding Reduction */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .index_third_section_quote_area {
+        min-height: auto !important; /* Unnecessary height remove chestundhi */
+        height: auto !important;
+        padding: 40px 20px !important; /* Excess top and bottom space thaggistundhi */
+    }
+
+    .index_third_section_quote_content {
+        margin: 0 auto !important;
+    }
+}
+
+
+/* 992px to 1200px screens lo Doctor Profile Bottom Caption Hide cheyadaniki */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .doctor_second_section_bottom_caption {
+        display: none !important;
+    }
+}
+
+
+
+/* Tablet Response (768px - 991px) - Treatment Title 2 Lines Fix */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .treatment_third_section_title {
+        max-width: 100% !important; /* Width box restriction remove chesthundhi */
+        width: 100% !important;
+        font-size: 28px !important; /* Font size compress chesi text room isthundhi */
+        line-height: 1.3 !important;
+        white-space: normal !important;
+    }
+
+    /* Heading inside manual <br> tag ni disable cheyadaaniki */
+    .treatment_third_section_title br {
+        display: none !important;
+    }
+}
+
+
+
+/* Tablet Response (768px - 991px) - Description 2 Lines Fix */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .treatment_third_section_description {
+        max-width: 100% !important; /* Fixed width restriction ni teeseysthundhi */
+        width: 100% !important;
+        font-size: 14px !important; /* Font size ni thagginchi exact 2 lines ki fit chesthundhi */
+        line-height: 1.4 !important;
+        margin-top: 15px !important;
+        margin-bottom: 20px !important;
+    }
+
+}
+
+
+/* Tablet Response (768px - 991px) - Description Full Image Width Stretch */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* Parent content area max width override */
+    .treatment_third_section_content {
+        width: 100% !important;
+        max-width: 100% !important;
+        padding-right: 0 !important;
+    }
+
+    /* Paragraph element text stretch till image margins */
+    .treatment_third_section_description {
+        width: 100% !important;
+        max-width: 100% !important;
+        display: block !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Manual line break tags disable */
+    .treatment_third_section_description br {
+        display: none !important;
+    }
+}
+
+
+
+/* 992px to 1200px / Laptop View Image Aspect Ratio Fix */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* Right side image wrapper container height reduction */
+    .about_first_section_image_wrapper {
+        height: auto !important;
+        min-height: 400px !important; /* Screen sizes batti wrapper height reduce chesthundhi */
+        position: relative !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        overflow: hidden !important;
+    }
+
+    /* Image zoom and crop stop cheyadaniki main fix */
+    .about_first_section_image {
+        position: relative !important;
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: contain !important; /* Image crop avvakunda clean ga scaled box lo fit chesthundhi */
+        object-position: center !important;
+    }
+}
+
+
+/* 992px to 1200px / Laptop View - Left & Right Containers Height Equalization */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* 1. Left container min-height override */
+    .about_first_section_left {
+        min-height: auto !important; /* Fixed 600px height limit remove chesthundhi */
+        height: 100% !important;
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+    }
+
+    /* 2. Parent row align-items balance */
+    .about_first_section_row {
+        align-items: center !important;
+        min-height: auto !important;
+    }
+
+    /* 3. Right image wrapper height lock */
+    .about_first_section_right,
+    .about_first_section_image_wrapper {
+        min-height: auto !important;
+    }
+}
+
+
+
+
+
+
+/* 1400px and Above Screens - Compact Section Container & Height Reduction */
+@media (min-width: 1400px) {
+
+    /* 1. Main outer section container height lock & center alignment */
+    .patient_stories_first_section_left,
+    .patient_stories_first_section_right,
+    .patient_stories_first_section_image_wrapper {
+        min-height: 450px !important; /* Default 580px/600px height ni 450px ki reduce chestundhi */
+        height: 450px !important;
+    }
+
+    /* 2. Container inner flex alignment */
+    .patient_stories_first_section_row {
+        min-height: 450px !important;
+        align-items: center !important;
+    }
+
+    /* 3. Left side content padding adjustment */
+    .patient_stories_first_section_left {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+    }
+
+    /* 4. Right side image proportion fix */
+    .patient_stories_first_section_image {
+        height: 100% !important;
+        width: 100% !important;
+        object-fit: cover !important;
+        object-position: center !important;
+    }
+}
+
+
+
+
+/* 1400px and Above Screens - Equal Compact Height & Right Image Render Fix */
+@media (min-width: 1400px) {
+
+    /* 1. Main Outer Container Reset */
+    .about_first_section_container,
+    .container-fluid.about_first_section_container {
+        max-width: 100% !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin: 0 !important;
+    }
+
+    /* 2. Row Alignment Fix */
+    .about_first_section_row {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        min-height: 480px !important;
+        height: 480px !important;
+        display: flex !important;
+        align-items: stretch !important;
+    }
+
+    /* 3. Left Content Column - Compact Spacing */
+    .about_first_section_left {
+        min-height: 480px !important;
+        height: 480px !important;
+        padding: 30px 40px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        box-sizing: border-box !important;
+    }
+
+    .about_first_section_left .about_first_section_title {
+        margin-bottom: 12px !important;
+    }
+
+    .about_first_section_left .about_first_section_description {
+        margin-bottom: 20px !important;
+        font-size: 18px !important;
+        line-height: 1.5 !important;
+    }
+
+    .about_first_section_features {
+        margin-top: 10px !important;
+        padding-top: 10px !important;
+    }
+
+    /* 4. Right Side Column & Image Wrapper Render Fix */
+    .about_first_section_right {
+        min-height: 480px !important;
+        height: 480px !important;
+        position: relative !important;
+        display: block !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .about_first_section_image_wrapper {
+        position: relative !important;
+        width: 100% !important;
+        height: 100% !important;
+        min-height: 480px !important;
+        overflow: hidden !important;
+        display: block !important;
+    }
+
+    /* Image Display Lock */
+    .about_first_section_image {
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        object-position: center !important;
+        display: block !important;
+        z-index: 1 !important;
+    }
 }

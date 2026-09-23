@@ -169,14 +169,16 @@
                     <div class="invisalign_third_section_benefits">
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-palette" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-palette" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/veener.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Custom Colour<br>Planning                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-gem" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-gem" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/smiling-teeth.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Refine Tooth<br>Shape                                </div>
@@ -190,7 +192,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-bandaid" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-bandaid" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/Veneers-step-4.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Restore Minor<br>Visible Chips                                </div>
@@ -204,7 +207,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-brush" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-brush" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/teeth-cleaning-step-5.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Long-Term Care<br>Guidance                                </div>

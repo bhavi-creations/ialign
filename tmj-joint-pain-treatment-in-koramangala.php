@@ -174,21 +174,24 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-arrows-move" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-arrows-move" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/jaw-surgery.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Jaw Movement<br>Assessment                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-thermometer-half" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-thermometer-half" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/personalized.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Self-Care<br>Guidance                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-activity" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-activity" aria-hidden="true"></i> -->
+                                    <i class="bi bi-person-arms-up"></i>
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Exercise or Therapy<br>Coordination                                </div>
@@ -202,7 +205,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-signpost-split" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-signpost-split" aria-hidden="true"></i> -->
+                                    <i class="fa-solid fa-user-doctor"></i>
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Specialist Referral<br>When Needed                                </div>

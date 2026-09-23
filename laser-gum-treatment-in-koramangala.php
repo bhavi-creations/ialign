@@ -175,7 +175,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-bullseye" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-bullseye" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/clean.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Targeted<br>Treatment                                </div>
@@ -189,7 +190,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-droplet" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-droplet" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/cleaning-step-3.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Professional<br>Cleaning Support                                </div>

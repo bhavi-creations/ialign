@@ -215,7 +215,7 @@
 
                     <!-- MAIN TITLE -->
                     <h2 class="about_second_section_title">
-                        A Modern Dental Clinic<br>
+                        A Modern Dental Clinic
                         for Every Smile
                     </h2>
 

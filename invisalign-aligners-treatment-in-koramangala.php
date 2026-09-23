@@ -63,7 +63,7 @@
 
                             <div class="invisalign_first_section_benefit_icon">
                                 <!-- <i class="bi bi-eye-slash"></i> -->
-                        <img src="./assets/img/icons/aligners-icon.png" alt="" style="height:60px; width:60px">
+                        <img src="./assets/img/icons/aligners-icon.png" alt="" style="height:50px; width:50px">
                             </div>
 
                             <div class="invisalign_first_section_benefit_text">
@@ -82,7 +82,7 @@
 
                             <div class="invisalign_first_section_benefit_icon">
                                 <!-- <i class="bi bi-heart"></i> -->
-                        <img src="./assets/img/icons/aligners-fitting.png" alt="" style="height:60px; width:60px">
+                        <img src="./assets/img/icons/aligners-fitting.png" alt="" style="height:50px; width:50px">
                             </div>
 
                             <div class="invisalign_first_section_benefit_text">
@@ -101,7 +101,7 @@
 
                             <div class="invisalign_first_section_benefit_icon">
                                 <!-- <i class="bi bi-calendar3"></i> -->
-                        <img src="./assets/img/icons/treatment-planning.png" alt="" style="height:60px; width:60px">
+                        <img src="./assets/img/icons/treatment-planning.png" alt="" style="height:50px; width50px">
                             </div>
 
                             <div class="invisalign_first_section_benefit_text">
@@ -888,7 +888,7 @@
 
 
                     <!-- CONTROLS -->
-                    <div class="invisalign_fifth_section_controls">
+                    <!-- <div class="invisalign_fifth_section_controls">
 
                         <button type="button"
                                 class="invisalign_fifth_section_control">
@@ -901,7 +901,7 @@
                             <i class="bi bi-chevron-right"></i>
                         </button>
 
-                    </div>
+                    </div> -->
 
                 </div>
 

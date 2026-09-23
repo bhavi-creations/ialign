@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                     <!-- Main Heading -->
                     <h1 class="appointment_first_section_title">
-                        Book Your<br>
+                        Book Your
                         Appointment
                     </h1>
 
