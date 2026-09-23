@@ -350,8 +350,8 @@
 
                         <div class="invisalign_third_section_icon">
 
-                            <i class="bi bi-eye"></i>
-
+                            <!-- <i class="bi bi-eye"></i> -->
+                            <img src="./assets/img/icons/aligners-icon.png" alt="" style="height:50px; width:50px">
                         </div>
 
                         <div class="invisalign_third_section_card_text">
@@ -384,8 +384,8 @@
 
                         <div class="invisalign_third_section_icon">
 
-                            <i class="bi bi-hand-index"></i>
-
+                            <!-- <i class="bi bi-hand-index"></i> -->
+                            <img src="./assets/img/icons/aligners-fitting.png" alt="" style="height:60px; width:60px">
                         </div>
 
                         <div class="invisalign_third_section_card_text">
@@ -418,8 +418,8 @@
 
                         <div class="invisalign_third_section_icon">
 
-                            <i class="bi bi-bounding-box-circles"></i>
-
+                            <!-- <i class="bi bi-bounding-box-circles"></i> -->
+                            <i class="bi bi-display" aria-hidden="true"></i>
                         </div>
 
                         <div class="invisalign_third_section_card_text">
@@ -435,8 +435,8 @@
 
                         <div class="invisalign_third_section_icon">
 
-                            <i class="bi bi-emoji-smile"></i>
-
+                            <!-- <i class="bi bi-emoji-smile"></i> -->
+                            <img src="./assets/img/icons/smiling-teeth.png" alt="" style="height:60px; width:60px">
                         </div>
 
                         <div class="invisalign_third_section_card_text">

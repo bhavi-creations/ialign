@@ -169,42 +169,48 @@
                     <div class="invisalign_third_section_benefits">
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-shield-plus" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-shield-plus" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/root-canal.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Treat Infection<br>Inside the Tooth                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-heart-pulse" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-heart-pulse" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/gum-assesment.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Address the<br>Source of Pain                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-emoji-smile" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-emoji-smile" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/smiling-teeth.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Help Retain<br>Your Natural Tooth                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-droplet" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-droplet" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/root-canal-step-3.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Thorough Canal<br>Cleaning                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-lock" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-lock" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/root-canal-step-4.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Filled &amp;<br>Sealed Canals                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-gem" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-gem" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/step-5.png" alt="" style="height:60px; width:60px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Protective Final<br>Restoration                                </div>

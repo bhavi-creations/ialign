@@ -175,14 +175,16 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-image" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-image" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/digital-scanning.png" alt="" style="height:50px; width:50px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     X-Ray Based<br>Planning                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-shield-check" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-shield-check" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/widom-teeth-step-2.png" alt="" style="height:50px; width:50px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Appropriate<br>Anaesthesia Options                                </div>

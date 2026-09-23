@@ -169,21 +169,23 @@
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
                                     <!-- <i class="bi bi-eye" aria-hidden="true"></i> -->
-                        <img src="./assets/img/icons/safe.png" alt="" style="width: 30px; height: 30px;">
+                                    <img src="./assets/img/icons/cleaning-step-3.png" alt="" style="width: 50px; height: 50px;">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Visible Biofilm<br>Before Cleaning                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-bullseye" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-bullseye" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/teeth-cleaning-step-4.png" alt="" style="width: 50px; height: 50px;">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Targeted Plaque<br>Removal                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-stars" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-stars" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/teeth-cleaning-step-4.png" alt="" style="width: 50px; height: 50px;">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Surface Stain<br>Management                                </div>
@@ -197,7 +199,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-brush" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-brush" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/Healthy-teeth (1).png" alt="" style="width: 50px; height: 50px;">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Tailored Hygiene<br>Coaching                                </div>

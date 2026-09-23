@@ -169,42 +169,48 @@
                     <div class="invisalign_third_section_benefits">
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-1-circle" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-1-circle" aria-hidden="true"></i> -->
+                            <img src="./assets/img/icons/dental_implants1.png" alt="" style="height:50px; width:50px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Replace One<br>Missing Tooth                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-grid" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-grid" aria-hidden="true"></i> -->
+                            <img src="./assets/img/icons/implant-step-4.png" alt="" style="height:50px; width:50px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Support Multiple<br>Replacement Teeth                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-shield-check" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-shield-check" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/implant-step-3.png" alt="" style="height:50px; width:50px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Stable Support<br>for Restorations                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-bounding-box-circles" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-bounding-box-circles" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/gum-assesment.png" alt="" style="height:50px; width:50px">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Jawbone &amp; Gum<br>Assessment                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-gem" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-gem" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/implant-step-5.png" alt="" style="height:50px; width:50px"> 
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Custom Crown<br>Planning                                </div>
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-brush" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-brush" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/teeth-cleaning-step-5.png" alt="" style="height:50px; width:50px"> 
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Maintenance<br>Guidance                                </div>

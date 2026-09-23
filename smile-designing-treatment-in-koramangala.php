@@ -175,7 +175,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-grid-3x3" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-grid-3x3" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 50px; height: 50px;">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Balanced Tooth<br>Proportions                                </div>
@@ -189,7 +190,8 @@
                             </div>
                                                     <div class="invisalign_third_section_card">
                                 <div class="invisalign_third_section_icon">
-                                    <i class="bi bi-bezier2" aria-hidden="true"></i>
+                                    <!-- <i class="bi bi-bezier2" aria-hidden="true"></i> -->
+                                    <img src="./assets/img/icons/smiling-teeth.png" alt="" style="width: 50px; height: 50px;">
                                 </div>
                                 <div class="invisalign_third_section_card_text">
                                     Gum &amp; Smile<br>Harmony                                </div>
