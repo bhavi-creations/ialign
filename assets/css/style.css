@@ -19017,11 +19017,11 @@
 
     width: 180px;
 
-    background:
+    /* background:
         linear-gradient(90deg,
             rgba(243, 246, 242, 0.93) 0%,
             rgba(240, 244, 240, 0.60) 45%,
-            rgba(240, 244, 240, 0) 100%);
+            rgba(240, 244, 240, 0) 100%); */
 
     pointer-events: none;
 }
