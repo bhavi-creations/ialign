@@ -1041,7 +1041,7 @@
             <div class="doctor_fourth_section_feature">
 
                 <div class="doctor_fourth_section_icon">
-                    <i class="bi bi-gem"></i>
+                    <i class="fas fa-microscope"></i>
                 </div>
 
                 <div class="doctor_fourth_section_text">
@@ -1059,7 +1059,8 @@
             <div class="doctor_fourth_section_feature">
 
                 <div class="doctor_fourth_section_icon">
-                    <i class="bi bi-shield-check"></i>
+                    <!-- <i class="bi bi-shield-check"></i> -->
+                    <img src="./assets/img/icons/safe.png" alt="" style="width: 40px; height: 40px;"> 
                 </div>
 
                 <div class="doctor_fourth_section_text">
@@ -1077,7 +1078,8 @@
             <div class="doctor_fourth_section_feature">
 
                 <div class="doctor_fourth_section_icon">
-                    <i class="bi bi-heart"></i>
+                    <!-- <i class="bi bi-heart"></i> -->
+                    <img src="./assets/img/icons/smiling-teeth.png" alt="" style="width: 40px; height: 40px;"> 
                 </div>
 
                 <div class="doctor_fourth_section_text">

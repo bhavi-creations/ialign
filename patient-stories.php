@@ -75,7 +75,8 @@
                         <div class="patient_stories_first_section_stat">
 
                             <div class="patient_stories_first_section_stat_icon">
-                                <i class="bi bi-heart"></i>
+                                <!-- <i class="bi bi-heart"></i> -->
+                                <i class="bi bi-google"></i> 
                             </div>
 
                             <div class="patient_stories_first_section_stat_content">
