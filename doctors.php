@@ -1041,7 +1041,8 @@
             <div class="doctor_fourth_section_feature">
 
                 <div class="doctor_fourth_section_icon">
-                    <i class="fas fa-microscope"></i>
+                    <img src="./assets/img/icons/robotics.png" alt="Advanced
+Technology" style="width: 40px; height: 40px;">
                 </div>
 
                 <div class="doctor_fourth_section_text">
