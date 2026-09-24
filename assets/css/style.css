@@ -12794,7 +12794,7 @@
 
 
     .treatment_first_section_title {
-        font-size: 51px;
+        font-size: 40px;
     }
 
 
@@ -31985,4 +31985,107 @@
     height: auto !important;
     margin-left: auto !important;
   }
+}
+
+
+
+/* 992px to 1200px / Laptop View - Exact About Us Copy for Patient Stories */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* 1. Parent Row Layout */
+    .patient_stories_first_section_row {
+        display: flex !important;
+        align-items: center !important;
+        min-height: 405px !important;
+    }
+
+    /* 2. Left Content Container */
+    .patient_stories_first_section_left {
+        min-height: auto !important;
+        height: 100% !important;
+    }
+
+    /* 3. Right Side Image Column & Wrapper (Image Visible Setup) */
+    .patient_stories_first_section_right {
+        min-height: auto !important;
+        height: 100% !important;
+    }
+
+    .patient_stories_first_section_image_wrapper {
+        position: relative !important;
+        width: 100% !important;
+        min-height: 350px !important; /* Image wrapper 0px ki collapse avvakunda height isthundi */
+        height: 100% !important;
+        overflow: hidden !important;
+        border-radius: 6px !important;
+    }
+
+    /* 4. Image Display Fix (No stretch, clean object-fit) */
+    .patient_stories_first_section_image {
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        object-position: center !important;
+        opacity: 1 !important;
+        filter: none !important;
+        display: block !important;
+    }
+}
+
+
+
+/* 1400px and Above Devices - Spacing & Container Margin Fix */
+@media (min-width: 1400px) {
+
+    /* 1. Navbar and Section Top/Bottom Spacing */
+    .patient_stories_first_section_container,
+    section.patient_stories_first_section {
+        margin-top: 0px !important;    /* Navbar ki container ki neat gap isthundi */
+        margin-bottom: 0px !important; /* Kindi section ki gap isthundi */
+        padding-top: 3px !important;
+        padding-bottom: 0 !important;
+    }
+
+    /* 2. Main Row & Heights */
+    .patient_stories_first_section_row {
+        align-items: center !important;
+        min-height: 450px !important;
+    }
+
+    /* 3. Columns & Image Wrapper Setup */
+    .patient_stories_first_section_left,
+    .patient_stories_first_section_right,
+    .patient_stories_first_section_image_wrapper {
+        min-height: 450px !important;
+        height: 450px !important;
+    }
+
+    /* 4. Left Content Padding Adjustment */
+    .patient_stories_first_section_left {
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+    }
+}
+
+
+
+/* Left Side Content - Padding & Margins Edge Fit Fix */
+.patient_stories_first_section_left {
+    padding-left: 30px !important;      /* Left edge ki perfectly align chestundi */
+    padding-top: 15px !important;    /* Top extra blank space remove chestundi */
+    padding-bottom: 15px !important; /* Bottom extra space fix chestundi */
+    margin: 0 !important;
+}
+
+/* Inner elements baseline alignment */
+.patient_stories_first_section_content,
+.patient_stories_first_section_left > div {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
 }
