@@ -31941,3 +31941,48 @@
         display: none !important;
     }
 }
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* 1. Main card outer padding thagginchi width create chesam */
+  .contact_second_section_connect {
+    padding-left: 6px !important;  /* Side padding 6px ki thagginchadam valla space bachatundhi */
+    padding-right: 6px !important;
+    overflow: hidden !important;   /* Container bayataku pokunda bounds maintain chestundhi */
+  }
+
+  /* 2. Main quote layout wrapper */
+  .contact_second_section_quote {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    gap: 6px !important;            /* Gap 8px nundi 6px ki thaggincham */
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  /* 3. Quote mark height/size slight adjustment for space */
+  .contact_second_section_quote_mark {
+    font-size: 20px !important;    /* 42px width ekkuva theeskuntundhi kabatti 20px ki set chesa */
+    line-height: 1 !important;
+    flex-shrink: 0 !important;
+  }
+
+  /* 4. Paragraph text formatting without changing font-size */
+  .contact_second_section_quote p {
+    margin: 0 !important;
+    line-height: 1.25 !important;
+    white-space: nowrap !important;
+    flex-shrink: 0 !important;
+  }
+
+  /* 5. Smile icon inside right boundary */
+  .contact_second_section_quote img,
+  .contact_second_section_quote i {
+    display: block !important;
+    flex-shrink: 0 !important;
+    width: 26px !important;         /* Icon width 26px valla container దాటి bayataku podhu */
+    height: auto !important;
+    margin-left: auto !important;
+  }
+}
