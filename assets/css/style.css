@@ -6169,7 +6169,7 @@
 
 
     .index_sixth_section_review {
-        font-size: 18px;
+        font-size: 19px;
     }
 
 }
@@ -19169,7 +19169,7 @@
     .patient_stories_first_section_description {
         margin-top: 25px;
 
-        font-size: 17px;
+        font-size: 20px;
     }
 
 
@@ -20778,12 +20778,12 @@
 
 
     .patient_stories_third_section_description {
-        font-size: 17px;
+        font-size: 22px;
     }
 
 
     .patient_stories_third_section_quote_card p {
-        font-size: 17px;
+        font-size: 19px;
     }
 
 
@@ -31925,7 +31925,7 @@
     }
 
     .patient_stories_first_section_stat_content span {
-        font-size: 13px !important; /* Divider + Icon inside row fit ayye exact size */
+        font-size: 14px !important; /* Divider + Icon inside row fit ayye exact size */
         font-weight: 500 !important;
         white-space: nowrap !important; /* Single line lock */
         line-height: 1.2 !important;
