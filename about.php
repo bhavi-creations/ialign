@@ -109,8 +109,8 @@
                             </div>
 
                             <div class="about_first_section_feature_text">
-                                A Comfortable<br>
-                                &amp; Caring Experience
+                                Comfortable<br>
+                                &amp; Caring
                             </div>
 
                         </div>
