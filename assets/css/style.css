@@ -32089,3 +32089,21 @@
     padding-left: 0 !important;
     margin-left: 0 !important;
 }
+
+
+
+
+/* Doctors Page - Left Content Edge Alignment Fix */
+.doctor_first_section_left {
+    padding-left: 40px !important;       /* Left edge ki perfectly baseline alignment */
+    padding-top: 15px !important;     /* Top unwanted blank space reduction */
+    padding-bottom: 15px !important;  /* Bottom extra spacing fix */
+    margin-left: 0 !important;
+}
+
+/* Sub-elements inside left box zero-margin reset */
+.doctor_first_section_left > div,
+.doctor_first_section_content {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
