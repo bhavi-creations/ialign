@@ -170,7 +170,7 @@
 
 
 
-<section class="treatment_second_section">
+<section class="treatment_second_section my-5">
 
     <div class="container-fluid treatment_second_section_container">
 
