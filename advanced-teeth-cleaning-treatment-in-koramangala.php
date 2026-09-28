@@ -118,7 +118,7 @@
         </div>
     </section>
 
-    <section class="invisalign_second_section">
+    <section class="invisalign_second_section my-5">
         <div class="container-fluid invisalign_second_section_container">
             <div class="row g-0 invisalign_second_section_row">
                 <div class="col-lg-6 invisalign_second_section_left">

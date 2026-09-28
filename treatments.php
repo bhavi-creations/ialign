@@ -135,13 +135,13 @@
 
                 <div class="treatment_first_section_image_wrapper">
 
-                    <img src="assets/img/service_1.png"
+                    <img src="assets/img/doctor-treatment.png"
                          alt="Healthy Dental Smile"
                          class="treatment_first_section_image">
 
 
                     <!-- Handwritten Quote -->
-                    <div class="treatment_first_section_handwriting">
+                    <!-- <div class="treatment_first_section_handwriting">
 
                         <span>Healthy</span>
                         <span>Smiles</span>
@@ -153,7 +153,7 @@
                             <i class="bi bi-heart"></i>
                         </div>
 
-                    </div>
+                    </div> -->
 
 
                 </div>

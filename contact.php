@@ -87,12 +87,12 @@
             ========================================== -->
             <div class="col-lg-7 contact_first_section_right">
                 <div class="contact_first_section_image_wrapper">
-                    <img src="assets/img/11.png"
+                    <img src="assets/img/contact-us.png"
                          alt="IALIGN Signature Dental Care Reception"
                          class="contact_first_section_image">
 
                     <!-- Handwritten Text -->
-                    <div class="contact_first_section_handwriting">
+                    <!-- <div class="contact_first_section_handwriting">
                         <span>Healthy</span>
                         <span>Smiles</span>
                         <span>Brighter</span>
@@ -101,7 +101,7 @@
                             <span>Tomorrows</span>
                             <i class="bi bi-heart"></i>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
@@ -110,7 +110,7 @@
 </section>
 
 
-<section class="contact_second_section">
+<section class="contact_second_section my-5">
     <div class="container-fluid contact_second_section_container">
         <div class="row g-4">
 

@@ -95,17 +95,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <!-- RIGHT IMAGE -->
             <div class="col-lg-7 appointment_first_section_right">
                 <div class="appointment_first_section_image_wrapper">
-                    <img src="assets/img/contact.png" alt="Book Dental Appointment" class="appointment_first_section_image">
+                    <img src="assets/img/appointment-bg.png" alt="Book Dental Appointment" class="appointment_first_section_image">
 
                     <!-- Center Handwriting -->
-                    <div class="appointment_first_section_handwriting_one">
+                    <!-- <div class="appointment_first_section_handwriting_one">
                         <span>Smiles</span>
                         <span>Start Here</span>
                         <i class="bi bi-heart"></i>
-                    </div>
+                    </div> -->
 
                     <!-- Right Handwriting -->
-                    <div class="appointment_first_section_handwriting_two">
+                    <!-- <div class="appointment_first_section_handwriting_two">
                         <span>Healthy</span>
                         <span>Smiles</span>
                         <span>Brighter</span>
@@ -113,7 +113,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <span>Tomorrows</span>
                             <i class="bi bi-heart"></i>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

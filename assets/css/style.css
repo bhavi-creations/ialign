@@ -21413,7 +21413,7 @@
 
 
     .patient_stories_fourth_section_title {
-        font-size: 53px;
+        font-size: 45px;
     }
 
 
@@ -22733,7 +22733,7 @@
 ========================================================= */
 
 .contact_second_section_clinic {
-    width: 100%;
+    width: 90%;
     height: 380px;
 
     position: relative;
@@ -26215,10 +26215,18 @@
 
     text-align: center;
 
-    background:
+    /* background:
         linear-gradient(180deg,
             #ffffff 0%,
+            #fbfbf8 100%); */
+
+  background:
+        linear-gradient(180deg,
+            #bce2cb 0%,
             #fbfbf8 100%);
+
+
+
 
     border:
         1px solid rgba(83, 105, 98, 0.08);
@@ -26231,6 +26239,8 @@
     transition:
         transform 0.3s ease,
         box-shadow 0.3s ease;
+        border:2px solid #174e43;
+        align-items:center;
 }
 
 
@@ -26312,10 +26322,11 @@
 
     background:
         linear-gradient(145deg,
-            #eef3f0,
+        #adf3ca,
             #f7f8f5);
 
     border-radius: 15px;
+    border: 2px solid #123f37;
 }
 
 
@@ -31220,6 +31231,7 @@
     transition: all 0.3s ease-in-out;
     margin-top: 15px; /* Badge top space */
     border: 1px solid #212529;
+  
 }
 
 /* Card Hover State */

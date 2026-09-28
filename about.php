@@ -136,7 +136,7 @@
 
 
                     <!-- RIGHT SIDE TEXT -->
-                    <div class="about_first_section_image_quote">
+                    <!-- <div class="about_first_section_image_quote">
 
                         <span>Smiles</span>
                         <span>Change</span>
@@ -144,7 +144,7 @@
 
                         <div class="about_first_section_quote_line"></div>
 
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -160,7 +160,7 @@
 
 
 
-<section class="about_second_section">
+<section class="about_second_section my-3">
 
     <div class="container-fluid about_second_section_container">
 
@@ -174,7 +174,7 @@
 
                 <div class="about_second_section_image_wrapper">
 
-                    <img src="assets/img/11.png"
+                    <img src="assets/img/about_second_img.png"
                          alt="Modern Dental Clinic"
                          class="about_second_section_image">
 
@@ -340,7 +340,7 @@
                 </p>
 
 
-                <div class="about_third_section_trust_line">
+                <!-- <div class="about_third_section_trust_line">
 
                     <span></span>
 
@@ -348,7 +348,7 @@
                         TRUST &nbsp; • &nbsp; EXPERTISE &nbsp; • &nbsp; BRIGHTER SMILES
                     </p>
 
-                </div>
+                </div> -->
 
             </div>
 
@@ -523,7 +523,7 @@
 
 
 
-<section class="about_fourth_section">
+<section class="about_fourth_section ">
 
     <div class="container-fluid about_fourth_section_container">
 

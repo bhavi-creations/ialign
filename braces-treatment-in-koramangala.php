@@ -90,7 +90,7 @@
                              alt="Orthodontic braces treatment"
                              class="invisalign_first_section_image">
 
-                        <div class="invisalign_first_section_handwriting_one" aria-hidden="true">
+                        <!-- <div class="invisalign_first_section_handwriting_one" aria-hidden="true">
                             <span>Align</span>
                             <span>Balance</span>
                             <span>Transform</span>
@@ -98,14 +98,14 @@
                                 <span>Smile</span>
                                 <i class="bi bi-heart"></i>
                             </div>
-                        </div>
+                        </div> 
 
                         <div class="invisalign_first_section_handwriting_two" aria-hidden="true">
                             <span>Small</span>
                             <span>Moves</span>
                             <span>Big Change</span>
                             <i class="bi bi-heart"></i>
-                        </div>
+                        </div>-->
 
                         <div class="invisalign_first_section_quote_card" aria-hidden="true">
                                                             <span>Your Bite</span>
@@ -119,7 +119,7 @@
         </div>
     </section>
 
-    <section class="invisalign_second_section">
+    <section class="invisalign_second_section my-5">
         <div class="container-fluid invisalign_second_section_container">
             <div class="row g-0 invisalign_second_section_row">
                 <div class="col-lg-6 invisalign_second_section_left">
@@ -142,14 +142,14 @@
                              class="invisalign_second_section_image"
                              loading="lazy">
 
-                        <div class="invisalign_second_section_handwriting" aria-hidden="true">
+                        <!-- <div class="invisalign_second_section_handwriting" aria-hidden="true">
                             <span>Steady</span>
                             <span>Precise</span>
                             <div class="invisalign_second_section_handwriting_last">
                                 <span>Progress</span>
                                 <i class="bi bi-heart"></i>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

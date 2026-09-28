@@ -198,7 +198,7 @@
      PATIENT REVIEWS
 ========================================================= -->
 
-<section class="index_sixth_section">
+<section class="index_sixth_section my-5">
 
     <div class="container-fluid index_sixth_section_container">
 
@@ -830,18 +830,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 <div class="patient_stories_third_section_video">
 
-                    <img src="assets/img/doctor-treatment.png"
+                    <img src="assets/img/treamtne_img.png"
                          alt="Patient Testimonial"
                          class="patient_stories_third_section_video_image">
 
 
                     <!-- HAND WRITTEN TEXT -->
-                    <div class="patient_stories_third_section_video_text">
+                    <!-- <div class="patient_stories_third_section_video_text">
 
                         <span>Patient</span>
                         <span>Speak</span>
 
-                    </div>
+                    </div> -->
 
 
                     <!-- PLAY BUTTON -->
