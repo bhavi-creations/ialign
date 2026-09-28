@@ -32119,3 +32119,69 @@
     padding-left: 0 !important;
     margin-left: 0 !important;
 }
+
+
+/* =========================================================
+   MOBILE FIRST-HERO IMAGES - SHOW FULL IMAGE
+========================================================= */
+
+@media (max-width: 767.98px) {
+    :is(
+        .index_first_section_image_wrapper,
+        .about_first_section_image_wrapper,
+        .treatment_first_section_image_wrapper,
+        .invisalign_first_section_image_wrapper,
+        .appointment_first_section_image_wrapper,
+        .contact_first_section_image_wrapper,
+        .doctor_first_section_image_wrapper,
+        .patient_stories_first_section_image_wrapper
+    ) {
+        min-height: clamp(300px, 78vw, 450px) !important;
+        background: #edf4ef !important;
+    }
+
+    :is(
+        .index_first_section_image,
+        .about_first_section_image,
+        .treatment_first_section_image,
+        .invisalign_first_section_image,
+        .appointment_first_section_image,
+        .contact_first_section_image,
+        .doctor_first_section_image,
+        .patient_stories_first_section_image
+    ) {
+        width: 100% !important;
+        height: 100% !important;
+        max-width: 100% !important;
+        object-fit: contain !important;
+        object-position: center !important;
+    }
+
+    :is(
+        .index_first_section_right,
+        .about_first_section_right,
+        .treatment_first_section_right,
+        .invisalign_first_section_right,
+        .appointment_first_section_right,
+        .contact_first_section_right,
+        .doctor_first_section_right,
+        .patient_stories_first_section_right
+    ) {
+        min-height: clamp(300px, 78vw, 450px) !important;
+    }
+}
+
+@media (max-width: 420px) {
+    :is(
+        .index_first_section_right,
+        .about_first_section_right,
+        .treatment_first_section_right,
+        .invisalign_first_section_right,
+        .appointment_first_section_right,
+        .contact_first_section_right,
+        .doctor_first_section_right,
+        .patient_stories_first_section_right
+    ) {
+        min-height: 290px !important;
+    }
+}
