@@ -338,7 +338,7 @@ Technology" style="width: 40px; height: 40px;">
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/smile-designing.png"
+                        <img src="assets/img/treatments/Smile-designing-squ.png"
                              alt="Smile Designing">
 
                     </div>
@@ -413,7 +413,7 @@ Technology" style="width: 40px; height: 40px;">
 
                     <div class="index_second_section_image_box">
 
-                        <img src="assets/img/treatments/joint-pain-treatment.png"
+                        <img src="assets/img/treatments/tmj.png"
                              alt="TMJ Joint Pain Treatment">
 
                     </div>
