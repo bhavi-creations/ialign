@@ -424,7 +424,7 @@
                     </h3>
 
                     <p>
-                        MDS, M(ORTH) RCPS(Glasgow), UK<br>
+                        MDS, F(Orth) RCPS GLASGOW, UK<br>
                         Orthodontist
                     </p>
 

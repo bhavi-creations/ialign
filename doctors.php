@@ -602,7 +602,7 @@
 
                         <div class="doctor_second_section_qualification">
 
-                            MDS, M(ORTH) RCPS(Glasgow), UK<br>
+                            MDS, F(Orth) RCPS GLASGOW, UK<br>
                             Orthodontist
 
                         </div>
