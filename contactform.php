@@ -35,17 +35,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->SMTPAuth   = true;
         
         // Mee Gmail ID enter cheyandi
-        $mail->Username   = 'sairampachipala00@gmail.com'; 
+        $mail->Username   = 'ialignsignaturedentalcare@gmail.com'; 
         
         // Google Account lo create chesina 16-digit App Password ikkada ivvandi
-        $mail->Password   = 'hetpnbxyctpodhkv'; 
+        $mail->Password   = 'zrybqxtdgxkekmut'; 
         
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
         // Recipient details (Mail evariki vellali)
-        $mail->setFrom('sairampachipala00@gmail.com', 'IALIGN Dental Website');
-        $mail->addAddress('sairampachipala00@gmail.com'); // Admin email (Neeku message raavalani anukune ID)
+        $mail->setFrom('ialignsignaturedentalcare@gmail.com', 'IALIGN Dental Website');
+        $mail->addAddress('ialignsignaturedentalcare@gmail.com'); // Admin email (Neeku message raavalani anukune ID)
         $mail->addReplyTo($email, $full_name);     // Patient Email ID to reply directly
 
         // Content

@@ -31,16 +31,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // ---------------------------------------------------
         // EKKADA MEE EMAIL & APP PASSWORD ENTER CHEYYALI:
         // ---------------------------------------------------
-        $mail->Username   = 'sairampachipala00@gmail.com';             // <-- IKKADA MEE GMAIL ID (Sender Email)
+        $mail->Username   = 'ialignsignaturedentalcare@gmail.com';             // <-- IKKADA MEE GMAIL ID (Sender Email)
         // $mail->Password   = 'your-16-digit-app-password';  IKKADA MEE 16-DIGIT APP PASSWORD 
-        $mail->Password   = 'hetpnbxyctpodhkv'; // <-- IKKADA MEE 16-DIGIT APP PASSWORD 
+        $mail->Password   = 'zrybqxtdgxkekmut'; // <-- IKKADA MEE 16-DIGIT APP PASSWORD 
         
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; 
         $mail->Port       = 587;                          // Port: 587 (TLS) or 465 (SSL)
 
         // Receivers Info
-        $mail->setFrom('sairampachipala00@gmail.com', 'IALIGN Dental Care'); // Sender Email
-        $mail->addAddress('sairampachipala00@gmail.com');               // Mail eh address ki raavalano (Receiver Email)
+        $mail->setFrom('ialignsignaturedentalcare@gmail.com', 'IALIGN Dental Care'); // Sender Email
+        $mail->addAddress('ialignsignaturedentalcare@gmail.com');               // Mail eh address ki raavalano (Receiver Email)
         $mail->addReplyTo($email, $name);                     // Form fill chesina user email
 
         // Mail Content
