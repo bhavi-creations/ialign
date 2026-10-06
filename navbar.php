@@ -21,6 +21,137 @@
 <meta name="keywords" content="Invisalign aligners in Koramangala, clear aligners in Koramangala, root canal treatment in Koramangala, dental implants in Koramangala, teeth cleaning in Koramangala, best dental clinic in Koramangala, best dentist in Koramangala, pediatric dentist in Koramangala, best dental hospital in Koramangala, paedodontist in Koramangala, wisdom tooth removal in Koramangala">
 
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dentist",
+      "@id": "https://ialignsignaturedentalcare.com/#dentist",
+      "name": "IALiGN Signature Dental Care",
+      "url": "https://ialignsignaturedentalcare.com/",
+      "telephone": "+91 990 268 6388",
+      "priceRange": "$$",
+      "description": "IALiGN Signature Dental Care provides advanced and personalized dental treatments including dental implants, Invisalign and aligners, braces, root canal treatment, wisdom teeth removal, teeth cleaning, smile designing, veneers, laser gum treatment and TMJ treatment in Koramangala, Bangalore.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#486, Ground Floor, 12th Main Road, Near BSNL Telephone Exchange, Koramangala 4th Block",
+        "addressLocality": "Bangalore",
+        "postalCode": "560034",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Koramangala"
+        },
+        {
+          "@type": "City",
+          "name": "Bangalore"
+        }
+      ],
+      "medicalSpecialty": "Dentistry",
+      "availableService": [
+        {
+          "@type": "MedicalProcedure",
+          "name": "Dental Implants"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Root Canal Treatment"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Wisdom Teeth Removal"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Braces"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Invisalign and Clear Aligners"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Advanced Teeth Cleaning"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Smile Designing"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Veneers"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Laser Gum Treatment"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "TMJ Treatment"
+        }
+      ],
+      "employee": [
+        {
+          "@type": "Person",
+          "name": "Dr. Sridhar K R",
+          "jobTitle": "Oral and Maxillofacial Surgeon"
+        },
+        {
+          "@type": "Person",
+          "name": "Dr. P Aparna",
+          "jobTitle": "Orthodontist"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ialignsignaturedentalcare.com/#website",
+      "url": "https://ialignsignaturedentalcare.com/",
+      "name": "IALiGN Signature Dental Care",
+      "publisher": {
+        "@id": "https://ialignsignaturedentalcare.com/#dentist"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://ialignsignaturedentalcare.com/#webpage",
+      "url": "https://ialignsignaturedentalcare.com/",
+      "name": "Dental Clinic in Koramangala, Bangalore | IALiGN Signature Dental Care",
+      "isPartOf": {
+        "@id": "https://ialignsignaturedentalcare.com/#website"
+      },
+      "about": {
+        "@id": "https://ialignsignaturedentalcare.com/#dentist"
+      },
+      "mainEntity": {
+        "@id": "https://ialignsignaturedentalcare.com/#dentist"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://ialignsignaturedentalcare.com/#dr-sridhar",
+      "name": "Dr. Sridhar K R",
+      "jobTitle": "Oral and Maxillofacial Surgeon",
+      "worksFor": {
+        "@id": "https://ialignsignaturedentalcare.com/#dentist"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://ialignsignaturedentalcare.com/#dr-aparna",
+      "name": "Dr. P Aparna",
+      "jobTitle": "Orthodontist",
+      "worksFor": {
+        "@id": "https://ialignsignaturedentalcare.com/#dentist"
+      }
+    }
+  ]
+}
+</script>
 
 </head>
 <body>

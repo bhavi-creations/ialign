@@ -40,3 +40,4 @@ $escapeMeta = static function ($value) {
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="<?= $escapeMeta($metaTitle) ?>">
     <meta name="twitter:description" content="<?= $escapeMeta($metaDescription) ?>">
+    <link rel="canonical" href="https://ialignsignaturedentalcare.com/" />
