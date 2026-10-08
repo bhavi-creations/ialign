@@ -126,7 +126,7 @@
                              alt="IALIGN Signature Dental Care Location" class="img-fluid">
 
                         <!-- GET DIRECTIONS -->
-                        <a href="https://maps.app.goo.gl/gG6Gdt4gjEKt639m8" target="_blank"
+                        <a href="https://www.google.com/maps/dir/?api=1&destination=iALIGN+Signature+Dental+Care+486+12th+Main+Rd+4th+Block+Koramangala+Bengaluru" target="_blank"
                            class="contact_second_section_direction">
                             <i class="bi bi-geo-alt-fill"></i>
                             <span>Get Directions</span>

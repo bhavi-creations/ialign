@@ -19462,7 +19462,7 @@
         /* background:
             rgba(247, 248, 245, 0.62); */
 
-        backdrop-filter: blur(3px);
+        /* backdrop-filter: blur(3px); */
 
         border-radius: 12px;
     }

@@ -297,10 +297,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             Koramangala 4th Block,<br>
                             Bangalore 560 034.
                         </p>
-                        <a href="https://maps.app.goo.gl/84v8D8kZjPxFVNVt6" target="_blank" class="appointment_second_section_direction">
-                            <span>Get Directions</span>
+                        <a href="https://www.google.com/maps/dir/?api=1&destination=iALIGN+Signature+Dental+Care+486+12th+Main+Rd+4th+Block+Koramangala+Bengaluru" target="_blank" class="appointment_second_section_direction">
+                           <span>Get Directions</span>
                             <i class="bi bi-arrow-right"></i>
-                        </a>
+                       </a>
                     </div>
                 </div>
             </div>
