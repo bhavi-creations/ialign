@@ -324,10 +324,10 @@
                                 </p>
 
                                 <div class="contact_second_section_socials">
-                                    <a href="https://www.instagram.com/ialignsignaturedentalcare/" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-                                    <a href="https://www.facebook.com/IalignSignatureDentalCare/" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
-                                    <a href="https://www.youtube.com/@IALiGNSignaturedentalcare" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
-                                    <a href="https://maps.app.goo.gl/84v8D8kZjPxFVNVt6" aria-label="Location"><i class="bi bi-geo-alt-fill"></i></a>
+                                    <a href="https://www.instagram.com/ialignsignaturedentalcare/" target="_blank" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+                                    <a href="https://www.facebook.com/IalignSignatureDentalCare/" target="_blank" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+                                    <a href="https://www.youtube.com/@IALiGNSignaturedentalcare" target="_blank" aria-label="YouTube"><i class="bi bi-youtube"></i></a>
+                                    <a href="https://maps.app.goo.gl/84v8D8kZjPxFVNVt6" target="_blank" aria-label="Location"><i class="bi bi-geo-alt-fill"></i></a>
                                 </div>
 
                                 <div class="contact_second_section_quote">

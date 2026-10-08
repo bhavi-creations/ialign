@@ -180,7 +180,7 @@
 
 
                     <!-- IMAGE OVERLAY CARD -->
-                    <div class="about_second_section_image_card">
+                    <!-- <div class="about_second_section_image_card">
 
                         <div class="about_second_section_image_card_icon">
                             <i class="bi bi-heart-pulse"></i>
@@ -192,7 +192,7 @@
                             for Precise Care
                         </div>
 
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -364,7 +364,7 @@
                     <img src="assets/img/doctor2.png"
                          alt="Dr. Sridhar K R">
 
-                    <div class="about_third_section_image_curve"></div>
+                    <!-- <div class="about_third_section_image_curve"></div> -->
 
                     <div class="about_third_section_image_leaf"></div>
 
@@ -410,7 +410,7 @@
                     <img src="assets/img/doctor1.png"
                          alt="Dr. P Aparna">
 
-                    <div class="about_third_section_image_curve"></div>
+                    <!-- <div class="about_third_section_image_curve"></div> -->
 
                     <div class="about_third_section_image_leaf"></div>
 
